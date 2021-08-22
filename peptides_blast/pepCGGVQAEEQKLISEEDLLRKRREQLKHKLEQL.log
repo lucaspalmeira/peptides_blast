@@ -1,0 +1,869 @@
+<p><!--
+QBlastInfoBegin
+	Status=READY
+QBlastInfoEnd
+--><p>
+<PRE>
+BLASTP 2.12.0+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro
+A. Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and
+David J. Lipman (1997), "Gapped BLAST and PSI-BLAST: a new
+generation of protein database search programs", Nucleic
+Acids Res. 25:3389-3402.
+
+
+Reference for compositional score matrix adjustment: Stephen
+F. Altschul, John C. Wootton, E. Michael Gertz, Richa
+Agarwala, Aleksandr Morgulis, Alejandro A. Schaffer, and
+Yi-Kuo Yu (2005) "Protein database searches using
+compositionally adjusted substitution matrices", FEBS J.
+272:5101-5109.
+
+
+RID: J3GFHUU2013
+
+
+Database: PDB protein database
+           131,049 sequences; 34,897,192 total letters
+Query= 
+Length=32
+
+
+                                                                   Score     E     Max
+Sequences producing significant alignments:                       (Bits)  Value  Ident
+
+1A93_A NMR SOLUTION STRUCTURE OF THE C-MYC-MAX HETERODIMERIC L...  61.6    3e-15  100%        
+6G6J_A The crystal structures of Human MYC:MAX bHLHZip complex...  55.8    2e-12  97%         
+1NKP_A Crystal structure of Myc-Max recognizing DNA [Homo sapi...  55.1    4e-12  97%         
+5I4Z_A Structure of apo OmoMYC [Homo sapiens]                      47.4    6e-09  83%         
+6LDX_H Chain H, Fab Heavy chain [Oryctolagus cuniculus]            26.6    0.60   71%         
+6LDY_A Chain A, Fab heavy chain [Oryctolagus cuniculus]            26.6    0.60   71%         
+6LDV_H Chain H, Fab heavy chain [Oryctolagus cuniculus]            26.6    0.60   71%         
+6LDW_B Chain B, Fab heavy chain [Oryctolagus cuniculus]            26.6    0.60   71%         
+6URU_A iAChSnFR Fluorescent Acetylcholine Sensor precursor [Es...  26.2    0.81   79%         
+6LDY_B Chain B, Fab light chain [Oryctolagus cuniculus]            26.2    0.85   75%         
+6LDV_L Chain L, Fab light chain [Oryctolagus cuniculus]            26.2    0.85   75%         
+6LDX_L Chain L, Fab light chain [Oryctolagus cuniculus]            26.2    0.85   75%         
+6LDW_A Chain A, Fab light chain [Oryctolagus cuniculus]            26.2    0.85   75%         
+1F3R_B COMPLEX BETWEEN FV ANTIBODY FRAGMENT AND AN ANALOGUE OF...  26.2    1.0    79%         
+5DR5_H Crystal structure of the sclerostin-neutralizing Fab Ab...  25.8    1.1    80%         
+4NBX_B Chain B, A20.1 Vhh [Lama glama]                             25.8    1.2    85%         
+4XL5_A X-ray structure of bGFP-A / EGFP complex [Aequorea vict...  25.8    1.5    80%         
+3ZL4_L Antibody structural organization: Role of kappa - lambd...  25.4    1.8    57%         
+4V1D_E Ternary complex among two human derived single chain an...  25.0    2.1    92%         
+6KR0_A Crystal structure of HL homo-diabody [Homo sapiens]         25.0    2.1    92%         
+1QOK_A MFE-23 AN ANTI-CARCINOEMBRYONIC ANTIGEN SINGLE-CHAIN FV...  25.0    2.1    92%         
+3FKU_S Crystal structure of influenza hemagglutinin (H5) in co...  25.0    2.1    92%         
+1B6U_A CRYSTAL STRUCTURE OF THE HUMAN KILLER CELL INHIBITORY R...  25.0    2.1    92%         
+1NQB_A Trivalent Antibody Fragment [Mus musculus]                  25.0    2.1    92%         
+1DZB_A Crystal structure of phage library-derived single-chain...  25.0    2.1    92%         
+7D2Z_A Chain A, SR31 against SARS-CoV-2 RBD, non neutralizing ...  25.0    2.3    85%         
+7C8V_A Chain A, Synthetic nanobody SR4 [synthetic construct]       25.0    2.3    85%         
+6LZ2_B Crystal structure of a thermostable green fluorescent p...  25.0    2.4    85%         
+6POJ_A STRUCTURAL REFINEMENT OF AQUAPORIN 1 VIA SSNMR [Homo sa...  25.0    2.7    85%         
+7D30_A Chain A, sybody fusion of MR17-SR31 with a GS linker [s...  24.6    2.9    85%         
+3ZM8_A Crystal structure of Podospora anserina GH26-CBM35 beta...  24.6    2.9    69%         
+1AR1_D Structure at 2.7 Angstrom Resolution of the Paracoccus ...  24.6    3.1    65%         
+3ZIZ_A Crystal structure of Podospora anserina GH5 beta-(1,4)-...  24.6    3.4    83%         
+4G4G_A Crystal structure of recombinant glucuronoyl esterase f...  24.3    4.2    92%         
+4G4I_A Crystal structure of glucuronoyl esterase S213A mutant ...  24.3    4.2    92%         
+6SVL_A human Myeloid-derived growth factor (MYDGF) in complex ...  24.3    4.2    77%         
+3NOX_A Crystal structure of human DPP-IV in complex with Sa-(+...  24.3    4.2    65%         
+1G5G_A Chain A, FUSION PROTEIN [Avian orthoavulavirus 1]           24.3    4.3    83%         
+6VEP_C Human insulin in complex with the human insulin microre...  24.3    4.3    83%         
+7NKT_BBB Chain BBB, neutralizing nanobody NM1226 [Vicugna pacos]   24.3    4.3    83%         
+3WC3_A Chain A, Endo-1, 4-beta-glucanase [Eisenia fetida]          24.3    4.4    83%         
+3R0M_A Crystal structure of anti-HIV llama VHH antibody A12 [L...  24.3    4.4    83%         
+6VWG_A Head region of the open conformation of the human type ...  24.3    4.8    69%         
+2YBR_B Crystal structure of the human derived single chain ant...  24.3    4.9    92%         
+7CAN_A Chain A, sybody MR17-K99Y [synthetic construct]             24.3    5.1    85%         
+4ZH0_A Structure of Helicobacter pylori adhesin BabA determine...  23.9    6.1    83%         
+4ZH7_A Structural basis of Lewisb antigen binding by the Helic...  23.9    6.1    83%         
+3BN9_D Crystal Structure of MT-SP1 in complex with Fab Inhibit...  23.9    6.1    100%        
+6W7S_H Ketoreductase from module 1 of the 6-deoxyerythronolide...  23.9    6.1    100%        
+7KRA_I Cryo-EM structure of Saccharomyces cerevisiae ER membra...  23.9    6.1    100%        
+
+ALIGNMENTS
+>1A93_A NMR SOLUTION STRUCTURE OF THE C-MYC-MAX HETERODIMERIC LEUCINE 
+ZIPPER, NMR, MINIMIZED AVERAGE STRUCTURE [Homo sapiens]
+ 2A93_A NMR SOLUTION STRUCTURE OF THE C-MYC-MAX HETERODIMERIC LEUCINE 
+ZIPPER, 40 STRUCTURES [synthetic construct]
+Length=34
+
+ Score = 61.6 bits (148),  Expect = 3e-15, Method: Compositional matrix adjust.
+ Identities = 32/32 (100%), Positives = 32/32 (100%), Gaps = 0/32 (0%)
+
+Query  1   CGGVQAEEQKLISEEDLLRKRREQLKHKLEQL  32
+           CGGVQAEEQKLISEEDLLRKRREQLKHKLEQL
+Sbjct  2   CGGVQAEEQKLISEEDLLRKRREQLKHKLEQL  33
+
+
+>6G6J_A The crystal structures of Human MYC:MAX bHLHZip complex [Homo 
+sapiens]
+ 6G6J_C The crystal structures of Human MYC:MAX bHLHZip complex [Homo 
+sapiens]
+ 6G6K_A The crystal structures of Human MYC:MAX bHLHZip complex [Homo 
+sapiens]
+ 6G6K_C The crystal structures of Human MYC:MAX bHLHZip complex [Homo 
+sapiens]
+ 6G6L_A The crystal structures of Human MYC:MAX bHLHZip complex [Homo 
+sapiens]
+ 6G6L_C The crystal structures of Human MYC:MAX bHLHZip complex [Homo 
+sapiens]
+ 6G6L_E The crystal structures of Human MYC:MAX bHLHZip complex [Homo 
+sapiens]
+ 6G6L_G The crystal structures of Human MYC:MAX bHLHZip complex [Homo 
+sapiens]
+Length=94
+
+ Score = 55.8 bits (133),  Expect = 2e-12, Method: Compositional matrix adjust.
+ Identities = 29/30 (97%), Positives = 29/30 (97%), Gaps = 0/30 (0%)
+
+Query  3   GVQAEEQKLISEEDLLRKRREQLKHKLEQL  32
+            VQAEEQKLISEEDLLRKRREQLKHKLEQL
+Sbjct  62  SVQAEEQKLISEEDLLRKRREQLKHKLEQL  91
+
+
+>1NKP_A Crystal structure of Myc-Max recognizing DNA [Homo sapiens]
+ 1NKP_D Crystal structure of Myc-Max recognizing DNA [Homo sapiens]
+Length=88
+
+ Score = 55.1 bits (131),  Expect = 4e-12, Method: Compositional matrix adjust.
+ Identities = 29/30 (97%), Positives = 29/30 (97%), Gaps = 0/30 (0%)
+
+Query  3   GVQAEEQKLISEEDLLRKRREQLKHKLEQL  32
+            VQAEEQKLISEEDLLRKRREQLKHKLEQL
+Sbjct  56  SVQAEEQKLISEEDLLRKRREQLKHKLEQL  85
+
+
+>5I4Z_A Structure of apo OmoMYC [Homo sapiens]
+ 5I4Z_B Structure of apo OmoMYC [Homo sapiens]
+ 5I50_A Structure of OmoMYC bound to double-stranded DNA [Homo sapiens]
+ 5I50_B Structure of OmoMYC bound to double-stranded DNA [Homo sapiens]
+Length=118
+
+ Score = 47.4 bits (111),  Expect = 6e-09, Method: Compositional matrix adjust.
+ Identities = 25/30 (83%), Positives = 26/30 (87%), Gaps = 0/30 (0%)
+
+Query  3    GVQAEEQKLISEEDLLRKRREQLKHKLEQL  32
+             VQAE QKLISE DLLRK+ EQLKHKLEQL
+Sbjct  84   SVQAETQKLISEIDLLRKQNEQLKHKLEQL  113
+
+
+>6LDX_H Chain H, Fab Heavy chain [Oryctolagus cuniculus]
+Length=243
+
+ Score = 26.6 bits (57),  Expect = 0.60, Method: Composition-based stats.
+ Identities = 12/17 (71%), Positives = 12/17 (71%), Gaps = 0/17 (0%)
+
+Query  1    CGGVQAEEQKLISEEDL  17
+            C    A EQKLISEEDL
+Sbjct  216  CSKPAAAEQKLISEEDL  232
+
+
+>6LDY_A Chain A, Fab heavy chain [Oryctolagus cuniculus]
+ 6LDY_H Chain H, Fab heavy chain [Oryctolagus cuniculus]
+Length=241
+
+ Score = 26.6 bits (57),  Expect = 0.60, Method: Composition-based stats.
+ Identities = 12/17 (71%), Positives = 12/17 (71%), Gaps = 0/17 (0%)
+
+Query  1    CGGVQAEEQKLISEEDL  17
+            C    A EQKLISEEDL
+Sbjct  214  CSKPAAAEQKLISEEDL  230
+
+
+>6LDV_H Chain H, Fab heavy chain [Oryctolagus cuniculus]
+Length=241
+
+ Score = 26.6 bits (57),  Expect = 0.60, Method: Composition-based stats.
+ Identities = 12/17 (71%), Positives = 12/17 (71%), Gaps = 0/17 (0%)
+
+Query  1    CGGVQAEEQKLISEEDL  17
+            C    A EQKLISEEDL
+Sbjct  214  CSKPAAAEQKLISEEDL  230
+
+
+>6LDW_B Chain B, Fab heavy chain [Oryctolagus cuniculus]
+ 6LDW_H Chain H, Fab heavy chain [Oryctolagus cuniculus]
+Length=239
+
+ Score = 26.6 bits (57),  Expect = 0.60, Method: Composition-based stats.
+ Identities = 12/17 (71%), Positives = 12/17 (71%), Gaps = 0/17 (0%)
+
+Query  1    CGGVQAEEQKLISEEDL  17
+            C    A EQKLISEEDL
+Sbjct  212  CSKPAAAEQKLISEEDL  228
+
+
+>6URU_A iAChSnFR Fluorescent Acetylcholine Sensor precursor [Escherichia 
+coli]
+ 6URU_B iAChSnFR Fluorescent Acetylcholine Sensor precursor [Escherichia 
+coli]
+Length=558
+
+ Score = 26.2 bits (56),  Expect = 0.81, Method: Composition-based stats.
+ Identities = 11/14 (79%), Positives = 13/14 (93%), Gaps = 0/14 (0%)
+
+Query  4    VQAEEQKLISEEDL  17
+            +Q +EQKLISEEDL
+Sbjct  544  LQVDEQKLISEEDL  557
+
+
+>6LDY_B Chain B, Fab light chain [Oryctolagus cuniculus]
+ 6LDY_L Chain L, Fab light chain [Oryctolagus cuniculus]
+Length=240
+
+ Score = 26.2 bits (56),  Expect = 0.85, Method: Composition-based stats.
+ Identities = 12/16 (75%), Positives = 12/16 (75%), Gaps = 0/16 (0%)
+
+Query  2    GGVQAEEQKLISEEDL  17
+            G   A EQKLISEEDL
+Sbjct  214  GDCAAAEQKLISEEDL  229
+
+
+>6LDV_L Chain L, Fab light chain [Oryctolagus cuniculus]
+Length=239
+
+ Score = 26.2 bits (56),  Expect = 0.85, Method: Composition-based stats.
+ Identities = 12/16 (75%), Positives = 12/16 (75%), Gaps = 0/16 (0%)
+
+Query  2    GGVQAEEQKLISEEDL  17
+            G   A EQKLISEEDL
+Sbjct  213  GDCAAAEQKLISEEDL  228
+
+
+>6LDX_L Chain L, Fab light chain [Oryctolagus cuniculus]
+Length=238
+
+ Score = 26.2 bits (56),  Expect = 0.85, Method: Composition-based stats.
+ Identities = 12/16 (75%), Positives = 12/16 (75%), Gaps = 0/16 (0%)
+
+Query  2    GGVQAEEQKLISEEDL  17
+            G   A EQKLISEEDL
+Sbjct  212  GDCAAAEQKLISEEDL  227
+
+
+>6LDW_A Chain A, Fab light chain [Oryctolagus cuniculus]
+ 6LDW_L Chain L, Fab light chain [Oryctolagus cuniculus]
+Length=238
+
+ Score = 26.2 bits (56),  Expect = 0.85, Method: Composition-based stats.
+ Identities = 12/16 (75%), Positives = 12/16 (75%), Gaps = 0/16 (0%)
+
+Query  2    GGVQAEEQKLISEEDL  17
+            G   A EQKLISEEDL
+Sbjct  212  GDCAAAEQKLISEEDL  227
+
+
+>1F3R_B COMPLEX BETWEEN FV ANTIBODY FRAGMENT AND AN ANALOGUE OF THE MAIN 
+IMMUNOGENIC REGION OF THE ACETYLCHOLINE RECEPTOR [Rattus 
+norvegicus]
+Length=257
+
+ Score = 26.2 bits (56),  Expect = 1.0, Method: Composition-based stats.
+ Identities = 11/14 (79%), Positives = 13/14 (93%), Gaps = 0/14 (0%)
+
+Query  4    VQAEEQKLISEEDL  17
+            ++A EQKLISEEDL
+Sbjct  243  LKAAEQKLISEEDL  256
+
+
+>5DR5_H Crystal structure of the sclerostin-neutralizing Fab AbD09097 
+[Homo sapiens]
+Length=248
+
+ Score = 25.8 bits (55),  Expect = 1.1, Method: Composition-based stats.
+ Identities = 12/15 (80%), Positives = 12/15 (80%), Gaps = 0/15 (0%)
+
+Query  3    GVQAEEQKLISEEDL  17
+            G  A EQKLISEEDL
+Sbjct  224  GSGAPEQKLISEEDL  238
+
+
+>4NBX_B Chain B, A20.1 Vhh [Lama glama]
+ 4NBY_B Crystal Structure of TcdA-A2 Bound to Two Molecules of A20.1 
+VHH [Lama glama]
+ 4NBY_C Crystal Structure of TcdA-A2 Bound to Two Molecules of A20.1 
+VHH [Lama glama]
+ 4NC1_C Crystal Structure of TcdA-A2 Bound to A20.1 VHH and A26.8 VHH 
+[Lama glama]
+ 4NC1_D Crystal Structure of TcdA-A2 Bound to A20.1 VHH and A26.8 VHH 
+[Lama glama]
+Length=154
+
+ Score = 25.8 bits (55),  Expect = 1.2, Method: Composition-based stats.
+ Identities = 11/13 (85%), Positives = 11/13 (85%), Gaps = 0/13 (0%)
+
+Query  5    QAEEQKLISEEDL  17
+            Q  EQKLISEEDL
+Sbjct  135  QGSEQKLISEEDL  147
+
+
+>4XL5_A X-ray structure of bGFP-A / EGFP complex [Aequorea victoria]
+ 4XVP_A X-ray structure of bGFP-C / EGFP complex [Aequorea victoria]
+ 4XVP_B X-ray structure of bGFP-C / EGFP complex [Aequorea victoria]
+ 4XVP_C X-ray structure of bGFP-C / EGFP complex [Aequorea victoria]
+Length=272
+
+ Score = 25.8 bits (55),  Expect = 1.5, Method: Composition-based stats.
+ Identities = 12/15 (80%), Positives = 12/15 (80%), Gaps = 0/15 (0%)
+
+Query  3    GVQAEEQKLISEEDL  17
+            G  A EQKLISEEDL
+Sbjct  258  GSGASEQKLISEEDL  272
+
+
+>3ZL4_L Antibody structural organization: Role of kappa - lambda chain 
+constant domain switch in catalytic functionality [Homo sapiens]
+Length=247
+
+ Score = 25.4 bits (54),  Expect = 1.8, Method: Composition-based stats.
+ Identities = 13/23 (57%), Positives = 14/23 (61%), Gaps = 6/23 (26%)
+
+Query  1    CGGVQAE------EQKLISEEDL  17
+            C G+ A       EQKLISEEDL
+Sbjct  214  CSGIDAAAAASFLEQKLISEEDL  236
+
+
+>4V1D_E Ternary complex among two human derived single chain antibody 
+fragments and Cn2 toxin from scorpion Centruroides noxius. 
+[Homo sapiens]
+Length=149
+
+ Score = 25.0 bits (53),  Expect = 2.1, Method: Composition-based stats.
+ Identities = 11/12 (92%), Positives = 11/12 (92%), Gaps = 0/12 (0%)
+
+Query  6    AEEQKLISEEDL  17
+            A EQKLISEEDL
+Sbjct  128  AAEQKLISEEDL  139
+
+
+>6KR0_A Crystal structure of HL homo-diabody [Homo sapiens]
+ 6KR0_B Crystal structure of HL homo-diabody [Homo sapiens]
+ 6KR0_C Crystal structure of HL homo-diabody [Homo sapiens]
+ 6KR0_D Crystal structure of HL homo-diabody [Homo sapiens]
+Length=290
+
+ Score = 25.0 bits (53),  Expect = 2.1, Method: Composition-based stats.
+ Identities = 11/12 (92%), Positives = 11/12 (92%), Gaps = 0/12 (0%)
+
+Query  6    AEEQKLISEEDL  17
+            A EQKLISEEDL
+Sbjct  264  AAEQKLISEEDL  275
+
+
+>1QOK_A MFE-23 AN ANTI-CARCINOEMBRYONIC ANTIGEN SINGLE-CHAIN FV ANTIBODY 
+[Mus musculus]
+Length=282
+
+ Score = 25.0 bits (53),  Expect = 2.1, Method: Composition-based stats.
+ Identities = 11/12 (92%), Positives = 11/12 (92%), Gaps = 0/12 (0%)
+
+Query  6    AEEQKLISEEDL  17
+            A EQKLISEEDL
+Sbjct  270  AAEQKLISEEDL  281
+
+
+>3FKU_S Crystal structure of influenza hemagglutinin (H5) in complex 
+with a broadly neutralizing antibody F10 [Homo sapiens]
+ 3FKU_T Crystal structure of influenza hemagglutinin (H5) in complex 
+with a broadly neutralizing antibody F10 [Homo sapiens]
+ 3FKU_U Crystal structure of influenza hemagglutinin (H5) in complex 
+with a broadly neutralizing antibody F10 [Homo sapiens]
+ 3FKU_X Crystal structure of influenza hemagglutinin (H5) in complex 
+with a broadly neutralizing antibody F10 [Homo sapiens]
+ 3FKU_Y Crystal structure of influenza hemagglutinin (H5) in complex 
+with a broadly neutralizing antibody F10 [Homo sapiens]
+ 3FKU_Z Crystal structure of influenza hemagglutinin (H5) in complex 
+with a broadly neutralizing antibody F10 [Homo sapiens]
+Length=280
+
+ Score = 25.0 bits (53),  Expect = 2.1, Method: Composition-based stats.
+ Identities = 11/12 (92%), Positives = 11/12 (92%), Gaps = 0/12 (0%)
+
+Query  6    AEEQKLISEEDL  17
+            A EQKLISEEDL
+Sbjct  259  AAEQKLISEEDL  270
+
+
+>1B6U_A CRYSTAL STRUCTURE OF THE HUMAN KILLER CELL INHIBITORY RECEPTOR 
+(KIR2DL3) SPECIFIC FOR HLA-CW3 RELATED ALLELES [Homo sapiens]
+Length=257
+
+ Score = 25.0 bits (53),  Expect = 2.1, Method: Composition-based stats.
+ Identities = 11/12 (92%), Positives = 11/12 (92%), Gaps = 0/12 (0%)
+
+Query  6    AEEQKLISEEDL  17
+            A EQKLISEEDL
+Sbjct  226  AAEQKLISEEDL  237
+
+
+>1NQB_A Trivalent Antibody Fragment [Mus musculus]
+ 1NQB_C Trivalent Antibody Fragment [Mus musculus]
+Length=256
+
+ Score = 25.0 bits (53),  Expect = 2.1, Method: Composition-based stats.
+ Identities = 11/12 (92%), Positives = 11/12 (92%), Gaps = 0/12 (0%)
+
+Query  6    AEEQKLISEEDL  17
+            A EQKLISEEDL
+Sbjct  235  AAEQKLISEEDL  246
+
+
+>1DZB_A Crystal structure of phage library-derived single-chain Fv fragment 
+1F9 in complex with turkey egg-white lysozyme [Mus musculus]
+ 1DZB_B Crystal structure of phage library-derived single-chain Fv fragment 
+1F9 in complex with turkey egg-white lysozyme [Mus musculus]
+Length=253
+
+ Score = 25.0 bits (53),  Expect = 2.1, Method: Composition-based stats.
+ Identities = 11/12 (92%), Positives = 11/12 (92%), Gaps = 0/12 (0%)
+
+Query  6    AEEQKLISEEDL  17
+            A EQKLISEEDL
+Sbjct  241  AAEQKLISEEDL  252
+
+
+>7D2Z_A Chain A, SR31 against SARS-CoV-2 RBD, non neutralizing [synthetic 
+construct]
+Length=144
+
+ Score = 25.0 bits (53),  Expect = 2.3, Method: Composition-based stats.
+ Identities = 11/13 (85%), Positives = 12/13 (92%), Gaps = 0/13 (0%)
+
+Query  5    QAEEQKLISEEDL  17
+            +A EQKLISEEDL
+Sbjct  121  RAGEQKLISEEDL  133
+
+
+>7C8V_A Chain A, Synthetic nanobody SR4 [synthetic construct]
+Length=144
+
+ Score = 25.0 bits (53),  Expect = 2.3, Method: Composition-based stats.
+ Identities = 11/13 (85%), Positives = 12/13 (92%), Gaps = 0/13 (0%)
+
+Query  5    QAEEQKLISEEDL  17
+            +A EQKLISEEDL
+Sbjct  121  RAGEQKLISEEDL  133
+
+
+>6LZ2_B Crystal structure of a thermostable green fluorescent protein 
+(TGP) with a synthetic nanobody (Sb44) [Lama glama]
+ 6LZ2_D Crystal structure of a thermostable green fluorescent protein 
+(TGP) with a synthetic nanobody (Sb44) [Lama glama]
+Length=144
+
+ Score = 25.0 bits (53),  Expect = 2.4, Method: Composition-based stats.
+ Identities = 11/13 (85%), Positives = 12/13 (92%), Gaps = 0/13 (0%)
+
+Query  5    QAEEQKLISEEDL  17
+            +A EQKLISEEDL
+Sbjct  121  RAGEQKLISEEDL  133
+
+
+>6POJ_A STRUCTURAL REFINEMENT OF AQUAPORIN 1 VIA SSNMR [Homo sapiens]
+Length=292
+
+ Score = 25.0 bits (53),  Expect = 2.7, Method: Composition-based stats.
+ Identities = 11/13 (85%), Positives = 12/13 (92%), Gaps = 0/13 (0%)
+
+Query  5    QAEEQKLISEEDL  17
+            +A EQKLISEEDL
+Sbjct  269  KALEQKLISEEDL  281
+
+
+>7D30_A Chain A, sybody fusion of MR17-SR31 with a GS linker [synthetic 
+construct]
+Length=298
+
+ Score = 24.6 bits (52),  Expect = 2.9, Method: Composition-based stats.
+ Identities = 11/13 (85%), Positives = 12/13 (92%), Gaps = 0/13 (0%)
+
+Query  5    QAEEQKLISEEDL  17
+            +A EQKLISEEDL
+Sbjct  275  RAGEQKLISEEDL  287
+
+
+>3ZM8_A Crystal structure of Podospora anserina GH26-CBM35 beta-(1,4)- 
+mannanase [Podospora anserina S mat+]
+Length=475
+
+ Score = 24.6 bits (52),  Expect = 2.9, Method: Composition-based stats.
+ Identities = 11/16 (69%), Positives = 12/16 (75%), Gaps = 0/16 (0%)
+
+Query  2    GGVQAEEQKLISEEDL  17
+            G    +EQKLISEEDL
+Sbjct  449  GWRSGDEQKLISEEDL  464
+
+
+>1AR1_D Structure at 2.7 Angstrom Resolution of the Paracoccus Denitrificans 
+two-subunit Cytochrome C Oxidase Complexed with an Antibody 
+Fv Fragment [Mus musculus]
+ 1MQK_L Crystal structure of the unliganded Fv-fragment of the anti-cytochrome 
+C oxidase antibody 7E2 [Mus musculus]
+ 3EHB_D A D-Pathway Mutation Decouples the Paracoccus Denitrificans Cytochrome 
+c Oxidase by Altering the side chain orientation of 
+a distant, conserved Glutamate [Mus musculus]
+ 3HB3_D High resolution crystal structure of Paracoccus denitrificans 
+cytochrome c oxidase [Mus musculus]
+Length=120
+
+ Score = 24.6 bits (52),  Expect = 3.1, Method: Composition-based stats.
+ Identities = 13/20 (65%), Positives = 15/20 (75%), Gaps = 3/20 (15%)
+
+Query  2    GGVQAE---EQKLISEEDLL  18
+            GG + E   EQKLISEEDL+
+Sbjct  101  GGTKLEIKREQKLISEEDLM  120
+
+
+>3ZIZ_A Crystal structure of Podospora anserina GH5 beta-(1,4)-mannanase 
+[Podospora anserina]
+Length=382
+
+ Score = 24.6 bits (52),  Expect = 3.4, Method: Composition-based stats.
+ Identities = 10/12 (83%), Positives = 11/12 (92%), Gaps = 0/12 (0%)
+
+Query  6    AEEQKLISEEDL  17
+             +EQKLISEEDL
+Sbjct  360  GDEQKLISEEDL  371
+
+
+>4G4G_A Crystal structure of recombinant glucuronoyl esterase from Sporotrichum 
+thermophile determined at 1.55 A resolution [Thermothelomyces 
+thermophilus ATCC 42464]
+Length=433
+
+ Score = 24.3 bits (51),  Expect = 4.2, Method: Composition-based stats.
+ Identities = 11/12 (92%), Positives = 11/12 (92%), Gaps = 0/12 (0%)
+
+Query  6    AEEQKLISEEDL  17
+            A EQKLISEEDL
+Sbjct  411  ALEQKLISEEDL  422
+
+
+>4G4I_A Crystal structure of glucuronoyl esterase S213A mutant from Sporotrichum 
+thermophile determined at 1.9 A resolution [Thermothelomyces 
+thermophilus ATCC 42464]
+ 4G4J_A Crystal structure of glucuronoyl esterase S213A mutant from Sporotrichum 
+thermophile in complex with methyl 4-O-methyl-beta-D-glucopyranuronate 
+determined at 2.35 A resolution [Thermothelomyces 
+thermophilus ATCC 42464]
+Length=433
+
+ Score = 24.3 bits (51),  Expect = 4.2, Method: Composition-based stats.
+ Identities = 11/12 (92%), Positives = 11/12 (92%), Gaps = 0/12 (0%)
+
+Query  6    AEEQKLISEEDL  17
+            A EQKLISEEDL
+Sbjct  411  ALEQKLISEEDL  422
+
+
+>6SVL_A human Myeloid-derived growth factor (MYDGF) in complex with neutralizing 
+Fab [Homo sapiens]
+ 6SVL_D human Myeloid-derived growth factor (MYDGF) in complex with neutralizing 
+Fab [Homo sapiens]
+ 6SVL_G human Myeloid-derived growth factor (MYDGF) in complex with neutralizing 
+Fab [Homo sapiens]
+ 6SVL_H human Myeloid-derived growth factor (MYDGF) in complex with neutralizing 
+Fab [Homo sapiens]
+ 6SVL_K human Myeloid-derived growth factor (MYDGF) in complex with neutralizing 
+Fab [Homo sapiens]
+ 6SVL_O human Myeloid-derived growth factor (MYDGF) in complex with neutralizing 
+Fab [Homo sapiens]
+Length=244
+
+ Score = 24.3 bits (51),  Expect = 4.2, Method: Composition-based stats.
+ Identities = 10/13 (77%), Positives = 11/13 (85%), Gaps = 0/13 (0%)
+
+Query  5    QAEEQKLISEEDL  17
+            +  EQKLISEEDL
+Sbjct  226  KTHEQKLISEEDL  238
+
+
+>3NOX_A Crystal structure of human DPP-IV in complex with Sa-(+)-(6-(aminomethyl)-5-(2,4-dichlorophenyl)-7-methylimidazo[1,2-a]pyrimidin-2-yl)(morpholino)methanone 
+[Homo sapiens]
+ 3NOX_B Crystal structure of human DPP-IV in complex with Sa-(+)-(6-(aminomethyl)-5-(2,4-dichlorophenyl)-7-methylimidazo[1,2-a]pyrimidin-2-yl)(morpholino)methanone 
+[Homo sapiens]
+ 3Q0T_A Crystal structure of human dpp-iv in complex withsa-(+)- methyl2-(3-(aminomethyl)-4-(2,4-dichlorophenyl)-2-methyl- 
+7-oxo-5h-pyrrolo[3,4-b]pyridin-6(7h)-yl)acetate 
+[Homo sapiens]
+ 3Q0T_B Crystal structure of human dpp-iv in complex withsa-(+)- methyl2-(3-(aminomethyl)-4-(2,4-dichlorophenyl)-2-methyl- 
+7-oxo-5h-pyrrolo[3,4-b]pyridin-6(7h)-yl)acetate 
+[Homo sapiens]
+ 3SWW_A Crystal structure of human dpp-iv in complex with sa-(+)-3-(aminomethyl)-4-(2,4-dichlorophenyl)-6-(2-methoxyphenyl)- 
+2-methyl-5h-pyrrolo[3,4-b]pyridin-7(6h)-one 
+[Homo sapiens]
+ 3SWW_B Crystal structure of human dpp-iv in complex with sa-(+)-3-(aminomethyl)-4-(2,4-dichlorophenyl)-6-(2-methoxyphenyl)- 
+2-methyl-5h-pyrrolo[3,4-b]pyridin-7(6h)-one 
+[Homo sapiens]
+ 3SX4_A Crystal structure of human dpp-iv in complex with sa-(+)-3-(aminomethyl)-4-(2,4-dichlorophenyl)-6-(2-methoxyphenyl)- 
+2-methyl-5h-pyrrolo[3,4-b]pyridin-7(6h)-one 
+[Homo sapiens]
+ 3SX4_B Crystal structure of human dpp-iv in complex with sa-(+)-3-(aminomethyl)-4-(2,4-dichlorophenyl)-6-(2-methoxyphenyl)- 
+2-methyl-5h-pyrrolo[3,4-b]pyridin-7(6h)-one 
+[Homo sapiens]
+Length=753
+
+ Score = 24.3 bits (51),  Expect = 4.2, Method: Composition-based stats.
+ Identities = 11/17 (65%), Positives = 12/17 (71%), Gaps = 0/17 (0%)
+
+Query  1    CGGVQAEEQKLISEEDL  17
+            C  +   EQKLISEEDL
+Sbjct  726  CFSLPPLEQKLISEEDL  742
+
+
+>1G5G_A Chain A, FUSION PROTEIN [Avian orthoavulavirus 1]
+ 1G5G_B Chain B, FUSION PROTEIN [Avian orthoavulavirus 1]
+ 1G5G_C Chain C, FUSION PROTEIN [Avian orthoavulavirus 1]
+ 1G5G_D Chain D, FUSION PROTEIN [Avian orthoavulavirus 1]
+ 1G5G_E Chain E, FUSION PROTEIN [Avian orthoavulavirus 1]
+ 1G5G_F Chain F, FUSION PROTEIN [Avian orthoavulavirus 1]
+Length=481
+
+ Score = 24.3 bits (51),  Expect = 4.3, Method: Composition-based stats.
+ Identities = 10/12 (83%), Positives = 11/12 (92%), Gaps = 0/12 (0%)
+
+Query  6    AEEQKLISEEDL  17
+            + EQKLISEEDL
+Sbjct  469  SREQKLISEEDL  480
+
+
+>6VEP_C Human insulin in complex with the human insulin microreceptor 
+in turn in complex with Fv 83-7 [Mus musculus]
+ 6VEP_I Human insulin in complex with the human insulin microreceptor 
+in turn in complex with Fv 83-7 [Mus musculus]
+ 6VEP_O Human insulin in complex with the human insulin microreceptor 
+in turn in complex with Fv 83-7 [Mus musculus]
+ 6VEP_U Human insulin in complex with the human insulin microreceptor 
+in turn in complex with Fv 83-7 [Mus musculus]
+ 6VEQ_C Con-Ins G1 in complex with the human insulin microreceptor in 
+turn in complex with Fv 83-7 [Mus musculus]
+ 6VEQ_I Con-Ins G1 in complex with the human insulin microreceptor in 
+turn in complex with Fv 83-7 [Mus musculus]
+Length=138
+
+ Score = 24.3 bits (51),  Expect = 4.3, Method: Composition-based stats.
+ Identities = 10/12 (83%), Positives = 11/12 (92%), Gaps = 0/12 (0%)
+
+Query  6    AEEQKLISEEDL  17
+            + EQKLISEEDL
+Sbjct  126  SSEQKLISEEDL  137
+
+
+>7NKT_BBB Chain BBB, neutralizing nanobody NM1226 [Vicugna pacos]
+Length=144
+
+ Score = 24.3 bits (51),  Expect = 4.3, Method: Composition-based stats.
+ Identities = 10/12 (83%), Positives = 11/12 (92%), Gaps = 0/12 (0%)
+
+Query  6    AEEQKLISEEDL  17
+            + EQKLISEEDL
+Sbjct  124  SSEQKLISEEDL  135
+
+
+>3WC3_A Chain A, Endo-1, 4-beta-glucanase [Eisenia fetida]
+Length=460
+
+ Score = 24.3 bits (51),  Expect = 4.4, Method: Composition-based stats.
+ Identities = 10/12 (83%), Positives = 11/12 (92%), Gaps = 0/12 (0%)
+
+Query  6    AEEQKLISEEDL  17
+             +EQKLISEEDL
+Sbjct  438  GKEQKLISEEDL  449
+
+
+>3R0M_A Crystal structure of anti-HIV llama VHH antibody A12 [Lama glama]
+ 3R0M_B Crystal structure of anti-HIV llama VHH antibody A12 [Lama glama]
+ 3RJQ_B Crystal structure of anti-HIV llama VHH antibody A12 in complex 
+with C186 gp120 [Lama glama]
+Length=143
+
+ Score = 24.3 bits (51),  Expect = 4.4, Method: Composition-based stats.
+ Identities = 10/12 (83%), Positives = 11/12 (92%), Gaps = 0/12 (0%)
+
+Query  6    AEEQKLISEEDL  17
+            + EQKLISEEDL
+Sbjct  126  SSEQKLISEEDL  137
+
+
+>6VWG_A Head region of the open conformation of the human type 1 insulin-like 
+growth factor receptor ectodomain in complex with human 
+insulin-like growth factor II. [Homo sapiens]
+ 6VWG_B Head region of the open conformation of the human type 1 insulin-like 
+growth factor receptor ectodomain in complex with human 
+insulin-like growth factor II. [Homo sapiens]
+ 6VWH_A Leg region of the open conformation of the human type 1 insulin-like 
+growth factor receptor ectodomain in complex with human 
+insulin-like growth factor II. [Homo sapiens]
+ 6VWH_B Leg region of the open conformation of the human type 1 insulin-like 
+growth factor receptor ectodomain in complex with human 
+insulin-like growth factor II. [Homo sapiens]
+ 6VWI_A Head region of the closed conformation of the human type 1 insulin-like 
+growth factor receptor ectodomain in complex with 
+human insulin-like growth factor II. [Homo sapiens]
+ 6VWI_B Head region of the closed conformation of the human type 1 insulin-like 
+growth factor receptor ectodomain in complex with 
+human insulin-like growth factor II. [Homo sapiens]
+ 6VWJ_A Leg region of the closed conformation of the human type 1 insulin-like 
+growth factor receptor ectodomain in complex with 
+human insulin-like growth factor II [Homo sapiens]
+ 6VWJ_B Leg region of the closed conformation of the human type 1 insulin-like 
+growth factor receptor ectodomain in complex with 
+human insulin-like growth factor II [Homo sapiens]
+Length=952
+
+ Score = 24.3 bits (51),  Expect = 4.8, Method: Composition-based stats.
+ Identities = 11/16 (69%), Positives = 12/16 (75%), Gaps = 0/16 (0%)
+
+Query  2    GGVQAEEQKLISEEDL  17
+            G   + EQKLISEEDL
+Sbjct  936  GERSSSEQKLISEEDL  951
+
+
+>2YBR_B Crystal structure of the human derived single chain antibody 
+fragment (scFv) 9004G in complex with Cn2 toxin from the scorpion 
+Centruroides noxius Hoffmann [Homo sapiens]
+ 2YBR_E Crystal structure of the human derived single chain antibody 
+fragment (scFv) 9004G in complex with Cn2 toxin from the scorpion 
+Centruroides noxius Hoffmann [Homo sapiens]
+ 2YBR_H Crystal structure of the human derived single chain antibody 
+fragment (scFv) 9004G in complex with Cn2 toxin from the scorpion 
+Centruroides noxius Hoffmann [Homo sapiens]
+ 2YC1_B Crystal structure of the human derived single chain antibody 
+fragment (scFv) 9004G in complex with Cn2 toxin from the scorpion 
+Centruroides noxius Hoffmann [Homo sapiens]
+ 2YC1_E Crystal structure of the human derived single chain antibody 
+fragment (scFv) 9004G in complex with Cn2 toxin from the scorpion 
+Centruroides noxius Hoffmann [Homo sapiens]
+ 4V1D_B Ternary complex among two human derived single chain antibody 
+fragments and Cn2 toxin from scorpion Centruroides noxius. 
+[Homo sapiens]
+Length=146
+
+ Score = 24.3 bits (51),  Expect = 4.9, Method: Composition-based stats.
+ Identities = 11/12 (92%), Positives = 11/12 (92%), Gaps = 0/12 (0%)
+
+Query  6    AEEQKLISEEDL  17
+            A EQKLISEEDL
+Sbjct  125  AAEQKLISEEDL  136
+
+
+>7CAN_A Chain A, sybody MR17-K99Y [synthetic construct]
+Length=150
+
+ Score = 24.3 bits (51),  Expect = 5.1, Method: Composition-based stats.
+ Identities = 11/13 (85%), Positives = 12/13 (92%), Gaps = 0/13 (0%)
+
+Query  5    QAEEQKLISEEDL  17
+            +A EQKLISEEDL
+Sbjct  127  RAGEQKLISEEDL  139
+
+
+>4ZH0_A Structure of Helicobacter pylori adhesin BabA determined by SeMet 
+SAD [Helicobacter pylori]
+Length=543
+
+ Score = 23.9 bits (50),  Expect = 6.1, Method: Composition-based stats.
+ Identities = 10/12 (83%), Positives = 10/12 (83%), Gaps = 0/12 (0%)
+
+Query  6    AEEQKLISEEDL  17
+              EQKLISEEDL
+Sbjct  525  GSEQKLISEEDL  536
+
+
+>4ZH7_A Structural basis of Lewisb antigen binding by the Helicobacter 
+pylori adhesin BabA [Helicobacter pylori]
+Length=543
+
+ Score = 23.9 bits (50),  Expect = 6.1, Method: Composition-based stats.
+ Identities = 10/12 (83%), Positives = 10/12 (83%), Gaps = 0/12 (0%)
+
+Query  6    AEEQKLISEEDL  17
+              EQKLISEEDL
+Sbjct  525  GSEQKLISEEDL  536
+
+
+>3BN9_D Crystal Structure of MT-SP1 in complex with Fab Inhibitor E2 
+[Homo sapiens]
+ 3BN9_F Crystal Structure of MT-SP1 in complex with Fab Inhibitor E2 
+[Homo sapiens]
+Length=257
+
+ Score = 23.9 bits (50),  Expect = 6.1, Method: Composition-based stats.
+ Identities = 10/10 (100%), Positives = 10/10 (100%), Gaps = 0/10 (0%)
+
+Query  8    EQKLISEEDL  17
+            EQKLISEEDL
+Sbjct  244  EQKLISEEDL  253
+
+
+>6W7S_H Ketoreductase from module 1 of the 6-deoxyerythronolide B synthase 
+(KR1) in complex with antibody fragment (Fab) 2G10 [Homo 
+sapiens]
+Length=255
+
+ Score = 23.9 bits (50),  Expect = 6.1, Method: Composition-based stats.
+ Identities = 10/10 (100%), Positives = 10/10 (100%), Gaps = 0/10 (0%)
+
+Query  8    EQKLISEEDL  17
+            EQKLISEEDL
+Sbjct  242  EQKLISEEDL  251
+
+
+>7KRA_I Cryo-EM structure of Saccharomyces cerevisiae ER membrane protein 
+complex bound to Fab-DH4 in lipid nanodiscs [Homo sapiens]
+ 7KTX_I Cryo-EM structure of Saccharomyces cerevisiae ER membrane protein 
+complex bound to a Fab in DDM detergent [Homo sapiens]
+Length=254
+
+ Score = 23.9 bits (50),  Expect = 6.1, Method: Composition-based stats.
+ Identities = 10/10 (100%), Positives = 10/10 (100%), Gaps = 0/10 (0%)
+
+Query  8    EQKLISEEDL  17
+            EQKLISEEDL
+Sbjct  241  EQKLISEEDL  250
+
+
+  Database: PDB protein database
+    Posted date:  Aug 17, 2021  4:30 AM
+  Number of letters in database: 34,897,192
+  Number of sequences in database:  131,049
+
+Lambda      K        H
+   0.312    0.133    0.350 
+Gapped
+Lambda      K        H
+   0.267   0.0410    0.140 
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Number of Sequences: 131049
+Number of Hits to DB: 944862
+Number of extensions: 16720
+Number of successful extensions: 758
+Number of sequences better than 100: 393
+Number of HSP's better than 100 without gapping: 0
+Number of HSP's gapped: 755
+Number of HSP's successfully gapped: 405
+Length of query: 32
+Length of database: 34897192
+Length adjustment: 6
+Effective length of query: 26
+Effective length of database: 34110898
+Effective search space: 886883348
+Effective search space used: 886883348
+T: 11
+A: 40
+X1: 16 (7.2 bits)
+X2: 38 (14.6 bits)
+X3: 64 (24.7 bits)
+S1: 34 (17.7 bits)
+S2: 48 (23.1 bits)
+ka-blk-alpha gapped: 1.9
+ka-blk-alpha ungapped: 0.7916
+ka-blk-alpha_v gapped: 42.6028
+ka-blk-alpha_v ungapped: 4.96466
+ka-blk-sigma gapped: 43.6362
+
+
+

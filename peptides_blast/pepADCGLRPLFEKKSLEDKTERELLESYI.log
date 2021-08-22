@@ -1,0 +1,1542 @@
+<p><!--
+QBlastInfoBegin
+	Status=READY
+QBlastInfoEnd
+--><p>
+<PRE>
+BLASTP 2.12.0+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro
+A. Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and
+David J. Lipman (1997), "Gapped BLAST and PSI-BLAST: a new
+generation of protein database search programs", Nucleic
+Acids Res. 25:3389-3402.
+
+
+Reference for compositional score matrix adjustment: Stephen
+F. Altschul, John C. Wootton, E. Michael Gertz, Richa
+Agarwala, Aleksandr Morgulis, Alejandro A. Schaffer, and
+Yi-Kuo Yu (2005) "Protein database searches using
+compositionally adjusted substitution matrices", FEBS J.
+272:5101-5109.
+
+
+RID: J3GFVXDW013
+
+
+Database: PDB protein database
+           131,049 sequences; 34,897,192 total letters
+Query= 
+Length=27
+
+
+                                                                   Score     E     Max
+Sequences producing significant alignments:                       (Bits)  Value  Ident
+
+1JMO_L Crystal Structure of the Heparin Cofactor II-S195A Thro...  56.2    4e-13  100%        
+1JOU_A Crystal Structure of Native S195A Thrombin with an Unoc...  56.2    4e-13  100%        
+1H8D_L X-ray structure of the human alpha-thrombin complex wit...  55.8    4e-13  100%        
+1DM4_A SER195ALA MUTANT OF HUMAN THROMBIN COMPLEXED WITH FIBRI...  55.8    5e-13  100%        
+1BHX_A X-RAY STRUCTURE OF THE COMPLEX OF HUMAN ALPHA THROMBIN ...  55.8    5e-13  100%        
+2A2X_L Orally Active Thrombin Inhibitors in Complex with Throm...  55.8    5e-13  100%        
+1D3D_A Crystal Structure Of Human Alpha Thrombin In Complex Wi...  55.5    5e-13  100%        
+1Z8J_A Crystal structure of the thrombin mutant G193P bound to...  55.8    5e-13  100%        
+3BEF_A Crystal structure of thrombin bound to the extracellula...  55.8    5e-13  100%        
+1EB1_L Complex structure of human thrombin with N-methyl-argin...  55.5    5e-13  100%        
+1A2C_L Structure of thrombin inhibited by AERUGINOSIN298-A fro...  55.8    5e-13  100%        
+1TQ7_A Crystal structure of the anticoagulant thrombin mutant ...  55.8    5e-13  100%        
+1Z8I_A Crystal structure of the thrombin mutant G193A bound to...  55.8    5e-13  100%        
+1TWX_A Crystal structure of the thrombin mutant D221A/D222K [H...  55.5    5e-13  100%        
+1HDT_L Structure Of A Retro-Binding Peptide Inhibitor Complexe...  55.5    5e-13  100%        
+4RKO_A Crystal structure of thrombin mutant S195T bound with P...  55.8    5e-13  100%        
+2PGQ_A Human thrombin mutant C191A-C220A in complex with the i...  55.8    5e-13  100%        
+1P8V_B Crystal Structure Of The Complex Of Platelet Receptor G...  55.5    6e-13  100%        
+3S7H_A Structure of thrombin mutant Y225P in the E* form [Homo...  55.5    6e-13  100%        
+2AFQ_A 1.9 angstrom crystal structure of wild-type human throm...  55.5    6e-13  100%        
+3DD2_L Crystal structure of an RNA aptamer bound to human thro...  55.5    6e-13  100%        
+6GWE_L Crystal structure of Thrombin bound to P2 macrocycle [H...  55.5    6e-13  100%        
+2A0Q_A Structure of thrombin in 400 mM potassium chloride [Hom...  55.5    6e-13  100%        
+1TQ0_A Crystal structure of the potent anticoagulant thrombin ...  55.5    6e-13  100%        
+4DT7_A Crystal structure of thrombin bound to the activation d...  55.5    6e-13  100%        
+4H6S_A Crystal structure of thrombin mutant E14eA/D14lA/E18A/S...  53.9    2e-12  96%         
+5EDM_A Crystal structure of prothrombin deletion mutant residu...  58.5    3e-12  100%        
+4NZQ_A Crystal structure of Ca2+-free prothrombin deletion mut...  58.2    3e-12  100%        
+6BJR_A Crystal structure of prothrombin mutant S101C/A470C [Ho...  58.2    3e-12  100%        
+5EDK_A Crystal structure of prothrombin deletion mutant residu...  58.2    3e-12  100%        
+4HZH_A Structure of recombinant Gla-domainless prothrombin mut...  58.2    3e-12  100%        
+1T4U_L Crystal Structure Analysis of a novel Oxyguanidine boun...  53.5    3e-12  100%        
+6PX5_X CRYSTAL STRUCTURE OF HUMAN MEIZOTHROMBIN DESF1 MUTANT S...  56.2    4e-12  100%        
+1NU7_A Staphylocoagulase-Thrombin Complex [Homo sapiens]           53.5    4e-12  100%        
+3E6P_L Crystal structure of human meizothrombin desF1 [Homo sa...  56.2    4e-12  100%        
+1MH0_A Crystal structure of the anticoagulant slow form of thr...  56.6    1e-11  100%        
+1D6W_A Structure Of Thrombin Complexed With Selective Non-elec...  56.6    1e-11  100%        
+2BDY_A thrombin in complex with inhibitor [Homo sapiens]           56.6    1e-11  100%        
+1DOJ_A Crystal structure of human alpha-thrombin*RWJ-51438 com...  56.6    1e-11  100%        
+1EOJ_A Design of P1' and P3' residues of trivalent thrombin in...  56.6    1e-11  100%        
+1D9I_A Structure Of Thrombin Complexed With Selective Non-elec...  56.6    1e-11  100%        
+6V5T_E Crystal structure of human prethrombin-2 with tryptopha...  56.6    1e-11  100%        
+3SQE_E Crystal structure of prethrombin-2 mutant S195A in the ...  56.6    1e-11  100%        
+1NU9_A Staphylocoagulase-Prethrombin-2 complex [Homo sapiens]      56.6    1e-11  100%        
+3K65_B Crystal Structure of Prethombin-2/Fragment-2 Complex [H...  56.6    1e-11  100%        
+3NXP_A Crystal structure of human prethrombin-1 [Homo sapiens]     56.6    1e-11  100%        
+1JWT_A Crystal Structure Of Thrombin In Complex With A Novel B...  56.6    1e-11  100%        
+4H6T_A Crystal structure of prethrombin-2 mutant E14eA/D14lA/E...  55.1    5e-11  96%         
+1NM6_A thrombin in complex with selective macrocyclic inhibito...  54.7    5e-11  100%        
+2PUX_A Crystal structure of murine thrombin in complex with th...  50.1    9e-11  85%         
+
+ALIGNMENTS
+>1JMO_L Crystal Structure of the Heparin Cofactor II-S195A Thrombin Complex 
+[Homo sapiens]
+Length=48
+
+ Score = 56.2 bits (134),  Expect = 4e-13, Method: Compositional matrix adjust.
+ Identities = 27/27 (100%), Positives = 27/27 (100%), Gaps = 0/27 (0%)
+
+Query  1   ADCGLRPLFEKKSLEDKTERELLESYI  27
+           ADCGLRPLFEKKSLEDKTERELLESYI
+Sbjct  20  ADCGLRPLFEKKSLEDKTERELLESYI  46
+
+
+>1JOU_A Crystal Structure of Native S195A Thrombin with an Unoccupied 
+Active Site [Homo sapiens]
+ 1JOU_C Crystal Structure of Native S195A Thrombin with an Unoccupied 
+Active Site [Homo sapiens]
+ 1JOU_E Crystal Structure of Native S195A Thrombin with an Unoccupied 
+Active Site [Homo sapiens]
+ 1TB6_L 2.5A Crystal Structure of the Antithrombin-Thrombin-Heparin Ternary 
+Complex [Homo sapiens]
+ 2B5T_A 2.1 Angstrom structure of a nonproductive complex between antithrombin, 
+synthetic heparin mimetic SR123781 and two S195A 
+thrombin molecules [Homo sapiens]
+ 2B5T_C 2.1 Angstrom structure of a nonproductive complex between antithrombin, 
+synthetic heparin mimetic SR123781 and two S195A 
+thrombin molecules [Homo sapiens]
+ 3B9F_L 1.6 A structure of the PCI-thrombin-heparin complex [Homo sapiens]
+ 3GIS_A Crystal Structure of Na-free Thrombin in Complex with Thrombomodulin 
+[Homo sapiens]
+ 3GIS_C Crystal Structure of Na-free Thrombin in Complex with Thrombomodulin 
+[Homo sapiens]
+ 3GIS_E Crystal Structure of Na-free Thrombin in Complex with Thrombomodulin 
+[Homo sapiens]
+ 4DY7_A Crystal structures of protease nexin-1 in complex with S195A 
+thrombin [Homo sapiens]
+ 4DY7_D Crystal structures of protease nexin-1 in complex with S195A 
+thrombin [Homo sapiens]
+Length=49
+
+ Score = 56.2 bits (134),  Expect = 4e-13, Method: Compositional matrix adjust.
+ Identities = 27/27 (100%), Positives = 27/27 (100%), Gaps = 0/27 (0%)
+
+Query  1   ADCGLRPLFEKKSLEDKTERELLESYI  27
+           ADCGLRPLFEKKSLEDKTERELLESYI
+Sbjct  20  ADCGLRPLFEKKSLEDKTERELLESYI  46
+
+
+>1H8D_L X-ray structure of the human alpha-thrombin complex with a tripeptide 
+phosphonate inhibitor. [Homo sapiens]
+Length=29
+
+ Score = 55.8 bits (133),  Expect = 4e-13, Method: Compositional matrix adjust.
+ Identities = 27/27 (100%), Positives = 27/27 (100%), Gaps = 0/27 (0%)
+
+Query  1   ADCGLRPLFEKKSLEDKTERELLESYI  27
+           ADCGLRPLFEKKSLEDKTERELLESYI
+Sbjct  2   ADCGLRPLFEKKSLEDKTERELLESYI  28
+
+
+>1DM4_A SER195ALA MUTANT OF HUMAN THROMBIN COMPLEXED WITH FIBRINOPEPTIDE 
+A (7-16) [Homo sapiens]
+Length=35
+
+ Score = 55.8 bits (133),  Expect = 5e-13, Method: Compositional matrix adjust.
+ Identities = 27/27 (100%), Positives = 27/27 (100%), Gaps = 0/27 (0%)
+
+Query  1   ADCGLRPLFEKKSLEDKTERELLESYI  27
+           ADCGLRPLFEKKSLEDKTERELLESYI
+Sbjct  7   ADCGLRPLFEKKSLEDKTERELLESYI  33
+
+
+>1BHX_A X-RAY STRUCTURE OF THE COMPLEX OF HUMAN ALPHA THROMBIN WITH THE 
+INHIBITOR SDZ 229-357 [Homo sapiens]
+Length=30
+
+ Score = 55.8 bits (133),  Expect = 5e-13, Method: Compositional matrix adjust.
+ Identities = 27/27 (100%), Positives = 27/27 (100%), Gaps = 0/27 (0%)
+
+Query  1   ADCGLRPLFEKKSLEDKTERELLESYI  27
+           ADCGLRPLFEKKSLEDKTERELLESYI
+Sbjct  4   ADCGLRPLFEKKSLEDKTERELLESYI  30
+
+
+>2A2X_L Orally Active Thrombin Inhibitors in Complex with Thrombin Inh12 
+[Homo sapiens]
+ 2ANK_L orally active thrombin inhibitors in complex with thrombin and 
+an exosite decapeptide [Homo sapiens]
+ 4RKJ_A Crystal structure of thrombin mutant S195T (free form) [Homo 
+sapiens]
+Length=34
+
+ Score = 55.8 bits (133),  Expect = 5e-13, Method: Compositional matrix adjust.
+ Identities = 27/27 (100%), Positives = 27/27 (100%), Gaps = 0/27 (0%)
+
+Query  1   ADCGLRPLFEKKSLEDKTERELLESYI  27
+           ADCGLRPLFEKKSLEDKTERELLESYI
+Sbjct  5   ADCGLRPLFEKKSLEDKTERELLESYI  31
+
+
+>1D3D_A Crystal Structure Of Human Alpha Thrombin In Complex With Benzothiophene 
+Inhibitor 4 [Homo sapiens]
+ 1TMU_L Changes in interactions in complexes of hirudin derivatives and 
+human alpha-thrombin due to different crystal forms [Homo 
+sapiens]
+ 4UD9_L Thrombin in complex with 5-chlorothiophene-2-carboxamide [Homo 
+sapiens]
+ 4UDW_L Thrombin in complex with 1-(2R)-2-amino-3-phenyl-propanoyl-N-(2, 
+5dichlorophenyl)methylpyrrolidine-2-carboxamide [Homo sapiens]
+ 4UE7_L Thrombin in complex with 1-amidinopiperidine [Homo sapiens]
+ 6FJT_L 4-chloro-benzamidine in complex with thrombin [Homo sapiens]
+Length=28
+
+ Score = 55.5 bits (132),  Expect = 5e-13, Method: Compositional matrix adjust.
+ Identities = 27/27 (100%), Positives = 27/27 (100%), Gaps = 0/27 (0%)
+
+Query  1   ADCGLRPLFEKKSLEDKTERELLESYI  27
+           ADCGLRPLFEKKSLEDKTERELLESYI
+Sbjct  2   ADCGLRPLFEKKSLEDKTERELLESYI  28
+
+
+>1Z8J_A Crystal structure of the thrombin mutant G193P bound to PPACK 
+[Homo sapiens]
+Length=40
+
+ Score = 55.8 bits (133),  Expect = 5e-13, Method: Compositional matrix adjust.
+ Identities = 27/27 (100%), Positives = 27/27 (100%), Gaps = 0/27 (0%)
+
+Query  1   ADCGLRPLFEKKSLEDKTERELLESYI  27
+           ADCGLRPLFEKKSLEDKTERELLESYI
+Sbjct  13  ADCGLRPLFEKKSLEDKTERELLESYI  39
+
+
+>3BEF_A Crystal structure of thrombin bound to the extracellular fragment 
+of PAR1 [Homo sapiens]
+ 3BEF_D Crystal structure of thrombin bound to the extracellular fragment 
+of PAR1 [Homo sapiens]
+ 3LU9_A Crystal structure of human thrombin mutant S195A in complex with 
+the extracellular fragment of human PAR1 [Homo sapiens]
+ 3LU9_D Crystal structure of human thrombin mutant S195A in complex with 
+the extracellular fragment of human PAR1 [Homo sapiens]
+ 5TO3_A Crystal structure of thrombin mutant W215A/E217A fused to EGF456 
+of thrombomodulin via a 31-residue linker and bound to PPACK 
+[Homo sapiens]
+Length=46
+
+ Score = 55.8 bits (133),  Expect = 5e-13, Method: Compositional matrix adjust.
+ Identities = 27/27 (100%), Positives = 27/27 (100%), Gaps = 0/27 (0%)
+
+Query  1   ADCGLRPLFEKKSLEDKTERELLESYI  27
+           ADCGLRPLFEKKSLEDKTERELLESYI
+Sbjct  17  ADCGLRPLFEKKSLEDKTERELLESYI  43
+
+
+>1EB1_L Complex structure of human thrombin with N-methyl-arginine inhibitor 
+[Homo sapiens]
+ 1H8I_L X-ray crystal structure of human alpha-thrombin with a tripeptide 
+phosphonate inhibitor. [Homo sapiens]
+ 1HLT_J THE STRUCTURE OF A NONADECAPEPTIDE OF THE FIFTH EGF DOMAIN OF 
+THROMBOMODULIN COMPLEXED WITH THROMBIN [Homo sapiens]
+ 1HLT_L THE STRUCTURE OF A NONADECAPEPTIDE OF THE FIFTH EGF DOMAIN OF 
+THROMBOMODULIN COMPLEXED WITH THROMBIN [Homo sapiens]
+ 1QUR_L Human Alpha-Thrombin In Complex With Bivalent, Benzamidine-Based 
+Synthetic Inhibitor [Homo sapiens]
+ 1VR1_L Specifity for Plasminogen Activator Inhibitor-1 [Homo sapiens]
+ 1VZQ_L Complex of thrombin with designed inhibitor 7165 [Homo sapiens]
+ 1YPE_L Thrombin Inhibitor Complex [Homo sapiens]
+ 1YPG_L Thrombin Inhibitor Complex [Homo sapiens]
+ 1YPJ_L Thrombin Inhibitor Complex [Homo sapiens]
+ 1YPK_L Thrombin Inhibitor Complex [Homo sapiens]
+ 1YPL_L X-ray crystal structure of thrombin inhibited by synthetic cyanopeptide 
+analogue RA-1008 [Homo sapiens]
+ 1YPM_L X-ray crystal structure of thrombin inhibited by synthetic cyanopeptide 
+analogue RA-1014 [Homo sapiens]
+ 2PKS_A Thrombin in complex with inhibitor [unidentified]
+ 2PW8_L Crystal structure of sulfo-hirudin complexed to thrombin [Homo 
+sapiens]
+ 3PO1_A Thrombin in complex with Benzothiazole Guanidine [Homo sapiens]
+ 3U8T_L Human thrombin complexed with D-Phe-Pro-D-Arg-Cys [Homo sapiens]
+ 4LOY_L Crystal Structure Analysis of thrombin in complex with compound 
+D57, 5-Chlorothiophene-2-carboxylic acid [(S)-2-[2-methyl-3-(2- 
+oxopyrrolidin-1-yl)benzenesulfonylamino]-3-(4-methylpiperazin-1- 
+yl)-3-oxopropyl]amide (SAR107375) [Homo sapiens]
+Length=27
+
+ Score = 55.5 bits (132),  Expect = 5e-13, Method: Compositional matrix adjust.
+ Identities = 27/27 (100%), Positives = 27/27 (100%), Gaps = 0/27 (0%)
+
+Query  1   ADCGLRPLFEKKSLEDKTERELLESYI  27
+           ADCGLRPLFEKKSLEDKTERELLESYI
+Sbjct  1   ADCGLRPLFEKKSLEDKTERELLESYI  27
+
+
+>1A2C_L Structure of thrombin inhibited by AERUGINOSIN298-A from a BLUE-GREEN 
+ALGA [Homo sapiens]
+ 1A3B_L Complex Of Human Alpha-Thrombin With The Bifunctional Boronate 
+Inhibitor Borolog1 [Homo sapiens]
+ 1A3E_L Complex Of Human Alpha-Thrombin With The Bifunctional Boronate 
+Inhibitor Borolog2 [Homo sapiens]
+ 1A46_L Thrombin Complexed With Hirugen And A Beta-Strand Mimetic Inhibitor 
+[Homo sapiens]
+ 1A4W_L Crystal Structures Of Thrombin With Thiazole-Containing Inhibitors: 
+Probes Of The S1' Binding Site [Homo sapiens]
+ 1A5G_L Human Thrombin Complexed With Novel Synthetic Peptide Mimetic 
+Inhibitor And Hirugen [Homo sapiens]
+ 1A61_L Thrombin Complexed With A Beta-Mimetic Thiazole-Containing Inhibitor 
+[Homo sapiens]
+ 1ABI_L Structure Of The Hirulog 3-Thrombin Complex And Nature Of The 
+S' Subsites Of Substrates And Inhibitors [Homo sapiens]
+ 1ABJ_L Structure Of The Hirulog 3-Thrombin Complex And Nature Of The 
+S' Subsites Of Substrates And Inhibitors [Homo sapiens]
+ 1AD8_L Complex Of Thrombin With And Inhibitor Containing A Novel P1 
+Moiety [Homo sapiens]
+ 1AE8_L Human Alpha-Thrombin Inhibition By Eoc-D-Phe-Pro-Azalys-Onp [Homo 
+sapiens]
+ 1AFE_L Human Alpha-Thrombin Inhibition By Cbz-Pro-Azalys-Onp [Homo sapiens]
+ 1AHT_L Crystal Structure Of Human Alpha-Thrombin Complexed With Hirugen 
+And P-Amidinophenylpyruvate At 1.6 Angstroms Resolution 
+[Homo sapiens]
+ 1AI8_L Human Alpha-Thrombin Ternary Complex With The Exosite Inhibitor 
+Hirugen And Active Site Inhibitor Phch2oco-D-Dpa-Pro-Borompg 
+[Homo sapiens]
+ 1AIX_L Human Alpha-Thrombin Ternary Complex With Exosite Inhibitor Hirugen 
+And Active Site Inhibitor Phch2oco-D-Dpa-Pro-Boroval 
+[Homo sapiens]
+ 1AWF_L NOVEL COVALENT THROMBIN INHIBITOR FROM PLANT EXTRACT [Homo sapiens]
+ 1AWH_A NOVEL COVALENT THROMBIN INHIBITOR FROM PLANT EXTRACT [Homo sapiens]
+ 1AWH_C NOVEL COVALENT THROMBIN INHIBITOR FROM PLANT EXTRACT [Homo sapiens]
+ 1AY6_L Thrombin Inhibitor From Theonalla, Cyclotheanamide-Based Macrocyclic 
+Tripeptide Motif [Homo sapiens]
+ 1B5G_L Human Thrombin Complexed With Novel Synthetic Peptide Mimetic 
+Inhibitor And Hirugen [Homo sapiens]
+ 1B7X_A Structure Of Human Alpha-Thrombin Y225i Mutant Bound To D- Phe-Pro-Arg-Chloromethylketone 
+[Homo sapiens]
+ 1BA8_A Thrombin Inhibitor With A Rigid Tripeptidyl Aldehydes [Homo sapiens]
+ 1BB0_A Thrombin Inhibitors With Rigid Tripeptidyl Aldehydes [Homo sapiens]
+ 1BCU_L ALPHA-THROMBIN COMPLEXED WITH HIRUGEN AND PROFLAVIN [Homo sapiens]
+ 1BMM_L Human Alpha-Thrombin Complexed With [s-(R,R)]-4-[(Aminoiminomethyl) 
+Amino]-N-[[1-[3-Hydroxy-2-[(2-Naphthalenylsulfonyl)amino]-1- 
+Oxopropyl]-2-Pyrrolidinyl] Methyl]butanamide (Bms-186282) 
+[Homo sapiens]
+ 1BMN_L Human Alpha-Thrombin Complexed With [s-(R,R)]-1-(Aminoiminomethyl)- 
+N-[[1-[n-[(2-Naphthalenylsulfonyl)-L-Seryl]-Pyrrolidinyl]methyl]-3- 
+Piperidenecarboxamide (Bms-189090) [Homo sapiens]
+ 1BTH_J STRUCTURE OF THROMBIN COMPLEXED WITH BOVINE PANCREATIC TRYPSIN 
+INHIBITOR
+ 1BTH_L STRUCTURE OF THROMBIN COMPLEXED WITH BOVINE PANCREATIC TRYPSIN 
+INHIBITOR
+ 1C1U_L RECRUITING ZINC TO MEDIATE POTENT, SPECIFIC INHIBITION OF SERINE 
+PROTEASES [Homo sapiens]
+ 1C1V_L RECRUITING ZINC TO MEDIATE POTENT, SPECIFIC INHIBITION OF SERINE 
+PROTEASES [Homo sapiens]
+ 1C1W_L RECRUITING ZINC TO MEDIATE POTENT, SPECIFIC INHIBITION OF SERINE 
+PROTEASES [Homo sapiens]
+ 1C4U_1 SELECTIVE NON ELECTROPHILIC THROMBIN INHIBITORS WITH CYCLOHEXYL 
+MOIETIES. [Homo sapiens]
+ 1C4V_1 SELECTIVE NON ELECTROPHILIC THROMBIN INHIBITORS WITH CYCLOHEXYL 
+MOIETIES. [Homo sapiens]
+ 1C4Y_1 SELECTIVE NON-ELECTROPHILIC THROMBIN INHIBITORS [Homo sapiens]
+ 1C5L_L STRUCTURAL BASIS FOR SELECTIVITY OF A SMALL MOLECULE, S1-BINDING, 
+SUB-MICROMOLAR INHIBITOR OF UROKINASE TYPE PLASMINOGEN 
+ACTIVATOR [Homo sapiens]
+ 1C5N_L STRUCTURAL BASIS FOR SELECTIVITY OF A SMALL MOLECULE, S1-BINDING, 
+SUB-MICROMOLAR INHIBITOR OF UROKINASE TYPE PLASMINOGEN 
+ACTIVATOR [Homo sapiens]
+ 1C5O_L Chain L, Thrombin light chain [Homo sapiens]
+ 1CA8_A Thrombin inhibitors with rigid tripeptidyl aldehydes [Homo sapiens]
+ 1D3P_A Crystal Structure Of Human Aplha-Thrombin In Complex With Benzo[b]thiophene 
+Inhibitor 3 [Homo sapiens]
+ 1D3Q_A Crystal Structure Of Human Alpha Thrombin In Complex With Benzo[b]thiophene 
+Inhibitor 2 [Homo sapiens]
+ 1D3T_A Crystal Structure Of Human Alpha Thrombin In Complex With Benzo[b]thiophene 
+Inhibitor 1 [Homo sapiens]
+ 1D4P_A Chain A, ALPHA-THROMBIN [Homo sapiens]
+ 1DE7_J Interaction Of Factor Xiii Activation Peptide With Alpha-Thrombin: 
+Crystal Structure Of The Enzyme-Substrate Complex [Homo 
+sapiens]
+ 1DE7_L Interaction Of Factor Xiii Activation Peptide With Alpha-Thrombin: 
+Crystal Structure Of The Enzyme-Substrate Complex [Homo 
+sapiens]
+ 1DIT_L Complex Of A Divalent Inhibitor With Thrombin [Homo sapiens]
+ 1DWB_L Crystallographic Analysis At 3.0-angstroms Resolution Of The 
+Binding To Human Thrombin Of Four Active Site-directed Inhibitors 
+[Homo sapiens]
+ 1DWC_L Crystallographic Analysis At 3.0-Angstroms Resolution Of The 
+Binding To Human Thrombin Of Four Active Site-Directed Inhibitors 
+[Homo sapiens]
+ 1DWD_L Crystallographic Analysis At 3.0-Angstroms Resolution Of The 
+Binding To Human Thrombin Of Four Active Site-Directed Inhibitors 
+[Homo sapiens]
+ 1DWE_L Crystallographic analysis at 3.0-Angstroms resolution of the 
+binding to human thrombin of four active site-directed inhibitors 
+[Homo sapiens]
+ 1DX5_A Crystal structure of the thrombin-thrombomodulin complex [Homo 
+sapiens]
+ 1DX5_B Crystal structure of the thrombin-thrombomodulin complex [Homo 
+sapiens]
+ 1DX5_C Crystal structure of the thrombin-thrombomodulin complex [Homo 
+sapiens]
+ 1DX5_D Crystal structure of the thrombin-thrombomodulin complex [Homo 
+sapiens]
+ 1E0F_A Crystal structure of the human alpha-thrombin-haemadin complex: 
+an exosite II-binding inhibitor [Homo sapiens]
+ 1E0F_B Crystal structure of the human alpha-thrombin-haemadin complex: 
+an exosite II-binding inhibitor [Homo sapiens]
+ 1E0F_C Crystal structure of the human alpha-thrombin-haemadin complex: 
+an exosite II-binding inhibitor [Homo sapiens]
+ 1FPC_L Active Site Mimetic Inhibition Of Thrombin [Homo sapiens]
+ 1FPH_L The Interaction Of Thrombin With Fibrinogen: A Structural Basis 
+For Its Specificity [Homo sapiens]
+ 1G30_A THROMBIN INHIBITOR COMPLEX [Homo sapiens]
+ 1G32_A Thrombin Inhibitor Complex [Homo sapiens]
+ 1GHV_L A NOVEL SERINE PROTEASE INHIBITION MOTIF INVOLVING A MULTI-CENTERED 
+SHORT HYDROGEN BONDING NETWORK AT THE ACTIVE SITE [Homo 
+sapiens]
+ 1GHW_L A NOVEL SERINE PROTEASE INHIBITION MOTIF INVOLVING A MULTI-CENTERED 
+SHORT HYDROGEN BONDING NETWORK AT THE ACTIVE SITE [Homo 
+sapiens]
+ 1GHX_L A NOVEL SERINE PROTEASE INHIBITION MOTIF INVOLVING A MULTI-CENTERED 
+SHORT HYDROGEN BONDING NETWORK AT THE ACTIVE SITE [Homo 
+sapiens]
+ 1GHY_L A NOVEL SERINE PROTEASE INHIBITION MOTIF INVOLVING A MULTI-CENTERED 
+SHORT HYDROGEN BONDING NETWORK AT THE ACTIVE SITE [Homo 
+sapiens]
+ 1GJ4_L SELECTIVITY AT S1, H2O DISPLACEMENT, UPA, TPA, SER190/ALA190 
+PROTEASE, STRUCTURE-BASED DRUG DESIGN [Homo sapiens]
+ 1GJ5_L SELECTIVITY AT S1, H2O DISPLACEMENT, UPA, TPA, SER190/ALA190 
+PROTEASE, STRUCTURE-BASED DRUG DESIGN [Homo sapiens]
+ 1HAH_L THE ISOMORPHOUS STRUCTURES OF PRETHROMBIN2, HIRUGEN-AND PPACK-THROMBIN: 
+CHANGES ACCOMPANYING ACTIVATION AND EXOSITE BINDING 
+TO THROMBIN [Homo sapiens]
+ 1HAI_L THE ISOMORPHOUS STRUCTURES OF PRETHROMBIN2, HIRUGEN-AND PPACK-THROMBIN: 
+CHANGES ACCOMPANYING ACTIVATION AND EXOSITE BINDING 
+TO THROMBIN [Homo sapiens]
+ 1HAO_L Complex Of Human Alpha-thrombin With A 15mer Oligonucleotide 
+Ggttggtgtggttgg (based On Nmr Model Of Dna) [Homo sapiens]
+ 1HAP_L Complex Of Human Alpha-Thrombin With A 15mer Oligonucleotide 
+Ggttggtgtggttgg (Based On X-Ray Model Of Dna) [Homo sapiens]
+ 1HBT_L Human alpha-thrombin complexed with a peptidyl pyridinium methyl 
+ketone containing bivalent inhibitor [Homo sapiens]
+ 1HGT_L STRUCTURE OF THE HIRUGEN AND HIRULOG 1 COMPLEXES OF ALPHA-THROMBIN 
+[Homo sapiens]
+ 1HUT_L The Structure Of Alpha-Thrombin Inhibited By A 15-Mer Single-Stranded 
+Dna Aptamer [Homo sapiens]
+ 1HXE_L Serine Protease [Homo sapiens]
+ 1HXF_L Human Thrombin Complex With Hirudin Variant [Homo sapiens]
+ 1IHS_L Crystal Structure Of The Complex Of Human Alpha-thrombin And 
+Non- Hydrolyzable Bifunctional Inhibitors, Hirutonin-2 And Hirutonin-6 
+[Homo sapiens]
+ 1IHT_L Crystal Structure Of The Complex Of Human Alpha-Thrombin And 
+Non- Hydrolyzable Bifunctional Inhibitors, Hirutonin-2 And Hirutonin-6 
+[Homo sapiens]
+ 1K21_L Human Thrombin-Inhibitor Complex [Homo sapiens]
+ 1K22_L Human Thrombin-inhibitor Complex [Homo sapiens]
+ 1KTS_A Thrombin Inhibitor Complex [Homo sapiens]
+ 1KTT_A Thrombin inhibitor complex [Homo sapiens]
+ 1LHC_L Human Alpha-Thrombin Complexed With Ac-(D)phe-Pro-Boroarg-Oh 
+[Homo sapiens]
+ 1LHD_L Human Alpha-thrombin Complexed With Ac-(d)phe-pro-borolys-oh 
+[Homo sapiens]
+ 1LHE_L Human Alpha-Thrombin Complexed With Ac-(D)phe-Pro-Boro-N- Butyl-Amidino-Glycine-Oh 
+[Homo sapiens]
+ 1LHF_L Human Alpha-Thrombin Complexed With Ac-(D)phe-Pro-Boro- Homolys-Oh 
+[Homo sapiens]
+ 1LHG_L Human Alpha-Thrombin Complexed With Ac-(D)phe-Pro- Boroornithine-Oh 
+[Homo sapiens]
+ 1MU6_A Chain A, THROMBIN [Homo sapiens]
+ 1MU8_A Chain A, THROMBIN [Homo sapiens]
+ 1MUE_A Thrombin-Hirugen-L405,426 [Homo sapiens]
+ 1NO9_L Design of weakly basic thrombin inhibitors incorporating novel 
+P1 binding functions: molecular and X-ray crystallographic 
+studies. [Homo sapiens]
+ 1NRN_L Crystallographic Structures Of Thrombin Complexed With Thrombin 
+Receptor Peptides: Existence Of Expected And Novel Binding 
+Modes [Homo sapiens]
+ 1NRO_L Crystallographic Structures Of Thrombin Complexed With Thrombin 
+Receptor Peptides: Existence Of Expected And Novel Binding 
+Modes [Homo sapiens]
+ 1NRP_L Crystallographic Structures Of Thrombin Complexed With Thrombin 
+Receptor Peptides: Existence Of Expected And Novel Binding 
+Modes [Homo sapiens]
+ 1NRQ_L Crystallographic Structures Of Thrombin Complexed With Thrombin 
+Receptor Peptides: Existence Of Expected And Novel Binding 
+Modes [Homo sapiens]
+ 1NRR_L Crystallographic structures of Thrombin complexed with Thrombin 
+receptor peptides: Existence of expected and novel binding 
+modes [Homo sapiens]
+ 1NRS_L Crystallographic Structures Of Thrombin Complexed With Thrombin 
+Receptor Peptides: Existence Of Expected And Novel Binding 
+Modes [Homo sapiens]
+ 1NY2_1 Human alpha thrombin inhibited by RPPGF and hirugen [Homo sapiens]
+ 1NZQ_L D-Phe-Pro-Arg-Type Thrombin Inhibitor [Homo sapiens]
+ 1O0D_L Human Thrombin complexed with a d-Phe-Pro-Arg-type Inhibitor 
+and a C-terminal Hirudin derived exo-site inhibitor [Homo sapiens]
+ 1O2G_L Elaborate Manifold of Short Hydrogen Bond Arrays Mediating Binding 
+of Active Site-Directed Serine Protease Inhibitors [Homo 
+sapiens]
+ 1O5G_L Dissecting and Designing Inhibitor Selectivity Determinants at 
+the S1 site Using an Artificial Ala190 Protease (Ala190 uPA) 
+[Homo sapiens]
+ 1OOK_A Crystal Structure of the Complex of Platelet Receptor GPIb-alpha 
+and Human alpha-Thrombin [Homo sapiens]
+ 1OYT_L Complex Of Recombinant Human Thrombin With A Designed Fluorinated 
+Inhibitor [Homo sapiens]
+ 1PPB_L The Refined 1.9 Angstroms Crystal Structure Of Human Alpha-Thrombin: 
+Interaction With D-Phe-Pro-Arg Chloromethylketone And 
+Significance Of The Tyr-Pro-Pro-Trp Insertion Segment [Homo 
+sapiens]
+ 1QBV_L Crystal Structure Of Thrombin Complexed With An Guanidine-mimetic 
+Inhibitor [Homo sapiens]
+ 1QHR_A NOVEL COVALENT ACTIVE SITE THROMBIN INHIBITORS [Homo sapiens]
+ 1QJ1_A Novel Covalent Active Site Thrombin Inhibitors [Homo sapiens]
+ 1QJ6_A Novel Covalent Active Site Thrombin Inhibitors [Homo sapiens]
+ 1QJ7_A Novel Covalent Active Site Thrombin Inhibitors [Homo sapiens]
+ 1RD3_A 2.5A Structure of Anticoagulant Thrombin Variant E217K [Homo 
+sapiens]
+ 1RD3_C 2.5A Structure of Anticoagulant Thrombin Variant E217K [Homo 
+sapiens]
+ 1RIW_A Thrombin in complex with natural product inhibitor Oscillarin 
+[Homo sapiens]
+ 1SFQ_A Fast form of thrombin mutant R(77a)A bound to PPACK [Homo sapiens]
+ 1SFQ_D Fast form of thrombin mutant R(77a)A bound to PPACK [Homo sapiens]
+ 1SG8_A Crystal structure of the procoagulant fast form of thrombin [Homo 
+sapiens]
+ 1SG8_D Crystal structure of the procoagulant fast form of thrombin [Homo 
+sapiens]
+ 1SGI_A Crystal structure of the anticoagulant slow form of thrombin 
+[Homo sapiens]
+ 1SGI_D Crystal structure of the anticoagulant slow form of thrombin 
+[Homo sapiens]
+ 1SHH_A Slow form of Thrombin Bound with PPACK [Homo sapiens]
+ 1SHH_D Slow form of Thrombin Bound with PPACK [Homo sapiens]
+ 1SR5_B ANTITHROMBIN-ANHYDROTHROMBIN-HEPARIN TERNARY COMPLEX STRUCTURE 
+[Homo sapiens]
+ 1TBZ_L Human Thrombin With Active Site N-Methyl-D Phenylalanyl-N-[5- 
+(Aminoiminomethyl)amino]-1-{{benzothiazolyl)carbonyl] Butyl]-L- 
+Prolinamide Trifluroacetate And Exosite-Hirugen [Homo sapiens]
+ 1THP_A STRUCTURE OF HUMAN ALPHA-THROMBIN Y225P MUTANT BOUND TO D-PHE-PRO-ARG-CHLOROMETHYLKETONE 
+[Homo sapiens]
+ 1THR_L Structures Of Thrombin Complexes With A Designed And A Natural 
+Exosite Inhibitor [Homo sapiens]
+ 1THS_L Structures Of Thrombin Complexes With A Designed And A Natural 
+Exosite Inhibitor [Homo sapiens]
+ 1TMB_L Molecular Basis For The Inhibition Of Human Alpha-thrombin By 
+The Macrocyclic Peptide Cyclotheonamide A [Homo sapiens]
+ 1TMT_L CHANGES IN INTERACTIONS IN COMPLEXES OF HIRUDIN DERIVATIVES AND 
+HUMAN ALPHA-THROMBIN DUE TO DIFFERENT CRYSTAL FORMS [Homo 
+sapiens]
+ 1TOM_L Alpha-Thrombin Complexed With Hirugen [Homo sapiens]
+ 1UMA_L Alpha-Thrombin (Hirugen) Complexed With Na-(N,N-Dimethylcarbamoyl)- 
+Alpha-Azalysine [Homo sapiens]
+ 1UVS_L BOVINE THROMBIN--BM51.1011 COMPLEX [Homo sapiens]
+ 1W7G_L Alpha-thrombin complex with sulfated hirudin (residues 54-65) 
+and L- Arginine template inhibitor CS107 [Homo sapiens]
+ 1WAY_A Active site thrombin inhibitors [Homo sapiens]
+ 1WBG_A Active site thrombin inhibitors [Homo sapiens]
+ 1XMN_A Crystal structure of thrombin bound to heparin [Homo sapiens]
+ 1XMN_C Crystal structure of thrombin bound to heparin [Homo sapiens]
+ 1XMN_E Crystal structure of thrombin bound to heparin [Homo sapiens]
+ 1XMN_G Crystal structure of thrombin bound to heparin [Homo sapiens]
+ 2A45_A Crystal structure of the complex between thrombin and the central 
+'E' region of fibrin [Homo sapiens]
+ 2A45_D Crystal structure of the complex between thrombin and the central 
+'E' region of fibrin [Homo sapiens]
+ 2ANM_L Ternary complex of an orally active thrombin inhibitor with human 
+thrombin and a c-terminal hirudin derived exo-sit inhibitor 
+[Homo sapiens]
+ 2BVR_L Human thrombin complexed with fragment-based small molecules 
+occupying the S1 pocket [Homo sapiens]
+ 2BVS_L Human thrombin complexed with fragment-based small molecules 
+occupying the S1 pocket [Homo sapiens]
+ 2BVX_L Design and Discovery of Novel, Potent Thrombin Inhibitors with 
+a Solubilizing Cationic P1-P2-Linker [Homo sapiens]
+ 2BXT_L Design and Discovery of Novel, Potent Thrombin Inhibitors with 
+a Solubilizing Cationic P1-P2-Linker [Homo sapiens]
+ 2BXU_L Design and Discovery of Novel, Potent Thrombin Inhibitors with 
+a Solubilizing Cationic P1-P2-Linker [Homo sapiens]
+ 2C8W_A thrombin inhibitors [Homo sapiens]
+ 2C8X_A thrombin inhibitors [Homo sapiens]
+ 2C8Y_A thrombin inhibitors [Homo sapiens]
+ 2C8Z_A thrombin inhibitors [Homo sapiens]
+ 2C90_A thrombin inhibitors [Homo sapiens]
+ 2C93_A thrombin inhibitors [Homo sapiens]
+ 2FEQ_L orally active thrombin inhibitors [Homo sapiens]
+ 2FES_L Orally active thrombin inhibitors [Homo sapiens]
+ 2GDE_L Thrombin in complex with inhibitor [Homo sapiens]
+ 2GP9_A Crystal structure of the slow form of thrombin in a self-inhibited 
+conformation [Homo sapiens]
+ 2H9T_L Crystal structure of human alpha-thrombin in complex with suramin 
+[Homo sapiens]
+ 2HGT_L STRUCTURE OF THE HIRUGEN AND HIRULOG 1 COMPLEXES OF ALPHA-THROMBIN 
+[Homo sapiens]
+ 2HNT_L Crystallographic Structure Of Human Gamma-Thrombin [Homo sapiens]
+ 2HPP_L Structures of the noncovalent complexes of human and bovine prothrombin 
+fragment 2 with human ppack-thrombin [Homo sapiens]
+ 2HPQ_L Structures of the noncovalent complexes of human and bovine prothrombin 
+fragment 2 with human ppack-thrombin [Homo sapiens]
+ 2HWL_A Crystal structure of thrombin in complex with fibrinogen gamma' 
+peptide [Homo sapiens]
+ 2HWL_C Crystal structure of thrombin in complex with fibrinogen gamma' 
+peptide [Homo sapiens]
+ 2JH0_C Human Thrombin Hirugen Inhibitor complex [Homo sapiens]
+ 2JH5_C Human Thrombin Hirugen Inhibitor complex [Homo sapiens]
+ 2JH6_C Human Thrombin Hirugen Inhibitor complex [Homo sapiens]
+ 2OD3_A Human thrombin chimera with human residues 184a, 186, 186a, 186b, 
+186c and 222 replaced by murine thrombin equivalents. [Homo 
+sapiens]
+ 2PGB_A Inhibitor-free human thrombin mutant C191A-C220A [Homo sapiens]
+ 2THF_A Structure Of Human Alpha-thrombin Y225f Mutant Bound To D-phe-pro-arg- 
+Chloromethylketone [Homo sapiens]
+ 2UUF_A Thrombin-hirugen binary complex at 1.26A resolution [Homo sapiens]
+ 2UUJ_A Thrombin-hirugen-gw473178 ternary complex at 1.32A resolution 
+[Homo sapiens]
+ 2UUK_A Thrombin-hirugen-gw420128 ternary complex at 1.39A resolution 
+[Homo sapiens]
+ 2ZC9_L Thrombin in complex with Inhibitor [Homo sapiens]
+ 2ZDA_L Exploring Thrombin S1 pocket [Homo sapiens]
+ 2ZDV_L Exploring Thrombin S1 pocket [Homo sapiens]
+ 2ZF0_L Exploring Thrombin S1 Pocket [Homo sapiens]
+ 2ZFF_L Exploring Thrombin S1-pocket [Homo sapiens]
+ 2ZFP_L Thrombin Inibition [Homo sapiens]
+ 2ZFQ_L Exploring thrombin S3 pocket [Homo sapiens]
+ 2ZFR_L Exploring thrombin S3 pocket [Homo sapiens]
+ 2ZG0_L Exploring thrombin S3 pocket [Homo sapiens]
+ 2ZGB_L Thrombin Inhibition [Homo sapiens]
+ 2ZGX_L Thrombin Inhibition [Homo sapiens]
+ 2ZHE_L Exploring thrombin S3 pocket [Homo sapiens]
+ 2ZHF_L Exploring thrombin S3 pocket [Homo sapiens]
+ 2ZHQ_L Thrombin Inhibition [Homo sapiens]
+ 2ZHW_L Exploring thrombin S3 pocket [Homo sapiens]
+ 2ZI2_L Thrombin Inhibition [Homo sapiens]
+ 2ZIQ_L Thrombin Inhibition [Homo sapiens]
+ 2ZNK_L Thrombin Inhibition [Homo sapiens]
+ 2ZO3_L Bisphenylic Thrombin Inhibitors [Homo sapiens]
+ 3B23_A Crystal structure of thrombin-variegin complex: Insights of a 
+novel mechanism of inhibition and design of tunable thrombin 
+inhibitors [Homo sapiens]
+ 3BF6_L Thrombin:suramin complex [Homo sapiens]
+ 3D49_L Thrombin Inhibition [Homo sapiens]
+ 3DA9_A Crystal structure of thrombin in complex with inhibitor [Homo 
+sapiens]
+ 3DHK_L Bisphenylic Thrombin Inhibitors [Homo sapiens]
+ 3DT0_L Understanding Thrombin Inhibition [Homo sapiens]
+ 3DUX_L Understanding Thrombin Inhibition [Homo sapiens]
+ 3EE0_A Crystal Structure of the W215A/E217A Mutant of Human Thrombin 
+(space group P2(1)2(1)2(1)) [Homo sapiens]
+ 3EGK_L KNOBLE Inhibitor [Homo sapiens]
+ 3EQ0_L Thrombin Inhibitor [Homo sapiens]
+ 3F68_L Thrombin Inhibition [Homo sapiens]
+ 3GIC_A Structure of thrombin mutant delta(146-149e) in the free form 
+[Homo sapiens]
+ 3HAT_L Active Site Mimetic Inhibition Of Thrombin [Homo sapiens]
+ 3HTC_L The Structure Of A Complex Of Recombinant Hirudin And Human Alpha-Thrombin 
+[Homo sapiens]
+ 3JZ1_A Crystal structure of human thrombin mutant N143P in E:Na+ form 
+[Homo sapiens]
+ 3JZ2_A Crystal structure of human thrombin mutant N143P in E* form [Homo 
+sapiens]
+ 3LDX_L Discovery and Clinical Evaluation of RWJ-671818, a Thrombin Inhibitor 
+with an Oxyguanidine P1 Motif [Homo sapiens]
+ 3P17_L Thrombin Inhibition by Pyridin Derivatives [Homo sapiens]
+ 3P6Z_A Structural basis of thrombin mediated factor V activation: essential 
+role of the hirudin-like sequence Glu666-Glu672 for 
+processing at the heavy chain-B domain junction [Homo sapiens]
+ 3P6Z_G Structural basis of thrombin mediated factor V activation: essential 
+role of the hirudin-like sequence Glu666-Glu672 for 
+processing at the heavy chain-B domain junction [Homo sapiens]
+ 3P70_A Structural basis of thrombin-mediated factor V activation: essential 
+role of the hirudin-like sequence Glu666-Glu672 for 
+processing at the heavy chain-B domain junction [Homo sapiens]
+ 3P70_C Structural basis of thrombin-mediated factor V activation: essential 
+role of the hirudin-like sequence Glu666-Glu672 for 
+processing at the heavy chain-B domain junction [Homo sapiens]
+ 3P70_E Structural basis of thrombin-mediated factor V activation: essential 
+role of the hirudin-like sequence Glu666-Glu672 for 
+processing at the heavy chain-B domain junction [Homo sapiens]
+ 3P70_G Structural basis of thrombin-mediated factor V activation: essential 
+role of the hirudin-like sequence Glu666-Glu672 for 
+processing at the heavy chain-B domain junction [Homo sapiens]
+ 3PMH_A Mechanism of Sulfotyrosine-Mediated Glycoprotein Ib Interaction 
+with Two Distinct alpha-Thrombin Sites [Homo sapiens]
+ 3QLP_L X-ray structure of the complex between human alpha thrombin and 
+a modified thrombin binding aptamer (mTBA) [Homo sapiens]
+ 3QTO_L Thrombin Inhibition by Pyridin Derivatives [Homo sapiens]
+ 3QTV_L Thrombin Inhibition by Pyridin Derivatives [Homo sapiens]
+ 3QWC_L Thrombin Inhibition by Pyridin Derivatives [Homo sapiens]
+ 3QX5_L Thrombin Inhibition by Pyridin Derivatives [Homo sapiens]
+ 3RLW_L Human Thrombin in complex with MI328 [Homo sapiens]
+ 3RLY_L Human Thrombin in complex with MI329 [Homo sapiens]
+ 3RM0_L Human Thrombin in complex with MI354 [Homo sapiens]
+ 3RM2_L Human Thrombin in complex with MI003 [Homo sapiens]
+ 3RML_L Human Thrombin in complex with MI331 [Homo sapiens]
+ 3RMM_L Human Thrombin in complex with MI332 [Homo sapiens]
+ 3RMN_L Human Thrombin in complex with MI341 [Homo sapiens]
+ 3RMO_L Human Thrombin in complex with MI004 [Homo sapiens]
+ 3SHA_L Human Thrombin In Complex With UBTHR97 [Homo sapiens]
+ 3SHC_L Human Thrombin In Complex With UBTHR101 [Homo sapiens]
+ 3SI3_L Human Thrombin In Complex With UBTHR103 [Homo sapiens]
+ 3SI4_L Human Thrombin In Complex With UBTHR104 [Homo sapiens]
+ 3SV2_L Human Thrombin In Complex With UBTHR105 [Homo sapiens]
+ 3T5F_L Human Thrombin In Complex With MI340 [Homo sapiens]
+ 3TU7_L Human alpha-thrombin complexed with N-(methylsulfonyl)-D-phenylalanyl-N-((1-carbamimidoyl-4-piperidinyl)methyl)-l-prolinamide 
+(BMS-189664) [Homo sapiens]
+ 3U98_L Human Thrombin In Complex With MI001 [Homo sapiens]
+ 3U9A_L Human Thrombin In Complex With MI330 [Homo sapiens]
+ 3UTU_L High affinity inhibitor of human thrombin [Homo sapiens]
+ 3UWJ_L Human Thrombin In Complex With MI353 [Homo sapiens]
+ 3VXE_L Human alpha-thrombin-Bivalirudin complex at PD5.0 [Homo sapiens]
+ 3VXF_L X/N Joint refinement of Human alpha-thrombin-Bivalirudin complex 
+PD5 [Homo sapiens]
+ 4BAH_A Thrombin in complex with inhibitor [Homo sapiens]
+ 4BAK_A Thrombin in complex with inhibitor [Homo sapiens]
+ 4BAM_A Thrombin in complex with inhibitor [Homo sapiens]
+ 4BAN_A Thrombin in complex with inhibitor [Homo sapiens]
+ 4BAO_A Thrombin in complex with inhibitor [Homo sapiens]
+ 4BAQ_A Thrombin in complex with inhibitor [Homo sapiens]
+ 4BOH_B Madanins (MEROPS I53) are cleaved by thrombin and factor Xa [Homo 
+sapiens]
+ 4BOH_L Madanins (MEROPS I53) are cleaved by thrombin and factor Xa [Homo 
+sapiens]
+ 4CH2_A Low-salt crystal structure of a thrombin-GpIbalpha peptide complex 
+[Homo sapiens]
+ 4CH2_C Low-salt crystal structure of a thrombin-GpIbalpha peptide complex 
+[Homo sapiens]
+ 4CH8_A High-salt crystal structure of a thrombin-GpIbalpha peptide complex 
+[Homo sapiens]
+ 4CH8_C High-salt crystal structure of a thrombin-GpIbalpha peptide complex 
+[Homo sapiens]
+ 4CH8_E High-salt crystal structure of a thrombin-GpIbalpha peptide complex 
+[Homo sapiens]
+ 4CH8_G High-salt crystal structure of a thrombin-GpIbalpha peptide complex 
+[Homo sapiens]
+ 4DIH_L X-ray structure of the complex between human alpha thrombin and 
+thrombin binding aptamer in the presence of sodium ions [Homo 
+sapiens]
+ 4DII_L X-ray structure of the complex between human alpha thrombin and 
+thrombin binding aptamer in the presence of potassium ions 
+[Homo sapiens]
+ 4E05_L Anophelin from the malaria vector inhibits thrombin through a 
+novel reverse-binding mechanism [Homo sapiens]
+ 4E06_L Anophelin from the malaria vector inhibits thrombin through a 
+novel reverse-binding mechanism [Homo sapiens]
+ 4E7R_L Thrombin in complex with 3-amidinophenylalanine inhibitor [Homo 
+sapiens]
+ 4E7R_M Thrombin in complex with 3-amidinophenylalanine inhibitor [Homo 
+sapiens]
+ 4HTC_L THE REFINED STRUCTURE OF THE HIRUDIN-THROMBIN COMPLEX [Homo sapiens]
+ 4I7Y_L Crystal Structure of Human Alpha Thrombin in Complex with a 27-mer 
+Aptamer Bound to Exosite II [Homo sapiens]
+ 4LXB_L Crystal Structure Analysis of thrombin in complex with compound 
+D58 [Homo sapiens]
+ 4LZ1_L X-ray structure of the complex between human thrombin and the 
+TBA deletion mutant lacking thymine 12 nucleobase [Homo sapiens]
+ 4LZ4_A X-ray structure of the complex between human thrombin and the 
+TBA deletion mutant lacking thymine 3 nucleobase [Homo sapiens]
+ 4LZ4_C X-ray structure of the complex between human thrombin and the 
+TBA deletion mutant lacking thymine 3 nucleobase [Homo sapiens]
+ 4THN_L The Crystal Structure Of Alpha-Thrombin-Hirunorm Iv Complex Reveals 
+A Novel Specificity Site Recognition Mode. [Homo sapiens]
+ 4YES_A Thrombin in complex with (S)-(4-chloro-2-((1-(5-methyl-1H-pyrrole-2-carbonyl)pyrrolidine-2-carboxamido)methyl)phenyl)methanaminium 
+[Homo sapiens]
+ 5CMX_L X-ray structure of the complex between human alpha thrombin and 
+a duplex/quadruplex 31-mer DNA aptamer [Homo sapiens]
+ 5DO4_L Thrombin-RNA aptamer complex [Homo sapiens]
+ 5E8E_L Crystal structure of thrombin bound to an exosite 1-specific 
+IgA Fab [Homo sapiens]
+ 5EW1_L Human thrombin sandwiched between two DNA aptamers: HD22 and 
+HD1-deltaT3 [Homo sapiens]
+ 5EW2_L Human thrombin sandwiched between two DNA aptamers: HD22 and 
+HD1-deltaT12 [Homo sapiens]
+ 5GDS_L Hirunorms Are True Hirudin Mimetics. The Crystal Structure Of 
+Human Alpha-Thrombin:hirunorm V Complex [Homo sapiens]
+ 5GIM_A Crystal structure of thrombin-avathrin complex [Homo sapiens]
+ 5JFD_L Thrombin in complex with (S)-N-(2-(aminomethyl)-5-chlorobenzyl)-1-((benzylsulfonyl)-D-arginyl)pyrrolidine-2-carboxamide 
+[Homo 
+sapiens]
+ 5JZY_L Thrombin in complex with (S)-1-((R)-2-amino-3-cyclohexylpropanoyl)-N-(4-carbamimidoylbenzyl)pyrrolidine-2-carboxamide 
+[Homo 
+sapiens]
+ 5L6N_L Disulfated madanin-thrombin complex [Homo sapiens]
+ 5LCE_L Thrombin in complex with (S)-1-((R)-2-amino-3-cyclohexylpropanoyl)-N-(5-chloro-2-(hydroxymethyl)benzy 
+l)pyrrolidine-2-carboxamide 
+[Homo sapiens]
+ 5LPD_L Thrombin in complex with (S)-1-((R)-2-amino-3-cyclohexylpropanoyl)-N-(2-(aminomethyl)-5-chlorobenzyl) 
+pyrrolidine-2-carboxamide 
+[Homo sapiens]
+ 5MJT_L Thrombin Mutant A190S in complex with (S) -1 - ((R) -2-amino-3,3-diphenylpropanoyl) 
+-N- (3-chlorobenzyl) pyrrolidine-2-carboxamide 
+[Homo sapiens]
+ 5MLS_L Thrombin Mutant A190S in complex with (S)-1-(D-phenylalanyl)-N-(3-chlorobenzyl)pyrrolidine-2-carboxamide 
+[Homo sapiens]
+ 5MM6_L Thrombin Mutant A190S in complex with (S)-1-(D-phenylalanyl)-N-(4-carbamimidoylbenzyl)pyrrolidine-2-carboxamide 
+[Homo sapiens]
+ 5NHU_B HUMAN ALPHA THROMBIN COMPLEXED WITH ANOPHELES GAMBIAE cE5 ANTICOAGULANT 
+[Homo sapiens]
+ 5NHU_D HUMAN ALPHA THROMBIN COMPLEXED WITH ANOPHELES GAMBIAE cE5 ANTICOAGULANT 
+[Homo sapiens]
+ 5NHU_L HUMAN ALPHA THROMBIN COMPLEXED WITH ANOPHELES GAMBIAE cE5 ANTICOAGULANT 
+[Homo sapiens]
+ 6EO6_L X-ray structure of the complex between human alpha-thrombin and 
+modified 15-mer DNA aptamer containing 5-(3-(2-(1H-indol-3-yl)acetamide-N-yl)-1-propen-1-yl)-2'-deoxyuridine 
+residue 
+[Homo sapiens]
+ 6EO7_L X-ray structure of the complex between human alpha-thrombin and 
+modified 15-mer DNA aptamer containing 5-(3-(acetamide-N-yl)-1-propen-1-yl)-2'-deoxyuridine 
+residue [Homo sapiens]
+ 6EO8_L Crystal structure of thrombin in complex with a novel glucose-conjugated 
+potent inhibitor [Homo sapiens]
+ 6EO9_L Crystal structure of thrombin in complex with a novel glucose-conjugated 
+potent inhibitor [Homo sapiens]
+ 6EVV_L X-ray structure of the complex between human alpha thrombin and 
+NU172, a duplex/quadruplex 26-mer DNA aptamer, in the presence 
+of potassium ions. [Homo sapiens]
+ 6GBW_L Thrombin in complex with MI2100 ((S)-N-(2-(aminomethyl)-5-chlorobenzyl)-1-((benzylsulfonyl)-L-arginyl)pyrrolidine-2-carboxamide) 
+[Homo sapiens]
+ 6GN7_L X-ray structure of the complex between human alpha thrombin and 
+NU172, a duplex/quadruplex 26-mer DNA aptamer, in the presence 
+of sodium ions. [Homo sapiens]
+ 6HSX_L Thrombin in Complex with a D-Phe-Pro-diaminopyridine derivative 
+[Homo sapiens]
+ 6I51_L Chain L, Prothrombin [Homo sapiens]
+ 6PXJ_A Crystal structure of human thrombin mutant I16T [Homo sapiens]
+ 6PXJ_L Crystal structure of human thrombin mutant I16T [Homo sapiens]
+ 6ROT_L Thrombin in complex with MI2105 [Homo sapiens]
+ 6T3M_L Thrombin in Complex with a D-Phe-Pro-p-phenol derivative [Homo 
+sapiens]
+ 6T3Q_L Thrombin in Complex with a D-Phe-Pro-2-aminopyridine derivative 
+[Homo sapiens]
+ 6T4A_L Thrombin in Complex with a D-Phe-Pro-p-aminopyridine derivative 
+[Homo sapiens]
+ 6T52_L Thrombin in Complex with a D-Phe-Pro-imidazole derivative [Homo 
+sapiens]
+ 6T53_L Thrombin in Complex with a D-Phe-Pro-p-benzylamine derivative 
+[Homo sapiens]
+ 6T54_L Thrombin in Complex with a D-Phe-Pro-2-bromothiophene Derivative 
+[Homo sapiens]
+ 6T55_L Thrombin in Complex with Methylbenzylamine [Homo sapiens]
+ 6T56_L Thrombin in Complex with Benzylamine [Homo sapiens]
+ 6T57_L Thrombin in Complex with a D-Phe-Pro-N-amidinopiperidine Derivative 
+[Homo sapiens]
+ 6T7H_B Chain B, Prothrombin [Homo sapiens]
+ 6T7H_L Chain L, Prothrombin [Homo sapiens]
+ 6T89_L Thrombin in complex with (S)-N-(tert-butyl)-4-(3-(3-carbamimidoylphenyl)-2-((2',4'-dimethoxy-[1,1'-biphenyl])-3-sulfonamido)propanoyl)piperazine-1-carboxamide 
+(MI-498) [Homo sapiens]
+ 6T8A_L Thrombin in complex with diphenyl ((4-carbamimidoylphenyl)((S)-1-((R)-3-cyclohexyl 
+2-((phenylmethyl)sulfonamido)propanoyl)pyrrolidine-2-carboxamido)methyl)phosphonate 
+(MI-492) [Homo 
+sapiens]
+ 6TDT_L Thrombin in Complex with a D-DiPhe-Pro-p-pyridine derivative 
+[Homo sapiens]
+ 6TKG_L Tsetse thrombin inhibitor in complex with human alpha-thrombin 
+- orthorhombic form at 12keV [Homo sapiens]
+ 6TKH_L Tsetse thrombin inhibitor in complex with human alpha-thrombin 
+- orthorhombic form at 7keV [Homo sapiens]
+ 6TKI_L Tsetse thrombin inhibitor in complex with human alpha-thrombin 
+- tetragonal form at 12.7keV [Homo sapiens]
+ 6TKJ_L Tsetse thrombin inhibitor in complex with human alpha-thrombin 
+- tetragonal form at 7keV [Homo sapiens]
+ 6TKL_L Non-cleavable tsetse thrombin inhibitor in complex with human 
+alpha-thrombin [Homo sapiens]
+ 6Y02_L Chain L, Prothrombin [Homo sapiens]
+ 6Y9H_L Chain L, Prothrombin [Homo sapiens]
+ 6YB6_L Chain L, Prothrombin [Homo sapiens]
+ 6YHG_L Chain L, Prothrombin [Homo sapiens]
+ 6YHJ_L Chain L, Prothrombin [Homo sapiens]
+ 6YMP_L Chain L, Prothrombin [Homo sapiens]
+ 6YN3_L Chain L, Prothrombin [Homo sapiens]
+ 6YQV_L Chain L, Prothrombin [Homo sapiens]
+ 6YSJ_L Chain L, Prothrombin [Homo sapiens]
+ 6YSX_L Chain L, Prothrombin [Homo sapiens]
+ 6Z8V_L Chain L, Prothrombin [Homo sapiens]
+ 6Z8W_L Chain L, Prothrombin [Homo sapiens]
+ 6Z8X_L Chain L, Prothrombin [Homo sapiens]
+ 6ZGO_L Chain L, Prothrombin [Homo sapiens]
+ 6ZUH_L Crystal Structure of Thrombin in complex with compound17 [Homo 
+sapiens]
+ 6ZUN_L Crystal Structure of Thrombin in complex with compound20a [Homo 
+sapiens]
+ 6ZUU_L Crystal structure of Thrombin in complex with compound30 [Homo 
+sapiens]
+ 6ZUW_L Crystal Structure of Thrombin in complex with compound40 [Homo 
+sapiens]
+ 6ZUX_L Crystal Structure of Thrombin in complex with compound42a [Homo 
+sapiens]
+ 6ZV7_L Crystal Structure of Thrombin in complex with compound42b [Homo 
+sapiens]
+ 6ZV8_L Crystal Structure of Thrombin in complex with compound51 [Homo 
+sapiens]
+ 7KME_L CRYSTAL STRUCTURE OF HUMAN ALPHA-THROMBIN INHIBITED WITH SEL2711. 
+[Homo sapiens]
+ 7NTU_A Chain A, Prothrombin [Homo sapiens]
+ 7NTU_C Chain C, Prothrombin [Homo sapiens]
+ 8KME_1 CRYSTAL STRUCTURE OF HUMAN ALPHA-THROMBIN INHIBITED WITH SEL2770. 
+[Homo sapiens]
+Length=36
+
+ Score = 55.8 bits (133),  Expect = 5e-13, Method: Compositional matrix adjust.
+ Identities = 27/27 (100%), Positives = 27/27 (100%), Gaps = 0/27 (0%)
+
+Query  1   ADCGLRPLFEKKSLEDKTERELLESYI  27
+           ADCGLRPLFEKKSLEDKTERELLESYI
+Sbjct  7   ADCGLRPLFEKKSLEDKTERELLESYI  33
+
+
+>1TQ7_A Crystal structure of the anticoagulant thrombin mutant W215A/E217A 
+bound to PPACK [Homo sapiens]
+ 3BEI_A Crystal structure of the slow form of thrombin in a self_inhibited 
+conformation [Homo sapiens]
+Length=44
+
+ Score = 55.8 bits (133),  Expect = 5e-13, Method: Compositional matrix adjust.
+ Identities = 27/27 (100%), Positives = 27/27 (100%), Gaps = 0/27 (0%)
+
+Query  1   ADCGLRPLFEKKSLEDKTERELLESYI  27
+           ADCGLRPLFEKKSLEDKTERELLESYI
+Sbjct  15  ADCGLRPLFEKKSLEDKTERELLESYI  41
+
+
+>1Z8I_A Crystal structure of the thrombin mutant G193A bound to PPACK 
+[Homo sapiens]
+Length=39
+
+ Score = 55.8 bits (133),  Expect = 5e-13, Method: Compositional matrix adjust.
+ Identities = 27/27 (100%), Positives = 27/27 (100%), Gaps = 0/27 (0%)
+
+Query  1   ADCGLRPLFEKKSLEDKTERELLESYI  27
+           ADCGLRPLFEKKSLEDKTERELLESYI
+Sbjct  12  ADCGLRPLFEKKSLEDKTERELLESYI  38
+
+
+>1TWX_A Crystal structure of the thrombin mutant D221A/D222K [Homo sapiens]
+ 2CF8_L Complex of recombinant human thrombin with an inhibitor [Homo 
+sapiens]
+ 2CF9_L Complex of recombinant human thrombin with an inhibitor [Homo 
+sapiens]
+ 2CN0_L Complex of Recombinant Human Thrombin with a Designed Inhibitor 
+[Homo sapiens]
+ 2V3H_L Thrombin with 3-cycle no F [Homo sapiens]
+ 2V3O_L Thrombin with 3-cycle with F [Homo sapiens]
+ 4AX9_L Human thrombin complexed with Napsagatran, RO0466240 [Homo sapiens]
+ 6CYM_B Reversible Covalent Direct Thrombin Inhibitors [Homo sapiens]
+ 6CYM_D Reversible Covalent Direct Thrombin Inhibitors [Homo sapiens]
+Length=28
+
+ Score = 55.5 bits (132),  Expect = 5e-13, Method: Compositional matrix adjust.
+ Identities = 27/27 (100%), Positives = 27/27 (100%), Gaps = 0/27 (0%)
+
+Query  1   ADCGLRPLFEKKSLEDKTERELLESYI  27
+           ADCGLRPLFEKKSLEDKTERELLESYI
+Sbjct  1   ADCGLRPLFEKKSLEDKTERELLESYI  27
+
+
+>1HDT_L Structure Of A Retro-Binding Peptide Inhibitor Complexed With 
+Human Alpha-Thrombin [Homo sapiens]
+ 4MLF_A Crystal structure for the complex of thrombin mutant D102N and 
+hirudin [Homo sapiens]
+ 5JDU_A Crystal structure for human thrombin mutant D189A [Homo sapiens]
+ 5JDU_C Crystal structure for human thrombin mutant D189A [Homo sapiens]
+ 6PXQ_A Crystal structure of human thrombin mutant D194A [Homo sapiens]
+Length=33
+
+ Score = 55.5 bits (132),  Expect = 5e-13, Method: Compositional matrix adjust.
+ Identities = 27/27 (100%), Positives = 27/27 (100%), Gaps = 0/27 (0%)
+
+Query  1   ADCGLRPLFEKKSLEDKTERELLESYI  27
+           ADCGLRPLFEKKSLEDKTERELLESYI
+Sbjct  4   ADCGLRPLFEKKSLEDKTERELLESYI  30
+
+
+>4RKO_A Crystal structure of thrombin mutant S195T bound with PPACK [Homo 
+sapiens]
+Length=42
+
+ Score = 55.8 bits (133),  Expect = 5e-13, Method: Compositional matrix adjust.
+ Identities = 27/27 (100%), Positives = 27/27 (100%), Gaps = 0/27 (0%)
+
+Query  1   ADCGLRPLFEKKSLEDKTERELLESYI  27
+           ADCGLRPLFEKKSLEDKTERELLESYI
+Sbjct  13  ADCGLRPLFEKKSLEDKTERELLESYI  39
+
+
+>2PGQ_A Human thrombin mutant C191A-C220A in complex with the inhibitor 
+PPACK [Homo sapiens]
+Length=45
+
+ Score = 55.8 bits (133),  Expect = 5e-13, Method: Compositional matrix adjust.
+ Identities = 27/27 (100%), Positives = 27/27 (100%), Gaps = 0/27 (0%)
+
+Query  1   ADCGLRPLFEKKSLEDKTERELLESYI  27
+           ADCGLRPLFEKKSLEDKTERELLESYI
+Sbjct  16  ADCGLRPLFEKKSLEDKTERELLESYI  42
+
+
+>1P8V_B Crystal Structure Of The Complex Of Platelet Receptor Gpib-alpha 
+And Alpha-thrombin At 2.6a [Homo sapiens]
+ 1SB1_L Novel Non-Covalent Thrombin Inhibitors Incorporating P1 4,5,6,7-Tetrahydrobenzothiazole 
+Arginine Side Chain Mimetics [Homo 
+sapiens]
+ 3BIU_L Human thrombin-in complex with UB-THR10 [Homo sapiens]
+ 3BIV_L Human thrombin-in complex with UB-THR11 [Homo sapiens]
+ 4UEH_L Thrombin in complex with benzamidine [Homo sapiens]
+ 4UFD_L Thrombin in complex with 4-(((1-((2S)-1-((2R)-2-(benzylsulfonylamino)- 
+3-phenyl-propanoyl)pyrrolidin-2-yl)-1-oxo-ethyl)amino)methyl) 
+benzamidine [Homo sapiens]
+ 4UFE_L Thrombin in complex with (2R)-2-(benzylsulfonylamino)-N-(2-((4- 
+carbamimidoylphenyl)methylamino)-2-oxo-butyl)-3-phenyl-propanamide 
+[Homo sapiens]
+ 4UFF_L Thrombin in complex with (2R)-2-(benzylsulfonylamino)-N-(2-((4- 
+carbamimidoylphenyl)methylamino)-2-oxo-ethyl)-N-methyl-3-phenyl- 
+propanamide [Homo sapiens]
+ 4UFG_L Thrombin in complex with (2R)-2-(benzylsulfonylamino)-N-((1S)-2-((4- 
+carbamimidoylphenyl)methylamino)-1-methyl-2-oxo-ethyl)-N-methyl-3- 
+phenyl-propanamide ethane [Homo sapiens]
+ 5A2M_L Thrombin Inhibitor [Homo sapiens]
+ 5AF9_L Thrombin in complex with 4-Methoxy-N-(2-pyridinyl)benzamide [Homo 
+sapiens]
+ 5AFY_L Thrombin in complex with 3-chloro-benzamide [Homo sapiens]
+ 5AFZ_L Thrombin in complex with (2R)-2-(benzylsulfonylamino)-N-(2-((4- 
+carbamimidoylphenyl)methylamino)-2-oxo-propyl)-3-phenyl-propanamide 
+[Homo sapiens]
+ 5AHG_L Thrombin in complex with ((4-chlorophenyl)sulfamoyl))diemethylamine 
+[Homo sapiens]
+ 6ZUG_L Crystal Structure of Thrombin in complex with compound10 [Homo 
+sapiens]
+Length=29
+
+ Score = 55.5 bits (132),  Expect = 6e-13, Method: Compositional matrix adjust.
+ Identities = 27/27 (100%), Positives = 27/27 (100%), Gaps = 0/27 (0%)
+
+Query  1   ADCGLRPLFEKKSLEDKTERELLESYI  27
+           ADCGLRPLFEKKSLEDKTERELLESYI
+Sbjct  2   ADCGLRPLFEKKSLEDKTERELLESYI  28
+
+
+>3S7H_A Structure of thrombin mutant Y225P in the E* form [Homo sapiens]
+ 3S7K_A Structure of thrombin mutant Y225P in the E form [Homo sapiens]
+ 3S7K_C Structure of thrombin mutant Y225P in the E form [Homo sapiens]
+Length=35
+
+ Score = 55.5 bits (132),  Expect = 6e-13, Method: Compositional matrix adjust.
+ Identities = 27/27 (100%), Positives = 27/27 (100%), Gaps = 0/27 (0%)
+
+Query  1   ADCGLRPLFEKKSLEDKTERELLESYI  27
+           ADCGLRPLFEKKSLEDKTERELLESYI
+Sbjct  6   ADCGLRPLFEKKSLEDKTERELLESYI  32
+
+
+>2AFQ_A 1.9 angstrom crystal structure of wild-type human thrombin in 
+the sodium free state [Homo sapiens]
+ 2AFQ_C 1.9 angstrom crystal structure of wild-type human thrombin in 
+the sodium free state [Homo sapiens]
+Length=29
+
+ Score = 55.5 bits (132),  Expect = 6e-13, Method: Compositional matrix adjust.
+ Identities = 27/27 (100%), Positives = 27/27 (100%), Gaps = 0/27 (0%)
+
+Query  1   ADCGLRPLFEKKSLEDKTERELLESYI  27
+           ADCGLRPLFEKKSLEDKTERELLESYI
+Sbjct  3   ADCGLRPLFEKKSLEDKTERELLESYI  29
+
+
+>3DD2_L Crystal structure of an RNA aptamer bound to human thrombin [Homo 
+sapiens]
+ 4AYV_A Human thrombin - inhibitor complex [Homo sapiens]
+ 4AYY_A Human thrombin - inhibitor complex [Homo sapiens]
+ 4AZ2_A Human thrombin - inhibitor complex [Homo sapiens]
+Length=30
+
+ Score = 55.5 bits (132),  Expect = 6e-13, Method: Compositional matrix adjust.
+ Identities = 27/27 (100%), Positives = 27/27 (100%), Gaps = 0/27 (0%)
+
+Query  1   ADCGLRPLFEKKSLEDKTERELLESYI  27
+           ADCGLRPLFEKKSLEDKTERELLESYI
+Sbjct  3   ADCGLRPLFEKKSLEDKTERELLESYI  29
+
+
+>6GWE_L Crystal structure of Thrombin bound to P2 macrocycle [Homo sapiens]
+Length=30
+
+ Score = 55.5 bits (132),  Expect = 6e-13, Method: Compositional matrix adjust.
+ Identities = 27/27 (100%), Positives = 27/27 (100%), Gaps = 0/27 (0%)
+
+Query  1   ADCGLRPLFEKKSLEDKTERELLESYI  27
+           ADCGLRPLFEKKSLEDKTERELLESYI
+Sbjct  2   ADCGLRPLFEKKSLEDKTERELLESYI  28
+
+
+>2A0Q_A Structure of thrombin in 400 mM potassium chloride [Homo sapiens]
+ 2A0Q_C Structure of thrombin in 400 mM potassium chloride [Homo sapiens]
+ 3U69_L Unliganded wild-type human thrombin [Homo sapiens]
+ 3U8O_L Human thrombin complexed with D-Phe-Pro-D-Arg-D-Thr [Homo sapiens]
+ 3U8R_L Human thrombin complexed with D-Phe-Pro-D-Arg-Ile [Homo sapiens]
+ 6GWE_B Crystal structure of Thrombin bound to P2 macrocycle [Homo sapiens]
+ 6V64_A Crystal structure of human thrombin bound to ppack with tryptophans 
+replaced by 5-F-tryptophan [Homo sapiens]
+Length=30
+
+ Score = 55.5 bits (132),  Expect = 6e-13, Method: Compositional matrix adjust.
+ Identities = 27/27 (100%), Positives = 27/27 (100%), Gaps = 0/27 (0%)
+
+Query  1   ADCGLRPLFEKKSLEDKTERELLESYI  27
+           ADCGLRPLFEKKSLEDKTERELLESYI
+Sbjct  1   ADCGLRPLFEKKSLEDKTERELLESYI  27
+
+
+>1TQ0_A Crystal structure of the potent anticoagulant thrombin mutant 
+W215A/E217A in free form [Homo sapiens]
+ 1TQ0_C Crystal structure of the potent anticoagulant thrombin mutant 
+W215A/E217A in free form [Homo sapiens]
+ 3BV9_A Structure of Thrombin Bound to the Inhibitor FM19 [Homo sapiens]
+ 3HKJ_A Crystal structure of human thrombin mutant W215A/E217A in complex 
+with the extracellular fragment of human PAR1 [Homo sapiens]
+ 3HKJ_D Crystal structure of human thrombin mutant W215A/E217A in complex 
+with the extracellular fragment of human PAR1 [Homo sapiens]
+ 3QDZ_A Crystal structure of the human thrombin mutant D102N in complex 
+with the extracellular fragment of human PAR4. [Homo sapiens]
+ 3QDZ_C Crystal structure of the human thrombin mutant D102N in complex 
+with the extracellular fragment of human PAR4. [Homo sapiens]
+ 3QGN_A The allosteric E*-E equilibrium is a key property of the trypsin 
+fold [Homo sapiens]
+ 3R3G_A Structure of human thrombin with residues 145-150 of murine thrombin. 
+[Homo sapiens]
+ 4HFP_A Structure of thrombin mutant S195a bound to the active site inhibitor 
+argatroban [Homo sapiens]
+ 4HFP_C Structure of thrombin mutant S195a bound to the active site inhibitor 
+argatroban [Homo sapiens]
+ 6P9U_A Crystal structure of human thrombin mutant W215A [Homo sapiens]
+ 6P9U_C Crystal structure of human thrombin mutant W215A [Homo sapiens]
+ 6P9U_E Crystal structure of human thrombin mutant W215A [Homo sapiens]
+ 6P9U_G Crystal structure of human thrombin mutant W215A [Homo sapiens]
+Length=31
+
+ Score = 55.5 bits (132),  Expect = 6e-13, Method: Compositional matrix adjust.
+ Identities = 27/27 (100%), Positives = 27/27 (100%), Gaps = 0/27 (0%)
+
+Query  1   ADCGLRPLFEKKSLEDKTERELLESYI  27
+           ADCGLRPLFEKKSLEDKTERELLESYI
+Sbjct  2   ADCGLRPLFEKKSLEDKTERELLESYI  28
+
+
+>4DT7_A Crystal structure of thrombin bound to the activation domain 
+QEDQVDPRLIDGKMTRRGDS of protein C [Homo sapiens]
+ 4DT7_C Crystal structure of thrombin bound to the activation domain 
+QEDQVDPRLIDGKMTRRGDS of protein C [Homo sapiens]
+Length=32
+
+ Score = 55.5 bits (132),  Expect = 6e-13, Method: Compositional matrix adjust.
+ Identities = 27/27 (100%), Positives = 27/27 (100%), Gaps = 0/27 (0%)
+
+Query  1   ADCGLRPLFEKKSLEDKTERELLESYI  27
+           ADCGLRPLFEKKSLEDKTERELLESYI
+Sbjct  3   ADCGLRPLFEKKSLEDKTERELLESYI  29
+
+
+>4H6S_A Crystal structure of thrombin mutant E14eA/D14lA/E18A/S195A [Homo 
+sapiens]
+Length=31
+
+ Score = 53.9 bits (128),  Expect = 2e-12, Method: Compositional matrix adjust.
+ Identities = 26/27 (96%), Positives = 26/27 (96%), Gaps = 0/27 (0%)
+
+Query  1   ADCGLRPLFEKKSLEDKTERELLESYI  27
+           ADCGLRPLFEKKSLEDKTER LLESYI
+Sbjct  2   ADCGLRPLFEKKSLEDKTERALLESYI  28
+
+
+>5EDM_A Crystal structure of prothrombin deletion mutant residues 154-167 
+(Form I) [Homo sapiens]
+Length=568
+
+ Score = 58.5 bits (140),  Expect = 3e-12, Method: Composition-based stats.
+ Identities = 27/27 (100%), Positives = 27/27 (100%), Gaps = 0/27 (0%)
+
+Query  1    ADCGLRPLFEKKSLEDKTERELLESYI  27
+            ADCGLRPLFEKKSLEDKTERELLESYI
+Sbjct  277  ADCGLRPLFEKKSLEDKTERELLESYI  303
+
+
+>4NZQ_A Crystal structure of Ca2+-free prothrombin deletion mutant residues 
+146-167 [Homo sapiens]
+ 4O03_A Crystal structure of Ca2+ bound prothrombin deletion mutant residues 
+146-167 [Homo sapiens]
+Length=557
+
+ Score = 58.2 bits (139),  Expect = 3e-12, Method: Composition-based stats.
+ Identities = 27/27 (100%), Positives = 27/27 (100%), Gaps = 0/27 (0%)
+
+Query  1    ADCGLRPLFEKKSLEDKTERELLESYI  27
+            ADCGLRPLFEKKSLEDKTERELLESYI
+Sbjct  269  ADCGLRPLFEKKSLEDKTERELLESYI  295
+
+
+>6BJR_A Crystal structure of prothrombin mutant S101C/A470C [Homo sapiens]
+ 6C2W_A Crystal structure of human prothrombin mutant S101C/A470C [Homo 
+sapiens]
+ 6C2W_B Crystal structure of human prothrombin mutant S101C/A470C [Homo 
+sapiens]
+Length=582
+
+ Score = 58.2 bits (139),  Expect = 3e-12, Method: Composition-based stats.
+ Identities = 27/27 (100%), Positives = 27/27 (100%), Gaps = 0/27 (0%)
+
+Query  1    ADCGLRPLFEKKSLEDKTERELLESYI  27
+            ADCGLRPLFEKKSLEDKTERELLESYI
+Sbjct  291  ADCGLRPLFEKKSLEDKTERELLESYI  317
+
+
+>5EDK_A Crystal structure of prothrombin deletion mutant residues 146-167 
+(Form II). [Homo sapiens]
+Length=560
+
+ Score = 58.2 bits (139),  Expect = 3e-12, Method: Composition-based stats.
+ Identities = 27/27 (100%), Positives = 27/27 (100%), Gaps = 0/27 (0%)
+
+Query  1    ADCGLRPLFEKKSLEDKTERELLESYI  27
+            ADCGLRPLFEKKSLEDKTERELLESYI
+Sbjct  269  ADCGLRPLFEKKSLEDKTERELLESYI  295
+
+
+>4HZH_A Structure of recombinant Gla-domainless prothrombin mutant S525A 
+[Homo sapiens]
+ 4HZH_B Structure of recombinant Gla-domainless prothrombin mutant S525A 
+[Homo sapiens]
+Length=533
+
+ Score = 58.2 bits (139),  Expect = 3e-12, Method: Composition-based stats.
+ Identities = 27/27 (100%), Positives = 27/27 (100%), Gaps = 0/27 (0%)
+
+Query  1    ADCGLRPLFEKKSLEDKTERELLESYI  27
+            ADCGLRPLFEKKSLEDKTERELLESYI
+Sbjct  245  ADCGLRPLFEKKSLEDKTERELLESYI  271
+
+
+>1T4U_L Crystal Structure Analysis of a novel Oxyguanidine bound to Thrombin 
+[Homo sapiens]
+ 1T4V_L Crystal Structure Analysis of a novel Oxyguanidine bound to Thrombin 
+[Homo sapiens]
+ 2R2M_A 2-(2-Chloro-6-Fluorophenyl)Acetamides as Potent Thrombin Inhibitors 
+[Homo sapiens]
+ 3C27_A Cyanofluorophenylacetamides as Orally Efficacious Thrombin Inhibitors 
+[Homo sapiens]
+Length=26
+
+ Score = 53.5 bits (127),  Expect = 3e-12, Method: Compositional matrix adjust.
+ Identities = 26/26 (100%), Positives = 26/26 (100%), Gaps = 0/26 (0%)
+
+Query  1   ADCGLRPLFEKKSLEDKTERELLESY  26
+           ADCGLRPLFEKKSLEDKTERELLESY
+Sbjct  1   ADCGLRPLFEKKSLEDKTERELLESY  26
+
+
+>6PX5_X CRYSTAL STRUCTURE OF HUMAN MEIZOTHROMBIN DESF1 MUTANT S195A bound 
+with PPACK [Homo sapiens]
+Length=152
+
+ Score = 56.2 bits (134),  Expect = 4e-12, Method: Compositional matrix adjust.
+ Identities = 27/27 (100%), Positives = 27/27 (100%), Gaps = 0/27 (0%)
+
+Query  1    ADCGLRPLFEKKSLEDKTERELLESYI  27
+            ADCGLRPLFEKKSLEDKTERELLESYI
+Sbjct  123  ADCGLRPLFEKKSLEDKTERELLESYI  149
+
+
+>1NU7_A Staphylocoagulase-Thrombin Complex [Homo sapiens]
+ 1NU7_E Staphylocoagulase-Thrombin Complex [Homo sapiens]
+Length=28
+
+ Score = 53.5 bits (127),  Expect = 4e-12, Method: Compositional matrix adjust.
+ Identities = 26/26 (100%), Positives = 26/26 (100%), Gaps = 0/26 (0%)
+
+Query  1   ADCGLRPLFEKKSLEDKTERELLESY  26
+           ADCGLRPLFEKKSLEDKTERELLESY
+Sbjct  3   ADCGLRPLFEKKSLEDKTERELLESY  28
+
+
+>3E6P_L Crystal structure of human meizothrombin desF1 [Homo sapiens]
+Length=158
+
+ Score = 56.2 bits (134),  Expect = 4e-12, Method: Compositional matrix adjust.
+ Identities = 27/27 (100%), Positives = 27/27 (100%), Gaps = 0/27 (0%)
+
+Query  1    ADCGLRPLFEKKSLEDKTERELLESYI  27
+            ADCGLRPLFEKKSLEDKTERELLESYI
+Sbjct  129  ADCGLRPLFEKKSLEDKTERELLESYI  155
+
+
+>1MH0_A Crystal structure of the anticoagulant slow form of thrombin 
+[Homo sapiens]
+ 1MH0_B Crystal structure of the anticoagulant slow form of thrombin 
+[Homo sapiens]
+Length=287
+
+ Score = 56.6 bits (135),  Expect = 1e-11, Method: Compositional matrix adjust.
+ Identities = 27/27 (100%), Positives = 27/27 (100%), Gaps = 0/27 (0%)
+
+Query  1   ADCGLRPLFEKKSLEDKTERELLESYI  27
+           ADCGLRPLFEKKSLEDKTERELLESYI
+Sbjct  1   ADCGLRPLFEKKSLEDKTERELLESYI  27
+
+
+>1D6W_A Structure Of Thrombin Complexed With Selective Non-electrophilic 
+Inhibitors Having Cyclohexyl Moieties At P1 [Homo sapiens]
+ 1G37_A CRYSTAL STRUCTURE OF HUMAN ALPHA-THROMBIN COMPLEXED WITH BCH-10556 
+AND EXOSITE-DIRECTED PEPTIDE [Homo sapiens]
+Length=287
+
+ Score = 56.6 bits (135),  Expect = 1e-11, Method: Compositional matrix adjust.
+ Identities = 27/27 (100%), Positives = 27/27 (100%), Gaps = 0/27 (0%)
+
+Query  1   ADCGLRPLFEKKSLEDKTERELLESYI  27
+           ADCGLRPLFEKKSLEDKTERELLESYI
+Sbjct  1   ADCGLRPLFEKKSLEDKTERELLESYI  27
+
+
+>2BDY_A thrombin in complex with inhibitor [Homo sapiens]
+Length=289
+
+ Score = 56.6 bits (135),  Expect = 1e-11, Method: Compositional matrix adjust.
+ Identities = 27/27 (100%), Positives = 27/27 (100%), Gaps = 0/27 (0%)
+
+Query  1   ADCGLRPLFEKKSLEDKTERELLESYI  27
+           ADCGLRPLFEKKSLEDKTERELLESYI
+Sbjct  1   ADCGLRPLFEKKSLEDKTERELLESYI  27
+
+
+>1DOJ_A Crystal structure of human alpha-thrombin*RWJ-51438 complex at 
+1.7 A [Homo sapiens]
+ 1HAG_E THE ISOMORPHOUS STRUCTURES OF PRETHROMBIN2, HIRUGEN-AND PPACK-THROMBIN: 
+CHANGES ACCOMPANYING ACTIVATION AND EXOSITE BINDING 
+TO THROMBIN [Homo sapiens]
+ 1XM1_A Nonbasic Thrombin Inhibitor Complex [Homo sapiens]
+Length=295
+
+ Score = 56.6 bits (135),  Expect = 1e-11, Method: Compositional matrix adjust.
+ Identities = 27/27 (100%), Positives = 27/27 (100%), Gaps = 0/27 (0%)
+
+Query  1   ADCGLRPLFEKKSLEDKTERELLESYI  27
+           ADCGLRPLFEKKSLEDKTERELLESYI
+Sbjct  7   ADCGLRPLFEKKSLEDKTERELLESYI  33
+
+
+>1EOJ_A Design of P1' and P3' residues of trivalent thrombin inhibitors 
+and their crystal structures [Homo sapiens]
+ 1EOL_A Design of P1' and P3' residues of trivalent thrombin inhibitors 
+and their crystal structures [Homo sapiens]
+Length=289
+
+ Score = 56.6 bits (135),  Expect = 1e-11, Method: Compositional matrix adjust.
+ Identities = 27/27 (100%), Positives = 27/27 (100%), Gaps = 0/27 (0%)
+
+Query  1   ADCGLRPLFEKKSLEDKTERELLESYI  27
+           ADCGLRPLFEKKSLEDKTERELLESYI
+Sbjct  3   ADCGLRPLFEKKSLEDKTERELLESYI  29
+
+
+>1D9I_A Structure Of Thrombin Complexed With Selective Non-electophilic 
+Inhibitors Having Cyclohexyl Moieties At P1 [Homo sapiens]
+Length=288
+
+ Score = 56.6 bits (135),  Expect = 1e-11, Method: Compositional matrix adjust.
+ Identities = 27/27 (100%), Positives = 27/27 (100%), Gaps = 0/27 (0%)
+
+Query  1   ADCGLRPLFEKKSLEDKTERELLESYI  27
+           ADCGLRPLFEKKSLEDKTERELLESYI
+Sbjct  1   ADCGLRPLFEKKSLEDKTERELLESYI  27
+
+
+>6V5T_E Crystal structure of human prethrombin-2 with tryptophans replaced 
+by 5-F-tryptophan [Homo sapiens]
+Length=290
+
+ Score = 56.6 bits (135),  Expect = 1e-11, Method: Compositional matrix adjust.
+ Identities = 27/27 (100%), Positives = 27/27 (100%), Gaps = 0/27 (0%)
+
+Query  1   ADCGLRPLFEKKSLEDKTERELLESYI  27
+           ADCGLRPLFEKKSLEDKTERELLESYI
+Sbjct  2   ADCGLRPLFEKKSLEDKTERELLESYI  28
+
+
+>3SQE_E Crystal structure of prethrombin-2 mutant S195A in the alternative 
+form [Homo sapiens]
+ 3SQH_E Crystal structure of prethrombin-2 mutant S195A in the the open 
+form [Homo sapiens]
+ 4RN6_A Structure of prethrombin-2 mutant s195a bound to the active site 
+inhibitor argatroban [Homo sapiens]
+ 4RN6_B Structure of prethrombin-2 mutant s195a bound to the active site 
+inhibitor argatroban [Homo sapiens]
+Length=290
+
+ Score = 56.6 bits (135),  Expect = 1e-11, Method: Compositional matrix adjust.
+ Identities = 27/27 (100%), Positives = 27/27 (100%), Gaps = 0/27 (0%)
+
+Query  1   ADCGLRPLFEKKSLEDKTERELLESYI  27
+           ADCGLRPLFEKKSLEDKTERELLESYI
+Sbjct  2   ADCGLRPLFEKKSLEDKTERELLESYI  28
+
+
+>1NU9_A Staphylocoagulase-Prethrombin-2 complex [Homo sapiens]
+ 1NU9_D Staphylocoagulase-Prethrombin-2 complex [Homo sapiens]
+Length=291
+
+ Score = 56.6 bits (135),  Expect = 1e-11, Method: Compositional matrix adjust.
+ Identities = 27/27 (100%), Positives = 27/27 (100%), Gaps = 0/27 (0%)
+
+Query  1   ADCGLRPLFEKKSLEDKTERELLESYI  27
+           ADCGLRPLFEKKSLEDKTERELLESYI
+Sbjct  3   ADCGLRPLFEKKSLEDKTERELLESYI  29
+
+
+>3K65_B Crystal Structure of Prethombin-2/Fragment-2 Complex [Homo sapiens]
+Length=308
+
+ Score = 56.6 bits (135),  Expect = 1e-11, Method: Compositional matrix adjust.
+ Identities = 27/27 (100%), Positives = 27/27 (100%), Gaps = 0/27 (0%)
+
+Query  1   ADCGLRPLFEKKSLEDKTERELLESYI  27
+           ADCGLRPLFEKKSLEDKTERELLESYI
+Sbjct  20  ADCGLRPLFEKKSLEDKTERELLESYI  46
+
+
+>3NXP_A Crystal structure of human prethrombin-1 [Homo sapiens]
+Length=424
+
+ Score = 56.6 bits (135),  Expect = 1e-11, Method: Compositional matrix adjust.
+ Identities = 27/27 (100%), Positives = 27/27 (100%), Gaps = 0/27 (0%)
+
+Query  1    ADCGLRPLFEKKSLEDKTERELLESYI  27
+            ADCGLRPLFEKKSLEDKTERELLESYI
+Sbjct  136  ADCGLRPLFEKKSLEDKTERELLESYI  162
+
+
+>1JWT_A Crystal Structure Of Thrombin In Complex With A Novel Bicyclic 
+Lactam Inhibitor [Homo sapiens]
+Length=305
+
+ Score = 56.6 bits (135),  Expect = 1e-11, Method: Compositional matrix adjust.
+ Identities = 27/27 (100%), Positives = 27/27 (100%), Gaps = 0/27 (0%)
+
+Query  1   ADCGLRPLFEKKSLEDKTERELLESYI  27
+           ADCGLRPLFEKKSLEDKTERELLESYI
+Sbjct  7   ADCGLRPLFEKKSLEDKTERELLESYI  33
+
+
+>4H6T_A Crystal structure of prethrombin-2 mutant E14eA/D14lA/E18A/S195A 
+[Homo sapiens]
+Length=306
+
+ Score = 55.1 bits (131),  Expect = 5e-11, Method: Compositional matrix adjust.
+ Identities = 26/27 (96%), Positives = 26/27 (96%), Gaps = 0/27 (0%)
+
+Query  1   ADCGLRPLFEKKSLEDKTERELLESYI  27
+           ADCGLRPLFEKKSLEDKTER LLESYI
+Sbjct  18  ADCGLRPLFEKKSLEDKTERALLESYI  44
+
+
+>1NM6_A thrombin in complex with selective macrocyclic inhibitor at 1.8A 
+[Homo sapiens]
+ 1NT1_A thrombin in complex with selective macrocyclic inhibitor [Homo 
+sapiens]
+ 1SL3_A crystal structue of Thrombin in complex with a potent P1 heterocycle-Aryl 
+based inhibitor [Homo sapiens]
+ 1TA2_A Crystal structure of thrombin in complex with compound 1 [Homo 
+sapiens]
+ 1TA6_A Crystal structure of thrombin in complex with compound 14b [Homo 
+sapiens]
+ 1Z71_A thrombin and P2 pyridine N-oxide inhibitor complex structure 
+[Homo sapiens]
+ 1ZGI_A thrombin in complex with an oxazolopyridine inhibitor 21 [Homo 
+sapiens]
+ 1ZGV_A Thrombin in complex with an oxazolopyridine inhibitor 2 [Homo 
+sapiens]
+ 1ZRB_A Thrombin in complex with an azafluorenyl inhibitor 23b [Homo 
+sapiens]
+ 3C1K_A Crystal structure of thrombin in complex with inhibitor 15 [Homo 
+sapiens]
+Length=287
+
+ Score = 54.7 bits (130),  Expect = 5e-11, Method: Compositional matrix adjust.
+ Identities = 26/26 (100%), Positives = 26/26 (100%), Gaps = 0/26 (0%)
+
+Query  2   DCGLRPLFEKKSLEDKTERELLESYI  27
+           DCGLRPLFEKKSLEDKTERELLESYI
+Sbjct  1   DCGLRPLFEKKSLEDKTERELLESYI  26
+
+
+>2PUX_A Crystal structure of murine thrombin in complex with the extracellular 
+fragment of murine PAR3 [Mus musculus]
+ 2PV9_A Crystal structure of murine thrombin in complex with the extracellular 
+fragment of murine PAR4 [Mus musculus]
+ 3EDX_A Crystal structure of the W215A/E217A mutant of murine thrombin 
+[Mus musculus]
+ 3EDX_C Crystal structure of the W215A/E217A mutant of murine thrombin 
+[Mus musculus]
+ 3EDX_E Crystal structure of the W215A/E217A mutant of murine thrombin 
+[Mus musculus]
+ 3HK3_A Crystal structure of murine thrombin mutant W215A/E217A (one 
+molecule in the asymmetric unit) [Mus musculus]
+ 3HK6_A Crystal structure of murine thrombin mutant W215A/E217A (two 
+molecules in the asymmetric unit) [Mus musculus]
+ 3HK6_C Crystal structure of murine thrombin mutant W215A/E217A (two 
+molecules in the asymmetric unit) [Mus musculus]
+ 3HKI_A Crystal structure of murine thrombin mutant W215A/E217A in complex 
+with the extracellular fragment of human PAR1 [Mus musculus]
+ 3HKI_D Crystal structure of murine thrombin mutant W215A/E217A in complex 
+with the extracellular fragment of human PAR1 [Mus musculus]
+Length=44
+
+ Score = 50.1 bits (118),  Expect = 9e-11, Method: Compositional matrix adjust.
+ Identities = 23/27 (85%), Positives = 26/27 (96%), Gaps = 0/27 (0%)
+
+Query  1   ADCGLRPLFEKKSLEDKTERELLESYI  27
+           ADCGLRPLFEKKSL+D TE+ELL+SYI
+Sbjct  15  ADCGLRPLFEKKSLKDTTEKELLDSYI  41
+
+
+  Database: PDB protein database
+    Posted date:  Aug 17, 2021  4:30 AM
+  Number of letters in database: 34,897,192
+  Number of sequences in database:  131,049
+
+Lambda      K        H
+   0.314    0.137    0.379 
+Gapped
+Lambda      K        H
+   0.267   0.0410    0.140 
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Number of Sequences: 131049
+Number of Hits to DB: 784708
+Number of extensions: 10620
+Number of successful extensions: 447
+Number of sequences better than 100: 220
+Number of HSP's better than 100 without gapping: 0
+Number of HSP's gapped: 447
+Number of HSP's successfully gapped: 222
+Length of query: 27
+Length of database: 34897192
+Length adjustment: 2
+Effective length of query: 25
+Effective length of database: 34635094
+Effective search space: 865877350
+Effective search space used: 865877350
+T: 11
+A: 40
+X1: 16 (7.2 bits)
+X2: 38 (14.6 bits)
+X3: 64 (24.7 bits)
+S1: 33 (17.3 bits)
+S2: 48 (23.1 bits)
+ka-blk-alpha gapped: 1.9
+ka-blk-alpha ungapped: 0.7916
+ka-blk-alpha_v gapped: 42.6028
+ka-blk-alpha_v ungapped: 4.96466
+ka-blk-sigma gapped: 43.6362
+
+
+

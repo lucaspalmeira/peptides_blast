@@ -1,0 +1,1958 @@
+<p><!--
+QBlastInfoBegin
+	Status=READY
+QBlastInfoEnd
+--><p>
+<PRE>
+BLASTP 2.12.0+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro
+A. Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and
+David J. Lipman (1997), "Gapped BLAST and PSI-BLAST: a new
+generation of protein database search programs", Nucleic
+Acids Res. 25:3389-3402.
+
+
+Reference for compositional score matrix adjustment: Stephen
+F. Altschul, John C. Wootton, E. Michael Gertz, Richa
+Agarwala, Aleksandr Morgulis, Alejandro A. Schaffer, and
+Yi-Kuo Yu (2005) "Protein database searches using
+compositionally adjusted substitution matrices", FEBS J.
+272:5101-5109.
+
+
+RID: J3FAUWGZ01R
+
+
+Database: PDB protein database
+           131,049 sequences; 34,897,192 total letters
+Query= 
+Length=51
+
+
+                                                                   Score     E     Max
+Sequences producing significant alignments:                       (Bits)  Value  Ident
+
+1A1R_C HCV NS3 PROTEASE DOMAIN:NS4A PEPTIDE COMPLEX [Hepacivir...  30.8    0.009  89%         
+1RGQ_C M9A HCV Protease complex with pentapeptide keto-amide i...  30.4    0.012  100%        
+2OIN_C crystal structure of HCV NS3-4A R155K muntant [syntheti...  30.4    0.012  100%        
+2O8M_C Chain C, Protease [synthetic construct]                     29.6    0.028  83%         
+6P6T_A HCV NS3/4A protease domain of genotype 4a in complex wi...  28.1    0.44   62%         
+3P8N_C Crystal structure of HCV NS3/NS4A protease complexed wi...  26.2    0.64   71%         
+4A1T_A Co-Complex of the of NS3-4A protease with the inhibitor...  27.7    0.70   82%         
+6CVW_A Crystal structure of HCV NS3/4A WT protease in complex ...  27.3    0.94   62%         
+6P6O_A HCV NS3/4A protease domain of genotype 1a D168E in comp...  27.3    0.97   62%         
+6P6Q_A HCV NS3/4A protease domain of genotype 1a3a chimera in ...  27.3    0.97   62%         
+3SU4_A Crystal structure of NS3/4A protease variant R155K in c...  27.3    0.98   62%         
+6VDL_A HCV NS3/4A protease A156T mutant in complex with glecap...  27.3    0.99   62%         
+3SV9_A Crystal structure of NS3/4A protease variant A156T in c...  27.3    0.99   62%         
+3SUE_A Crystal structure of NS3/4A protease variant R155K in c...  27.3    0.99   62%         
+6P6V_A HCV NS3/4A protease domain of genotype 5a in complex wi...  27.3    0.99   58%         
+6VDM_A HCV NS3/4A protease A156T, D168E double mutant in compl...  26.9    1.00   62%         
+6P6M_A HCV NS3/4A protease domain of genotype 1a C159 in compl...  26.9    1.0    62%         
+3SUF_A Crystal structure of NS3/4A protease variant D168A in c...  26.9    1.0    62%         
+3SU1_A Crystal structure of NS3/4A protease variant D168A in c...  26.9    1.0    62%         
+6NZT_A Crystal structure of HCV NS3/4A protease in complex wit...  26.9    1.0    62%         
+3SU2_A Crystal structure of NS3/4A protease variant A156T in c...  26.9    1.0    62%         
+3SV8_A Crystal structure of NS3/4A protease variant D168A in c...  26.9    1.0    62%         
+3SV6_A Crystal structure of NS3/4A protease in complex with Te...  26.9    1.0    62%         
+6C2N_A Crystal structure of HCV NS3/4A double mutant variant Y...  26.9    1.0    62%         
+3M5L_A Crystal structure of HCV NS3/4A protease in complex wit...  26.9    1.0    62%         
+1DXP_C Inhibition of the Hepatitis C Virus NS3/4A Protease. Th...  25.4    1.1    75%         
+6PIU_A Crystal structure of HCV NS3/4A D168A protease in compl...  26.9    1.2    62%         
+5EPY_A Crystal structure of HCV NS3/4A protease A156T variant ...  26.6    1.6    71%         
+4WH8_A Crystal Structure of HCV NS3/4A protease in complex wit...  26.6    1.6    71%         
+5EQR_A Crystal structure of a genotype 1a/3a chimeric HCV NS3/...  26.6    1.6    71%         
+6DIQ_A Crystal structure of HCV NS3/4A protease in complex wit...  26.6    1.6    71%         
+6C2O_A Crystal structure of HCV NS3/4A protease variant Y56H i...  26.6    1.6    71%         
+3SU0_A Crystal structure of NS3/4A protease variant R155K in c...  26.6    1.6    71%         
+4WH6_A Crystal structure of HCV NS3/4A protease variant R155K ...  26.6    1.7    71%         
+6DIV_A Crystal structure of HCV NS3/4A D168A protease in compl...  26.6    1.7    71%         
+6C2M_A Crystal structure of HCV NS3/4A protease variant Y56H i...  26.6    1.7    71%         
+5EPN_A Crystal structure of HCV NS3/4A protease in complex wit...  26.6    1.7    71%         
+6UE3_A Crystal structure of HCV NS3/4A D168A protease in compl...  26.6    1.7    71%         
+6PIY_A Crystal structure of HCV NS3/4A D168A protease in compl...  26.2    1.9    71%         
+5ETX_A Crystal structure of HCV NS3/4A protease A156T variant ...  26.2    2.0    74%         
+5ESB_A Crystal structure of a genotype 1a/3a chimeric HCV NS3/...  26.2    2.0    74%         
+6P6S_A HCV NS3/4A protease domain of genotype 3a in complex wi...  26.2    2.1    58%         
+6N4N_A Crystal structure of the designed protein DNCR2/danopre...  26.2    2.2    74%         
+6PIZ_A Crystal structure of HCV NS3/4A D168A protease in compl...  26.2    2.2    71%         
+4NWK_A Crystal structure of hepatis c virus protease (ns3) com...  26.2    2.5    74%         
+4B75_A Discovery of an allosteric mechanism for the regulation...  26.2    2.6    76%         
+3O8B_A Visualizing ATP-dependent RNA Translocation by the NS3 ...  26.2    2.6    76%         
+4A92_A Full-length HCV NS3-4A protease-helicase in complex wit...  26.2    2.6    76%         
+6P6Z_A HCV NS3/4A protease domain of genotype 4a with an exten...  25.8    2.8    78%         
+4B6E_A Discovery of an allosteric mechanism for the regulation...  25.8    2.8    76%         
+
+ALIGNMENTS
+>1A1R_C HCV NS3 PROTEASE DOMAIN:NS4A PEPTIDE COMPLEX [Hepacivirus C]
+ 1A1R_D HCV NS3 PROTEASE DOMAIN:NS4A PEPTIDE COMPLEX [Hepacivirus C]
+ 1N1L_C CRYSTAL STRUCTURE OF HCV NS3 PROTEASE DOMAIN:NS4A PEPTIDE COMPLEX 
+WITH COVALENTLY BOUND INHIBITOR (GW472467X) [synthetic 
+construct]
+ 1N1L_D CRYSTAL STRUCTURE OF HCV NS3 PROTEASE DOMAIN:NS4A PEPTIDE COMPLEX 
+WITH COVALENTLY BOUND INHIBITOR (GW472467X) [synthetic 
+construct]
+ 1RTL_C Crystal Structure Of Hcv Ns3 Protease Domain: Ns4a Peptide Complex 
+With Covalently Bound Pyrrolidine-5,5-Translactam Inhibitor 
+[synthetic construct]
+ 1RTL_D Crystal Structure Of Hcv Ns3 Protease Domain: Ns4a Peptide Complex 
+With Covalently Bound Pyrrolidine-5,5-Translactam Inhibitor 
+[synthetic construct]
+ 2A4G_B Hepatitis C Protease NS3-4A serine protease with Ketoamide Inhibitor 
+SCH225724 Bound [synthetic construct]
+ 2A4G_D Hepatitis C Protease NS3-4A serine protease with Ketoamide Inhibitor 
+SCH225724 Bound [synthetic construct]
+ 2A4Q_B HCV NS3 protease with NS4a peptide and a covalently bound macrocyclic 
+ketoamide compound. [synthetic construct]
+ 2A4Q_D HCV NS3 protease with NS4a peptide and a covalently bound macrocyclic 
+ketoamide compound. [synthetic construct]
+ 2A4R_B HCV NS3 Protease Domain with a Ketoamide Inhibitor Covalently 
+bound. [synthetic construct]
+ 2A4R_D HCV NS3 Protease Domain with a Ketoamide Inhibitor Covalently 
+bound. [synthetic construct]
+ 2F9U_B HCV NS3 protease domain with NS4a peptide and a ketoamide inhibitor 
+with a P2 norborane [synthetic construct]
+ 2F9U_D HCV NS3 protease domain with NS4a peptide and a ketoamide inhibitor 
+with a P2 norborane [synthetic construct]
+ 2F9V_B HCV NS3 protease domain with NS4a peptide and a ketoamide inhibitor 
+with P1 and P2 cyclopropylalannines [synthetic construct]
+ 2F9V_D HCV NS3 protease domain with NS4a peptide and a ketoamide inhibitor 
+with P1 and P2 cyclopropylalannines [synthetic construct]
+ 2FM2_B HCV NS3-4A protease domain complexed with a ketoamide inhibitor, 
+SCH446211 [synthetic construct]
+ 2FM2_D HCV NS3-4A protease domain complexed with a ketoamide inhibitor, 
+SCH446211 [synthetic construct]
+ 2GVF_B HCV NS3-4A protease domain complexed with a macrocyclic ketoamide 
+inhibitor, SCH419021 [synthetic construct]
+ 2GVF_D HCV NS3-4A protease domain complexed with a macrocyclic ketoamide 
+inhibitor, SCH419021 [synthetic construct]
+ 2OBO_B Structure of HEPATITIS C VIRAL NS3 protease domain complexed 
+with NS4A peptide and ketoamide SCH476776 [Hepatitis C virus 
+subtype 1b]
+ 2OBO_D Structure of HEPATITIS C VIRAL NS3 protease domain complexed 
+with NS4A peptide and ketoamide SCH476776 [Hepatitis C virus 
+subtype 1b]
+ 2OC0_B Structure of NS3 complexed with a ketoamide inhibitor SCh491762 
+[synthetic construct]
+ 2OC0_D Structure of NS3 complexed with a ketoamide inhibitor SCh491762 
+[synthetic construct]
+ 2OC1_B Structure of the HCV NS3/4A Protease Inhibitor CVS4819 [synthetic 
+construct]
+ 2OC1_D Structure of the HCV NS3/4A Protease Inhibitor CVS4819 [synthetic 
+construct]
+ 2OC7_B Structure of Hepatitis C Viral NS3 protease domain complexed 
+with NS4A peptide and ketoamide SCH571696 [synthetic construct]
+ 2OC7_D Structure of Hepatitis C Viral NS3 protease domain complexed 
+with NS4A peptide and ketoamide SCH571696 [synthetic construct]
+ 2OC8_B Structure of Hepatitis C Viral NS3 protease domain complexed 
+with NS4A peptide and ketoamide SCH503034 [synthetic construct]
+ 2OC8_D Structure of Hepatitis C Viral NS3 protease domain complexed 
+with NS4A peptide and ketoamide SCH503034 [synthetic construct]
+ 2XCF_C Crystal structure of HCV NS3 protease with a boronate inhibitor 
+[Hepacivirus C]
+ 2XCF_D Crystal structure of HCV NS3 protease with a boronate inhibitor 
+[Hepacivirus C]
+ 2XCN_C Crystal structure of HCV NS3 protease with a boronate inhibitor 
+[Hepacivirus C]
+ 2XCN_D Crystal structure of HCV NS3 protease with a boronate inhibitor 
+[Hepacivirus C]
+ 2XNI_C Protein-ligand complex of a novel macrocyclic HCV NS3 protease 
+inhibitor derived from amino cyclic boronates [Hepacivirus 
+C]
+ 2XNI_D Protein-ligand complex of a novel macrocyclic HCV NS3 protease 
+inhibitor derived from amino cyclic boronates [Hepacivirus 
+C]
+ 3EYD_B Structure of HCV NS3-4A Protease with an Inhibitor Derived from 
+a Boronic Acid [synthetic construct]
+ 3EYD_D Structure of HCV NS3-4A Protease with an Inhibitor Derived from 
+a Boronic Acid [synthetic construct]
+ 3KEE_E HCV NS3/NS4A complexed with Non-covalent macrocyclic compound 
+TMC435 [Hepacivirus C]
+ 3KEE_F HCV NS3/NS4A complexed with Non-covalent macrocyclic compound 
+TMC435 [Hepacivirus C]
+ 3KEE_G HCV NS3/NS4A complexed with Non-covalent macrocyclic compound 
+TMC435 [Hepacivirus C]
+ 3KEE_H HCV NS3/NS4A complexed with Non-covalent macrocyclic compound 
+TMC435 [Hepacivirus C]
+ 3KF2_C The HCV NS3/NS4A protease apo structure [Hepacivirus C]
+ 3KF2_D The HCV NS3/NS4A protease apo structure [Hepacivirus C]
+ 3KN2_B HCV NS3 Protease Domain with ketoamide inhibitor [synthetic construct]
+ 3KN2_D HCV NS3 Protease Domain with ketoamide inhibitor [synthetic construct]
+ 3KNX_B HCV NS3 protease domain with P1-P3 macrocyclic ketoamide inhibitor 
+[synthetic construct]
+ 3KNX_D HCV NS3 protease domain with P1-P3 macrocyclic ketoamide inhibitor 
+[synthetic construct]
+ 3LON_B HCV NS3-4a protease domain with ketoamide inhibitor narlaprevir 
+[synthetic construct]
+ 3LON_D HCV NS3-4a protease domain with ketoamide inhibitor narlaprevir 
+[synthetic construct]
+ 3LOX_B HCV NS3-4a protease domain with a ketoamide inhibitor derivative 
+of Boceprevir bound [synthetic construct]
+ 3LOX_D HCV NS3-4a protease domain with a ketoamide inhibitor derivative 
+of Boceprevir bound [synthetic construct]
+Length=23
+
+ Score = 30.8 bits (68),  Expect = 0.009, Method: Compositional matrix adjust.
+ Identities = 16/18 (89%), Positives = 17/18 (94%), Gaps = 0/18 (0%)
+
+Query  18  EPGSVVIVGRIVLSGKPA  35
+           + GSVVIVGRIVLSGKPA
+Sbjct  1   KKGSVVIVGRIVLSGKPA  18
+
+
+ Score = 30.4 bits (67),  Expect = 0.011, Method: Compositional matrix adjust.
+ Identities = 16/16 (100%), Positives = 16/16 (100%), Gaps = 0/16 (0%)
+
+Query  1   GSVVIVGRIVLSGKPA  16
+           GSVVIVGRIVLSGKPA
+Sbjct  3   GSVVIVGRIVLSGKPA  18
+
+
+ Score = 30.4 bits (67),  Expect = 0.011, Method: Compositional matrix adjust.
+ Identities = 16/16 (100%), Positives = 16/16 (100%), Gaps = 0/16 (0%)
+
+Query  36  GSVVIVGRIVLSGKPA  51
+           GSVVIVGRIVLSGKPA
+Sbjct  3   GSVVIVGRIVLSGKPA  18
+
+
+>1RGQ_C M9A HCV Protease complex with pentapeptide keto-amide inhibitor 
+[synthetic construct]
+ 1RGQ_D M9A HCV Protease complex with pentapeptide keto-amide inhibitor 
+[synthetic construct]
+Length=22
+
+ Score = 30.4 bits (67),  Expect = 0.012, Method: Compositional matrix adjust.
+ Identities = 16/16 (100%), Positives = 16/16 (100%), Gaps = 0/16 (0%)
+
+Query  1   GSVVIVGRIVLSGKPA  16
+           GSVVIVGRIVLSGKPA
+Sbjct  2   GSVVIVGRIVLSGKPA  17
+
+
+ Score = 30.4 bits (67),  Expect = 0.012, Method: Compositional matrix adjust.
+ Identities = 16/16 (100%), Positives = 16/16 (100%), Gaps = 0/16 (0%)
+
+Query  20  GSVVIVGRIVLSGKPA  35
+           GSVVIVGRIVLSGKPA
+Sbjct  2   GSVVIVGRIVLSGKPA  17
+
+
+ Score = 30.4 bits (67),  Expect = 0.012, Method: Compositional matrix adjust.
+ Identities = 16/16 (100%), Positives = 16/16 (100%), Gaps = 0/16 (0%)
+
+Query  36  GSVVIVGRIVLSGKPA  51
+           GSVVIVGRIVLSGKPA
+Sbjct  2   GSVVIVGRIVLSGKPA  17
+
+
+>2OIN_C crystal structure of HCV NS3-4A R155K muntant [synthetic construct]
+ 2OIN_D crystal structure of HCV NS3-4A R155K muntant [synthetic construct]
+ 2P59_C Crystal Structure of Hepatitis C Virus NS3.4A protease [synthetic 
+construct]
+ 2P59_D Crystal Structure of Hepatitis C Virus NS3.4A protease [synthetic 
+construct]
+ 2QV1_C Crystal structure of HCV NS3-4A V36M mutant [synthetic construct]
+ 2QV1_D Crystal structure of HCV NS3-4A V36M mutant [synthetic construct]
+Length=21
+
+ Score = 30.4 bits (67),  Expect = 0.012, Method: Compositional matrix adjust.
+ Identities = 16/16 (100%), Positives = 16/16 (100%), Gaps = 0/16 (0%)
+
+Query  1   GSVVIVGRIVLSGKPA  16
+           GSVVIVGRIVLSGKPA
+Sbjct  2   GSVVIVGRIVLSGKPA  17
+
+
+ Score = 30.4 bits (67),  Expect = 0.012, Method: Compositional matrix adjust.
+ Identities = 16/16 (100%), Positives = 16/16 (100%), Gaps = 0/16 (0%)
+
+Query  20  GSVVIVGRIVLSGKPA  35
+           GSVVIVGRIVLSGKPA
+Sbjct  2   GSVVIVGRIVLSGKPA  17
+
+
+ Score = 30.4 bits (67),  Expect = 0.012, Method: Compositional matrix adjust.
+ Identities = 16/16 (100%), Positives = 16/16 (100%), Gaps = 0/16 (0%)
+
+Query  36  GSVVIVGRIVLSGKPA  51
+           GSVVIVGRIVLSGKPA
+Sbjct  2   GSVVIVGRIVLSGKPA  17
+
+
+>2O8M_C Chain C, Protease [synthetic construct]
+ 2O8M_D Chain D, Protease [synthetic construct]
+ 2OBQ_B Discovery of the HCV NS3/4A Protease Inhibitor SCH503034. Key 
+Steps in Structure-Based Optimization [synthetic construct]
+ 2OBQ_D Discovery of the HCV NS3/4A Protease Inhibitor SCH503034. Key 
+Steps in Structure-Based Optimization [synthetic construct]
+Length=23
+
+ Score = 29.6 bits (65),  Expect = 0.028, Method: Compositional matrix adjust.
+ Identities = 15/18 (83%), Positives = 16/18 (89%), Gaps = 0/18 (0%)
+
+Query  18  EPGSVVIVGRIVLSGKPA  35
+           + G VVIVGRIVLSGKPA
+Sbjct  1   KKGCVVIVGRIVLSGKPA  18
+
+
+ Score = 29.3 bits (64),  Expect = 0.035, Method: Compositional matrix adjust.
+ Identities = 15/16 (94%), Positives = 15/16 (94%), Gaps = 0/16 (0%)
+
+Query  1   GSVVIVGRIVLSGKPA  16
+           G VVIVGRIVLSGKPA
+Sbjct  3   GCVVIVGRIVLSGKPA  18
+
+
+ Score = 29.3 bits (64),  Expect = 0.035, Method: Compositional matrix adjust.
+ Identities = 15/16 (94%), Positives = 15/16 (94%), Gaps = 0/16 (0%)
+
+Query  36  GSVVIVGRIVLSGKPA  51
+           G VVIVGRIVLSGKPA
+Sbjct  3   GCVVIVGRIVLSGKPA  18
+
+
+>6P6T_A HCV NS3/4A protease domain of genotype 4a in complex with glecaprevir 
+[Hepatitis C virus ED43]
+Length=203
+
+ Score = 28.1 bits (61),  Expect = 0.44, Method: Compositional matrix adjust.
+ Identities = 16/26 (62%), Positives = 18/26 (69%), Gaps = 0/26 (0%)
+
+Query  26  GRIVLSGKPAGSVVIVGRIVLSGKPA  51
+           G  + S K  GSVVIVGR+VLSG  A
+Sbjct  1   GSHMASMKKKGSVVIVGRVVLSGDTA  26
+
+
+ Score = 25.8 bits (55),  Expect = 2.8, Method: Compositional matrix adjust.
+ Identities = 13/16 (81%), Positives = 14/16 (88%), Gaps = 0/16 (0%)
+
+Query  1   GSVVIVGRIVLSGKPA  16
+           GSVVIVGR+VLSG  A
+Sbjct  11  GSVVIVGRVVLSGDTA  26
+
+
+ Score = 25.8 bits (55),  Expect = 2.8, Method: Compositional matrix adjust.
+ Identities = 13/16 (81%), Positives = 14/16 (88%), Gaps = 0/16 (0%)
+
+Query  20  GSVVIVGRIVLSGKPA  35
+           GSVVIVGR+VLSG  A
+Sbjct  11  GSVVIVGRVVLSGDTA  26
+
+
+>3P8N_C Crystal structure of HCV NS3/NS4A protease complexed with BI 
+201335 [synthetic construct]
+ 3P8N_D Crystal structure of HCV NS3/NS4A protease complexed with BI 
+201335 [synthetic construct]
+ 3P8O_C Crystal structure of HCV NS3/NS4A protease complexed with des-bromine 
+analogue of BI 201335 [synthetic construct]
+ 3P8O_D Crystal structure of HCV NS3/NS4A protease complexed with des-bromine 
+analogue of BI 201335 [synthetic construct]
+ 4I31_C Crystal structure of HCV NS3/NS4A protease complexed with compound 
+4 [Hepatitis C virus (isolate Japanese)]
+ 4I31_D Crystal structure of HCV NS3/NS4A protease complexed with compound 
+4 [Hepatitis C virus (isolate Japanese)]
+ 4I32_C Crystal structure of HCV NS3/4A D168V protease complexed with 
+compound 4 [Hepatitis C virus (isolate Japanese)]
+ 4I32_D Crystal structure of HCV NS3/4A D168V protease complexed with 
+compound 4 [Hepatitis C virus (isolate Japanese)]
+ 4I33_C Crystal structure of HCV NS3/4A R155K protease complexed with 
+compound 4 [Hepatitis C virus (isolate Japanese)]
+ 4I33_D Crystal structure of HCV NS3/4A R155K protease complexed with 
+compound 4 [Hepatitis C virus (isolate Japanese)]
+ 4JMY_C Crystal structure of HCV NS3/NS4A protease complexed with DDIVPC 
+peptide [synthetic construct]
+ 4JMY_D Crystal structure of HCV NS3/NS4A protease complexed with DDIVPC 
+peptide [synthetic construct]
+Length=17
+
+ Score = 26.2 bits (56),  Expect = 0.64, Method: Compositional matrix adjust.
+ Identities = 12/17 (71%), Positives = 15/17 (88%), Gaps = 0/17 (0%)
+
+Query  18  EPGSVVIVGRIVLSGKP  34
+           + GSVVIVGRI+LSG+ 
+Sbjct  1   KKGSVVIVGRIILSGRK  17
+
+
+ Score = 25.4 bits (54),  Expect = 1.1, Method: Compositional matrix adjust.
+ Identities = 12/17 (71%), Positives = 14/17 (82%), Gaps = 0/17 (0%)
+
+Query  34  PAGSVVIVGRIVLSGKP  50
+             GSVVIVGRI+LSG+ 
+Sbjct  1   KKGSVVIVGRIILSGRK  17
+
+
+ Score = 25.4 bits (54),  Expect = 1.3, Method: Compositional matrix adjust.
+ Identities = 12/15 (80%), Positives = 14/15 (93%), Gaps = 0/15 (0%)
+
+Query  1   GSVVIVGRIVLSGKP  15
+           GSVVIVGRI+LSG+ 
+Sbjct  3   GSVVIVGRIILSGRK  17
+
+
+>4A1T_A Co-Complex of the of NS3-4A protease with the inhibitory peptide 
+CP5- 46-A (in-House data) [Hepacivirus C]
+ 4A1T_B Co-Complex of the of NS3-4A protease with the inhibitory peptide 
+CP5- 46-A (in-House data) [Hepacivirus C]
+ 4A1V_A Co-Complex structure of NS3-4A protease with the optimized inhibitory 
+peptide CP5-46A-4D5E [Hepatitis C virus subtype 1b]
+ 4A1V_B Co-Complex structure of NS3-4A protease with the optimized inhibitory 
+peptide CP5-46A-4D5E [Hepatitis C virus subtype 1b]
+ 4A1X_A Co-Complex structure of NS3-4A protease with the inhibitory peptide 
+CP5-46-A (Synchrotron data) [Hepatitis C virus subtype 
+1b]
+ 4A1X_B Co-Complex structure of NS3-4A protease with the inhibitory peptide 
+CP5-46-A (Synchrotron data) [Hepatitis C virus subtype 
+1b]
+Length=203
+
+ Score = 27.7 bits (60),  Expect = 0.70, Method: Compositional matrix adjust.
+ Identities = 14/17 (82%), Positives = 15/17 (88%), Gaps = 0/17 (0%)
+
+Query  1   GSVVIVGRIVLSGKPAP  17
+           GSVVIVGRI+LSGK  P
+Sbjct  1   GSVVIVGRIILSGKGGP  17
+
+
+ Score = 26.6 bits (57),  Expect = 1.6, Method: Compositional matrix adjust.
+ Identities = 13/14 (93%), Positives = 14/14 (100%), Gaps = 0/14 (0%)
+
+Query  20  GSVVIVGRIVLSGK  33
+           GSVVIVGRI+LSGK
+Sbjct  1   GSVVIVGRIILSGK  14
+
+
+ Score = 26.6 bits (57),  Expect = 1.6, Method: Compositional matrix adjust.
+ Identities = 13/14 (93%), Positives = 14/14 (100%), Gaps = 0/14 (0%)
+
+Query  36  GSVVIVGRIVLSGK  49
+           GSVVIVGRI+LSGK
+Sbjct  1   GSVVIVGRIILSGK  14
+
+
+>6CVW_A Crystal structure of HCV NS3/4A WT protease in complex with AJ-52 
+(MK-5172 linear analogue) [Hepacivirus C]
+ 6CVX_A Crystal structure of HCV NS3/4A WT protease in complex with AJ-50 
+(MK-5172 linear analogue) [Hepacivirus C]
+ 6CVY_A Crystal structure of HCV NS3/4A WT protease in complex with AJ-21 
+(MK-5172 linear analogue) [Hepacivirus C]
+Length=201
+
+ Score = 27.3 bits (59),  Expect = 0.94, Method: Compositional matrix adjust.
+ Identities = 16/26 (62%), Positives = 17/26 (65%), Gaps = 0/26 (0%)
+
+Query  26  GRIVLSGKPAGSVVIVGRIVLSGKPA  51
+           G  + S K  GSVVIVGRI LSG  A
+Sbjct  1   GSHMASMKKKGSVVIVGRINLSGDTA  26
+
+
+ Score = 25.0 bits (53),  Expect = 6.0, Method: Compositional matrix adjust.
+ Identities = 13/18 (72%), Positives = 14/18 (78%), Gaps = 0/18 (0%)
+
+Query  18  EPGSVVIVGRIVLSGKPA  35
+           + GSVVIVGRI LSG  A
+Sbjct  9   KKGSVVIVGRINLSGDTA  26
+
+
+ Score = 25.0 bits (53),  Expect = 6.3, Method: Compositional matrix adjust.
+ Identities = 13/16 (81%), Positives = 13/16 (81%), Gaps = 0/16 (0%)
+
+Query  1   GSVVIVGRIVLSGKPA  16
+           GSVVIVGRI LSG  A
+Sbjct  11  GSVVIVGRINLSGDTA  26
+
+
+>6P6O_A HCV NS3/4A protease domain of genotype 1a D168E in complex with 
+glecaprevir [Hepatitis C virus (isolate 1)]
+Length=202
+
+ Score = 27.3 bits (59),  Expect = 0.97, Method: Compositional matrix adjust.
+ Identities = 16/26 (62%), Positives = 17/26 (65%), Gaps = 0/26 (0%)
+
+Query  26  GRIVLSGKPAGSVVIVGRIVLSGKPA  51
+           G  + S K  GSVVIVGRI LSG  A
+Sbjct  1   GSHMASMKKKGSVVIVGRINLSGDTA  26
+
+
+ Score = 25.0 bits (53),  Expect = 6.2, Method: Compositional matrix adjust.
+ Identities = 13/18 (72%), Positives = 14/18 (78%), Gaps = 0/18 (0%)
+
+Query  18  EPGSVVIVGRIVLSGKPA  35
+           + GSVVIVGRI LSG  A
+Sbjct  9   KKGSVVIVGRINLSGDTA  26
+
+
+ Score = 25.0 bits (53),  Expect = 6.4, Method: Compositional matrix adjust.
+ Identities = 13/16 (81%), Positives = 13/16 (81%), Gaps = 0/16 (0%)
+
+Query  1   GSVVIVGRIVLSGKPA  16
+           GSVVIVGRI LSG  A
+Sbjct  11  GSVVIVGRINLSGDTA  26
+
+
+>6P6Q_A HCV NS3/4A protease domain of genotype 1a3a chimera in complex 
+with grazoprevir [Hepatitis C virus (isolate 1)]
+ 6P6Q_B HCV NS3/4A protease domain of genotype 1a3a chimera in complex 
+with grazoprevir [Hepatitis C virus (isolate 1)]
+ 6P6R_A HCV NS3/4A protease domain of genotype 1a3a chimera in complex 
+with glecaprevir [Hepatitis C virus (isolate 1)]
+Length=203
+
+ Score = 27.3 bits (59),  Expect = 0.97, Method: Compositional matrix adjust.
+ Identities = 16/26 (62%), Positives = 17/26 (65%), Gaps = 0/26 (0%)
+
+Query  26  GRIVLSGKPAGSVVIVGRIVLSGKPA  51
+           G  + S K  GSVVIVGRI LSG  A
+Sbjct  1   GSHMASMKKKGSVVIVGRINLSGDTA  26
+
+
+ Score = 25.0 bits (53),  Expect = 6.4, Method: Compositional matrix adjust.
+ Identities = 13/16 (81%), Positives = 13/16 (81%), Gaps = 0/16 (0%)
+
+Query  1   GSVVIVGRIVLSGKPA  16
+           GSVVIVGRI LSG  A
+Sbjct  11  GSVVIVGRINLSGDTA  26
+
+
+ Score = 25.0 bits (53),  Expect = 6.4, Method: Compositional matrix adjust.
+ Identities = 13/16 (81%), Positives = 13/16 (81%), Gaps = 0/16 (0%)
+
+Query  20  GSVVIVGRIVLSGKPA  35
+           GSVVIVGRI LSG  A
+Sbjct  11  GSVVIVGRINLSGDTA  26
+
+
+>3SU4_A Crystal structure of NS3/4A protease variant R155K in complex 
+with vaniprevir [Hepacivirus C]
+ 3SU4_B Crystal structure of NS3/4A protease variant R155K in complex 
+with vaniprevir [Hepacivirus C]
+Length=203
+
+ Score = 27.3 bits (59),  Expect = 0.98, Method: Compositional matrix adjust.
+ Identities = 16/26 (62%), Positives = 17/26 (65%), Gaps = 0/26 (0%)
+
+Query  26  GRIVLSGKPAGSVVIVGRIVLSGKPA  51
+           G  + S K  GSVVIVGRI LSG  A
+Sbjct  1   GSHMASMKKKGSVVIVGRINLSGDTA  26
+
+
+ Score = 25.0 bits (53),  Expect = 6.6, Method: Compositional matrix adjust.
+ Identities = 13/18 (72%), Positives = 14/18 (78%), Gaps = 0/18 (0%)
+
+Query  18  EPGSVVIVGRIVLSGKPA  35
+           + GSVVIVGRI LSG  A
+Sbjct  9   KKGSVVIVGRINLSGDTA  26
+
+
+ Score = 25.0 bits (53),  Expect = 6.6, Method: Compositional matrix adjust.
+ Identities = 13/16 (81%), Positives = 13/16 (81%), Gaps = 0/16 (0%)
+
+Query  1   GSVVIVGRIVLSGKPA  16
+           GSVVIVGRI LSG  A
+Sbjct  11  GSVVIVGRINLSGDTA  26
+
+
+>6VDL_A HCV NS3/4A protease A156T mutant in complex with glecaprevir 
+[Hepatitis C virus (isolate 1)]
+ 6VDN_A HCV NS3/4A protease A156T mutant [Hepatitis C virus (isolate 
+1)]
+Length=203
+
+ Score = 27.3 bits (59),  Expect = 0.99, Method: Compositional matrix adjust.
+ Identities = 16/26 (62%), Positives = 17/26 (65%), Gaps = 0/26 (0%)
+
+Query  26  GRIVLSGKPAGSVVIVGRIVLSGKPA  51
+           G  + S K  GSVVIVGRI LSG  A
+Sbjct  1   GSHMASMKKKGSVVIVGRINLSGDTA  26
+
+
+ Score = 25.0 bits (53),  Expect = 6.5, Method: Compositional matrix adjust.
+ Identities = 13/18 (72%), Positives = 14/18 (78%), Gaps = 0/18 (0%)
+
+Query  18  EPGSVVIVGRIVLSGKPA  35
+           + GSVVIVGRI LSG  A
+Sbjct  9   KKGSVVIVGRINLSGDTA  26
+
+
+ Score = 25.0 bits (53),  Expect = 6.6, Method: Compositional matrix adjust.
+ Identities = 13/16 (81%), Positives = 13/16 (81%), Gaps = 0/16 (0%)
+
+Query  1   GSVVIVGRIVLSGKPA  16
+           GSVVIVGRI LSG  A
+Sbjct  11  GSVVIVGRINLSGDTA  26
+
+
+>3SV9_A Crystal structure of NS3/4A protease variant A156T in complex 
+with Telaprevir [Hepatitis C virus subtype 1a]
+Length=203
+
+ Score = 27.3 bits (59),  Expect = 0.99, Method: Compositional matrix adjust.
+ Identities = 16/26 (62%), Positives = 17/26 (65%), Gaps = 0/26 (0%)
+
+Query  26  GRIVLSGKPAGSVVIVGRIVLSGKPA  51
+           G  + S K  GSVVIVGRI LSG  A
+Sbjct  1   GSHMASMKKKGSVVIVGRINLSGDTA  26
+
+
+ Score = 25.0 bits (53),  Expect = 6.6, Method: Compositional matrix adjust.
+ Identities = 13/16 (81%), Positives = 13/16 (81%), Gaps = 0/16 (0%)
+
+Query  1   GSVVIVGRIVLSGKPA  16
+           GSVVIVGRI LSG  A
+Sbjct  11  GSVVIVGRINLSGDTA  26
+
+
+ Score = 25.0 bits (53),  Expect = 6.6, Method: Compositional matrix adjust.
+ Identities = 13/16 (81%), Positives = 13/16 (81%), Gaps = 0/16 (0%)
+
+Query  20  GSVVIVGRIVLSGKPA  35
+           GSVVIVGRI LSG  A
+Sbjct  11  GSVVIVGRINLSGDTA  26
+
+
+>3SUE_A Crystal structure of NS3/4A protease variant R155K in complex 
+with MK-5172 [Hepatitis C virus subtype 1a]
+ 3SUE_B Crystal structure of NS3/4A protease variant R155K in complex 
+with MK-5172 [Hepatitis C virus subtype 1a]
+ 3SUE_C Crystal structure of NS3/4A protease variant R155K in complex 
+with MK-5172 [Hepatitis C virus subtype 1a]
+ 3SUE_D Crystal structure of NS3/4A protease variant R155K in complex 
+with MK-5172 [Hepatitis C virus subtype 1a]
+ 3SV7_A Crystal structure of NS3/4A protease variant R155K in complex 
+with Telaprevir [Hepatitis C virus subtype 1a]
+Length=203
+
+ Score = 27.3 bits (59),  Expect = 0.99, Method: Compositional matrix adjust.
+ Identities = 16/26 (62%), Positives = 17/26 (65%), Gaps = 0/26 (0%)
+
+Query  26  GRIVLSGKPAGSVVIVGRIVLSGKPA  51
+           G  + S K  GSVVIVGRI LSG  A
+Sbjct  1   GSHMASMKKKGSVVIVGRINLSGDTA  26
+
+
+ Score = 25.0 bits (53),  Expect = 6.6, Method: Compositional matrix adjust.
+ Identities = 13/18 (72%), Positives = 14/18 (78%), Gaps = 0/18 (0%)
+
+Query  18  EPGSVVIVGRIVLSGKPA  35
+           + GSVVIVGRI LSG  A
+Sbjct  9   KKGSVVIVGRINLSGDTA  26
+
+
+ Score = 25.0 bits (53),  Expect = 6.7, Method: Compositional matrix adjust.
+ Identities = 13/16 (81%), Positives = 13/16 (81%), Gaps = 0/16 (0%)
+
+Query  1   GSVVIVGRIVLSGKPA  16
+           GSVVIVGRI LSG  A
+Sbjct  11  GSVVIVGRINLSGDTA  26
+
+
+>6P6V_A HCV NS3/4A protease domain of genotype 5a in complex with glecaprevir 
+[Hepatitis C virus SA13]
+Length=203
+
+ Score = 27.3 bits (59),  Expect = 0.99, Method: Compositional matrix adjust.
+ Identities = 15/26 (58%), Positives = 17/26 (65%), Gaps = 0/26 (0%)
+
+Query  26  GRIVLSGKPAGSVVIVGRIVLSGKPA  51
+           G  + S K  GSV IVGRI+LSG  A
+Sbjct  1   GSHMASMKKKGSVAIVGRIILSGDTA  26
+
+
+ Score = 25.0 bits (53),  Expect = 6.2, Method: Compositional matrix adjust.
+ Identities = 12/16 (75%), Positives = 13/16 (81%), Gaps = 0/16 (0%)
+
+Query  1   GSVVIVGRIVLSGKPA  16
+           GSV IVGRI+LSG  A
+Sbjct  11  GSVAIVGRIILSGDTA  26
+
+
+ Score = 25.0 bits (53),  Expect = 6.2, Method: Compositional matrix adjust.
+ Identities = 12/16 (75%), Positives = 13/16 (81%), Gaps = 0/16 (0%)
+
+Query  20  GSVVIVGRIVLSGKPA  35
+           GSV IVGRI+LSG  A
+Sbjct  11  GSVAIVGRIILSGDTA  26
+
+
+>6VDM_A HCV NS3/4A protease A156T, D168E double mutant in complex with 
+glecaprevir [Hepatitis C virus (isolate 1)]
+ 6VDO_A HCV NS3/4A protease A156T, D168E double mutant [Hepacivirus C]
+Length=203
+
+ Score = 26.9 bits (58),  Expect = 1.00, Method: Compositional matrix adjust.
+ Identities = 16/26 (62%), Positives = 17/26 (65%), Gaps = 0/26 (0%)
+
+Query  26  GRIVLSGKPAGSVVIVGRIVLSGKPA  51
+           G  + S K  GSVVIVGRI LSG  A
+Sbjct  1   GSHMASMKKKGSVVIVGRINLSGDTA  26
+
+
+ Score = 25.0 bits (53),  Expect = 6.6, Method: Compositional matrix adjust.
+ Identities = 13/16 (81%), Positives = 13/16 (81%), Gaps = 0/16 (0%)
+
+Query  1   GSVVIVGRIVLSGKPA  16
+           GSVVIVGRI LSG  A
+Sbjct  11  GSVVIVGRINLSGDTA  26
+
+
+ Score = 25.0 bits (53),  Expect = 6.6, Method: Compositional matrix adjust.
+ Identities = 13/16 (81%), Positives = 13/16 (81%), Gaps = 0/16 (0%)
+
+Query  20  GSVVIVGRIVLSGKPA  35
+           GSVVIVGRI LSG  A
+Sbjct  11  GSVVIVGRINLSGDTA  26
+
+
+>6P6M_A HCV NS3/4A protease domain of genotype 1a C159 in complex with 
+glecaprevir [Hepatitis C virus (isolate 1)]
+Length=203
+
+ Score = 26.9 bits (58),  Expect = 1.0, Method: Compositional matrix adjust.
+ Identities = 16/26 (62%), Positives = 17/26 (65%), Gaps = 0/26 (0%)
+
+Query  26  GRIVLSGKPAGSVVIVGRIVLSGKPA  51
+           G  + S K  GSVVIVGRI LSG  A
+Sbjct  1   GSHMASMKKKGSVVIVGRINLSGDTA  26
+
+
+ Score = 25.0 bits (53),  Expect = 6.6, Method: Compositional matrix adjust.
+ Identities = 13/18 (72%), Positives = 14/18 (78%), Gaps = 0/18 (0%)
+
+Query  18  EPGSVVIVGRIVLSGKPA  35
+           + GSVVIVGRI LSG  A
+Sbjct  9   KKGSVVIVGRINLSGDTA  26
+
+
+ Score = 25.0 bits (53),  Expect = 6.6, Method: Compositional matrix adjust.
+ Identities = 13/16 (81%), Positives = 13/16 (81%), Gaps = 0/16 (0%)
+
+Query  1   GSVVIVGRIVLSGKPA  16
+           GSVVIVGRI LSG  A
+Sbjct  11  GSVVIVGRINLSGDTA  26
+
+
+>3SUF_A Crystal structure of NS3/4A protease variant D168A in complex 
+with MK-5172 [Hepatitis C virus subtype 1a]
+ 3SUF_B Crystal structure of NS3/4A protease variant D168A in complex 
+with MK-5172 [Hepatitis C virus subtype 1a]
+ 3SUF_C Crystal structure of NS3/4A protease variant D168A in complex 
+with MK-5172 [Hepatitis C virus subtype 1a]
+ 3SUF_D Crystal structure of NS3/4A protease variant D168A in complex 
+with MK-5172 [Hepatitis C virus subtype 1a]
+Length=203
+
+ Score = 26.9 bits (58),  Expect = 1.0, Method: Compositional matrix adjust.
+ Identities = 16/26 (62%), Positives = 17/26 (65%), Gaps = 0/26 (0%)
+
+Query  26  GRIVLSGKPAGSVVIVGRIVLSGKPA  51
+           G  + S K  GSVVIVGRI LSG  A
+Sbjct  1   GSHMASMKKKGSVVIVGRINLSGDTA  26
+
+
+ Score = 25.0 bits (53),  Expect = 6.6, Method: Compositional matrix adjust.
+ Identities = 13/18 (72%), Positives = 14/18 (78%), Gaps = 0/18 (0%)
+
+Query  18  EPGSVVIVGRIVLSGKPA  35
+           + GSVVIVGRI LSG  A
+Sbjct  9   KKGSVVIVGRINLSGDTA  26
+
+
+ Score = 25.0 bits (53),  Expect = 6.7, Method: Compositional matrix adjust.
+ Identities = 13/16 (81%), Positives = 13/16 (81%), Gaps = 0/16 (0%)
+
+Query  1   GSVVIVGRIVLSGKPA  16
+           GSVVIVGRI LSG  A
+Sbjct  11  GSVVIVGRINLSGDTA  26
+
+
+>3SU1_A Crystal structure of NS3/4A protease variant D168A in complex 
+with danoprevir [Hepatitis C virus subtype 1a]
+ 3SU5_A Crystal structure of NS3/4A protease variant D168A in complex 
+with vaniprevir [Hepatitis C virus subtype 1a]
+Length=203
+
+ Score = 26.9 bits (58),  Expect = 1.0, Method: Compositional matrix adjust.
+ Identities = 16/26 (62%), Positives = 17/26 (65%), Gaps = 0/26 (0%)
+
+Query  26  GRIVLSGKPAGSVVIVGRIVLSGKPA  51
+           G  + S K  GSVVIVGRI LSG  A
+Sbjct  1   GSHMASMKKKGSVVIVGRINLSGDTA  26
+
+
+ Score = 25.0 bits (53),  Expect = 6.6, Method: Compositional matrix adjust.
+ Identities = 13/18 (72%), Positives = 14/18 (78%), Gaps = 0/18 (0%)
+
+Query  18  EPGSVVIVGRIVLSGKPA  35
+           + GSVVIVGRI LSG  A
+Sbjct  9   KKGSVVIVGRINLSGDTA  26
+
+
+ Score = 25.0 bits (53),  Expect = 6.7, Method: Compositional matrix adjust.
+ Identities = 13/16 (81%), Positives = 13/16 (81%), Gaps = 0/16 (0%)
+
+Query  1   GSVVIVGRIVLSGKPA  16
+           GSVVIVGRI LSG  A
+Sbjct  11  GSVVIVGRINLSGDTA  26
+
+
+>6NZT_A Crystal structure of HCV NS3/4A protease in complex with voxilaprevir 
+[Hepacivirus C]
+ 6NZV_A Crystal structure of HCV NS3/4A protease in complex with compound 
+12 [Hepatitis C virus subtype 1a]
+Length=203
+
+ Score = 26.9 bits (58),  Expect = 1.0, Method: Compositional matrix adjust.
+ Identities = 16/26 (62%), Positives = 17/26 (65%), Gaps = 0/26 (0%)
+
+Query  26  GRIVLSGKPAGSVVIVGRIVLSGKPA  51
+           G  + S K  GSVVIVGRI LSG  A
+Sbjct  1   GSHMASMKKKGSVVIVGRINLSGDTA  26
+
+
+ Score = 25.0 bits (53),  Expect = 6.7, Method: Compositional matrix adjust.
+ Identities = 13/18 (72%), Positives = 14/18 (78%), Gaps = 0/18 (0%)
+
+Query  18  EPGSVVIVGRIVLSGKPA  35
+           + GSVVIVGRI LSG  A
+Sbjct  9   KKGSVVIVGRINLSGDTA  26
+
+
+ Score = 24.6 bits (52),  Expect = 6.8, Method: Compositional matrix adjust.
+ Identities = 13/16 (81%), Positives = 13/16 (81%), Gaps = 0/16 (0%)
+
+Query  1   GSVVIVGRIVLSGKPA  16
+           GSVVIVGRI LSG  A
+Sbjct  11  GSVVIVGRINLSGDTA  26
+
+
+>3SU2_A Crystal structure of NS3/4A protease variant A156T in complex 
+with danoprevir [Hepatitis C virus subtype 1a]
+ 3SU6_A Crystal structure of NS3/4A protease variant A156T in complex 
+with vaniprevir [Hepatitis C virus subtype 1a]
+ 3SUG_A Crystal structure of NS3/4A protease variant A156T in complex 
+with MK-5172 [Hepatitis C virus subtype 1a]
+Length=203
+
+ Score = 26.9 bits (58),  Expect = 1.0, Method: Compositional matrix adjust.
+ Identities = 16/26 (62%), Positives = 17/26 (65%), Gaps = 0/26 (0%)
+
+Query  26  GRIVLSGKPAGSVVIVGRIVLSGKPA  51
+           G  + S K  GSVVIVGRI LSG  A
+Sbjct  1   GSHMASMKKKGSVVIVGRINLSGDTA  26
+
+
+ Score = 25.0 bits (53),  Expect = 6.6, Method: Compositional matrix adjust.
+ Identities = 13/18 (72%), Positives = 14/18 (78%), Gaps = 0/18 (0%)
+
+Query  18  EPGSVVIVGRIVLSGKPA  35
+           + GSVVIVGRI LSG  A
+Sbjct  9   KKGSVVIVGRINLSGDTA  26
+
+
+ Score = 25.0 bits (53),  Expect = 6.7, Method: Compositional matrix adjust.
+ Identities = 13/16 (81%), Positives = 13/16 (81%), Gaps = 0/16 (0%)
+
+Query  1   GSVVIVGRIVLSGKPA  16
+           GSVVIVGRI LSG  A
+Sbjct  11  GSVVIVGRINLSGDTA  26
+
+
+>3SV8_A Crystal structure of NS3/4A protease variant D168A in complex 
+with Telaprevir [Hepatitis C virus subtype 1a]
+Length=203
+
+ Score = 26.9 bits (58),  Expect = 1.0, Method: Compositional matrix adjust.
+ Identities = 16/26 (62%), Positives = 17/26 (65%), Gaps = 0/26 (0%)
+
+Query  26  GRIVLSGKPAGSVVIVGRIVLSGKPA  51
+           G  + S K  GSVVIVGRI LSG  A
+Sbjct  1   GSHMASMKKKGSVVIVGRINLSGDTA  26
+
+
+ Score = 25.0 bits (53),  Expect = 6.7, Method: Compositional matrix adjust.
+ Identities = 13/18 (72%), Positives = 14/18 (78%), Gaps = 0/18 (0%)
+
+Query  18  EPGSVVIVGRIVLSGKPA  35
+           + GSVVIVGRI LSG  A
+Sbjct  9   KKGSVVIVGRINLSGDTA  26
+
+
+ Score = 24.6 bits (52),  Expect = 6.8, Method: Compositional matrix adjust.
+ Identities = 13/16 (81%), Positives = 13/16 (81%), Gaps = 0/16 (0%)
+
+Query  1   GSVVIVGRIVLSGKPA  16
+           GSVVIVGRI LSG  A
+Sbjct  11  GSVVIVGRINLSGDTA  26
+
+
+>3SV6_A Crystal structure of NS3/4A protease in complex with Telaprevir 
+[Hepatitis C virus subtype 1a]
+ 5VOJ_A Crystal structure of HCV NS3/4A protease in complex with JZ01-15, 
+an analogue of 5172-mcP1P3 [Hepatitis C virus subtype 1a]
+ 5VP9_A Crystal structure of HCV NS3/4A protease in complex with AM-07, 
+an analogue of 5172-mcP1P3 [Hepatitis C virus subtype 1a]
+ 6P6L_A HCV NS3/4A protease domain of genotype 1a in complex with glecaprevir 
+[Hepatitis C virus (isolate 1)]
+Length=203
+
+ Score = 26.9 bits (58),  Expect = 1.0, Method: Compositional matrix adjust.
+ Identities = 16/26 (62%), Positives = 17/26 (65%), Gaps = 0/26 (0%)
+
+Query  26  GRIVLSGKPAGSVVIVGRIVLSGKPA  51
+           G  + S K  GSVVIVGRI LSG  A
+Sbjct  1   GSHMASMKKKGSVVIVGRINLSGDTA  26
+
+
+ Score = 25.0 bits (53),  Expect = 6.6, Method: Compositional matrix adjust.
+ Identities = 13/18 (72%), Positives = 14/18 (78%), Gaps = 0/18 (0%)
+
+Query  18  EPGSVVIVGRIVLSGKPA  35
+           + GSVVIVGRI LSG  A
+Sbjct  9   KKGSVVIVGRINLSGDTA  26
+
+
+ Score = 25.0 bits (53),  Expect = 6.7, Method: Compositional matrix adjust.
+ Identities = 13/16 (81%), Positives = 13/16 (81%), Gaps = 0/16 (0%)
+
+Query  1   GSVVIVGRIVLSGKPA  16
+           GSVVIVGRI LSG  A
+Sbjct  11  GSVVIVGRINLSGDTA  26
+
+
+>6C2N_A Crystal structure of HCV NS3/4A double mutant variant Y56H/D168A 
+in complex with danoprevir [Hepatitis C virus subtype 1a]
+Length=203
+
+ Score = 26.9 bits (58),  Expect = 1.0, Method: Compositional matrix adjust.
+ Identities = 16/26 (62%), Positives = 17/26 (65%), Gaps = 0/26 (0%)
+
+Query  26  GRIVLSGKPAGSVVIVGRIVLSGKPA  51
+           G  + S K  GSVVIVGRI LSG  A
+Sbjct  1   GSHMASMKKKGSVVIVGRINLSGDTA  26
+
+
+ Score = 24.6 bits (52),  Expect = 6.8, Method: Compositional matrix adjust.
+ Identities = 13/18 (72%), Positives = 14/18 (78%), Gaps = 0/18 (0%)
+
+Query  18  EPGSVVIVGRIVLSGKPA  35
+           + GSVVIVGRI LSG  A
+Sbjct  9   KKGSVVIVGRINLSGDTA  26
+
+
+ Score = 24.6 bits (52),  Expect = 6.8, Method: Compositional matrix adjust.
+ Identities = 13/16 (81%), Positives = 13/16 (81%), Gaps = 0/16 (0%)
+
+Query  1   GSVVIVGRIVLSGKPA  16
+           GSVVIVGRI LSG  A
+Sbjct  11  GSVVIVGRINLSGDTA  26
+
+
+>3M5L_A Crystal structure of HCV NS3/4A protease in complex with ITMN-191 
+[Hepatitis C virus subtype 1a]
+ 3M5M_A Avoiding drug resistance against HCV NS3/4A protease inhibitors 
+[Hepatitis C virus subtype 1a]
+ 3M5M_B Avoiding drug resistance against HCV NS3/4A protease inhibitors 
+[Hepatitis C virus subtype 1a]
+ 3M5N_A Crystal structure of HCV NS3/4A protease in complex with N-terminal 
+product 4B5A [Hepatitis C virus subtype 1a]
+ 3M5N_B Crystal structure of HCV NS3/4A protease in complex with N-terminal 
+product 4B5A [Hepatitis C virus subtype 1a]
+ 3M5N_C Crystal structure of HCV NS3/4A protease in complex with N-terminal 
+product 4B5A [Hepatitis C virus subtype 1a]
+ 3M5N_D Crystal structure of HCV NS3/4A protease in complex with N-terminal 
+product 4B5A [Hepatitis C virus subtype 1a]
+ 3M5O_A Crystal structure of HCV NS3/4A protease in complex with N-terminal 
+product 5A5B [Hepatitis C virus subtype 1a]
+ 3M5O_B Crystal structure of HCV NS3/4A protease in complex with N-terminal 
+product 5A5B [Hepatitis C virus subtype 1a]
+ 3RC4_A Molecular mechanisms of viral and host-cell substrate recognition 
+by HCV NS3/4A protease [Hepatitis C virus subtype 1a]
+ 3RC5_A Molecular mechanisms of viral and host-cell substrate recognition 
+by HCV NS3/4A protease [Hepatitis C virus subtype 1a]
+ 3RC6_A Molecular mechanisms of viral and host-cell substrate recognition 
+by HCV NS3/4A protease [Hepatitis C virus subtype 1a]
+ 3SU3_A Crystal structure of NS3/4A protease in complex with vaniprevir 
+[Hepatitis C virus subtype 1a]
+ 3SUD_A Crystal structure of NS3/4A protease in complex with MK-5172 
+[Hepatitis C virus subtype 1a]
+ 3SUD_B Crystal structure of NS3/4A protease in complex with MK-5172 
+[Hepatitis C virus subtype 1a]
+ 3SUD_C Crystal structure of NS3/4A protease in complex with MK-5172 
+[Hepatitis C virus subtype 1a]
+ 3SUD_D Crystal structure of NS3/4A protease in complex with MK-5172 
+[Hepatitis C virus subtype 1a]
+Length=203
+
+ Score = 26.9 bits (58),  Expect = 1.0, Method: Compositional matrix adjust.
+ Identities = 16/26 (62%), Positives = 17/26 (65%), Gaps = 0/26 (0%)
+
+Query  26  GRIVLSGKPAGSVVIVGRIVLSGKPA  51
+           G  + S K  GSVVIVGRI LSG  A
+Sbjct  1   GSHMASMKKKGSVVIVGRINLSGDTA  26
+
+
+ Score = 25.0 bits (53),  Expect = 6.7, Method: Compositional matrix adjust.
+ Identities = 13/18 (72%), Positives = 14/18 (78%), Gaps = 0/18 (0%)
+
+Query  18  EPGSVVIVGRIVLSGKPA  35
+           + GSVVIVGRI LSG  A
+Sbjct  9   KKGSVVIVGRINLSGDTA  26
+
+
+ Score = 24.6 bits (52),  Expect = 6.8, Method: Compositional matrix adjust.
+ Identities = 13/16 (81%), Positives = 13/16 (81%), Gaps = 0/16 (0%)
+
+Query  1   GSVVIVGRIVLSGKPA  16
+           GSVVIVGRI LSG  A
+Sbjct  11  GSVVIVGRINLSGDTA  26
+
+
+>1DXP_C Inhibition of the Hepatitis C Virus NS3/4A Protease. The Crystal 
+Structures of Two Protease-Inhibitor Complexes (apo structure) 
+[Hepatitis C virus (isolate Taiwan)]
+ 1DXP_D Inhibition of the Hepatitis C Virus NS3/4A Protease. The Crystal 
+Structures of Two Protease-Inhibitor Complexes (apo structure) 
+[Hepatitis C virus (isolate Taiwan)]
+ 1DY8_C Inhibition of the Hepatitis C Virus NS3/4A Protease. The Crystal 
+Structures of Two Protease-Inhibitor Complexes (inhibitor 
+II) [Hepatitis C virus (isolate Taiwan)]
+ 1DY8_D Inhibition of the Hepatitis C Virus NS3/4A Protease. The Crystal 
+Structures of Two Protease-Inhibitor Complexes (inhibitor 
+II) [Hepatitis C virus (isolate Taiwan)]
+ 1DY9_C Inhibition of the Hepatitis C Virus NS3/4A Protease. The Crystal 
+Structures of Two Protease-Inhibitor Complexes (inhibitor 
+I) [Hepatitis C virus (isolate Taiwan)]
+ 1DY9_D Inhibition of the Hepatitis C Virus NS3/4A Protease. The Crystal 
+Structures of Two Protease-Inhibitor Complexes (inhibitor 
+I) [Hepatitis C virus (isolate Taiwan)]
+ 1JXP_C Bk Strain Hepatitis C Virus (Hcv) Ns3-Ns4a [Hepatitis C virus 
+(isolate BK)]
+ 1JXP_D Bk Strain Hepatitis C Virus (Hcv) Ns3-Ns4a [Hepatitis C virus 
+(isolate BK)]
+ 1W3C_C Crystal structure of the Hepatitis C Virus NS3 Protease in complex 
+with a peptidomimetic inhibitor [Hepatitis C virus (isolate 
+1)]
+ 1W3C_D Crystal structure of the Hepatitis C Virus NS3 Protease in complex 
+with a peptidomimetic inhibitor [Hepatitis C virus (isolate 
+1)]
+ 3OYP_C HCV NS3/4A in complex with ligand 3 [Hepatitis C virus (isolate 
+Japanese)]
+ 3OYP_D HCV NS3/4A in complex with ligand 3 [Hepatitis C virus (isolate 
+Japanese)]
+ 4KTC_B NS3/NS4A protease with inhibitor [synthetic construct]
+ 4KTC_D NS3/NS4A protease with inhibitor [synthetic construct]
+ 4U01_K HCV NS3/4A serine protease in complex with 6570 [Hepacivirus 
+C]
+ 4U01_L HCV NS3/4A serine protease in complex with 6570 [Hepacivirus 
+C]
+ 4U01_M HCV NS3/4A serine protease in complex with 6570 [Hepacivirus 
+C]
+ 4U01_N HCV NS3/4A serine protease in complex with 6570 [Hepacivirus 
+C]
+ 4U01_O HCV NS3/4A serine protease in complex with 6570 [Hepacivirus 
+C]
+ 4U01_P HCV NS3/4A serine protease in complex with 6570 [Hepacivirus 
+C]
+ 4U01_Q HCV NS3/4A serine protease in complex with 6570 [Hepacivirus 
+C]
+ 4U01_T HCV NS3/4A serine protease in complex with 6570 [Hepacivirus 
+C]
+ 4U01_U HCV NS3/4A serine protease in complex with 6570 [Hepacivirus 
+C]
+Length=16
+
+ Score = 25.4 bits (54),  Expect = 1.1, Method: Compositional matrix adjust.
+ Identities = 12/16 (75%), Positives = 14/16 (88%), Gaps = 0/16 (0%)
+
+Query  19  PGSVVIVGRIVLSGKP  34
+            GSVVIVGRI+LSG+ 
+Sbjct  1   KGSVVIVGRIILSGRK  16
+
+
+ Score = 25.4 bits (54),  Expect = 1.4, Method: Compositional matrix adjust.
+ Identities = 12/15 (80%), Positives = 14/15 (93%), Gaps = 0/15 (0%)
+
+Query  1   GSVVIVGRIVLSGKP  15
+           GSVVIVGRI+LSG+ 
+Sbjct  2   GSVVIVGRIILSGRK  16
+
+
+ Score = 25.4 bits (54),  Expect = 1.4, Method: Compositional matrix adjust.
+ Identities = 12/15 (80%), Positives = 14/15 (93%), Gaps = 0/15 (0%)
+
+Query  36  GSVVIVGRIVLSGKP  50
+           GSVVIVGRI+LSG+ 
+Sbjct  2   GSVVIVGRIILSGRK  16
+
+
+>6PIU_A Crystal structure of HCV NS3/4A D168A protease in complex with 
+P4-P5-6 (NR03-68) [Hepacivirus C]
+ 6PIV_A Crystal structure of HCV NS3/4A D168A protease in complex with 
+P4-7 (NR03-77) [Hepacivirus C]
+ 6PIW_A Crystal structure of HCV NS3/4A D168A protease in complex with 
+P4-6 (NR03-67) [Hepacivirus C]
+ 6PIX_A Crystal structure of HCV NS3/4A D168A protease in complex with 
+P4-P5-5 (WK-25) [Hepacivirus C]
+ 6PJ0_A Crystal structure of HCV NS3/4A D168A protease in complex with 
+P4-5 (NR01-97) [Hepacivirus C]
+ 6PJ2_A Crystal structure of HCV NS3/4A D168A protease in complex with 
+P4-P5-4 (AJ-65) [Hepacivirus C]
+Length=220
+
+ Score = 26.9 bits (58),  Expect = 1.2, Method: Compositional matrix adjust.
+ Identities = 16/26 (62%), Positives = 17/26 (65%), Gaps = 0/26 (0%)
+
+Query  26  GRIVLSGKPAGSVVIVGRIVLSGKPA  51
+           G  + S K  GSVVIVGRI LSG  A
+Sbjct  18  GSHMASMKKKGSVVIVGRINLSGDTA  43
+
+
+ Score = 24.6 bits (52),  Expect = 7.5, Method: Compositional matrix adjust.
+ Identities = 13/18 (72%), Positives = 14/18 (78%), Gaps = 0/18 (0%)
+
+Query  18  EPGSVVIVGRIVLSGKPA  35
+           + GSVVIVGRI LSG  A
+Sbjct  26  KKGSVVIVGRINLSGDTA  43
+
+
+ Score = 24.6 bits (52),  Expect = 7.6, Method: Compositional matrix adjust.
+ Identities = 13/16 (81%), Positives = 13/16 (81%), Gaps = 0/16 (0%)
+
+Query  1   GSVVIVGRIVLSGKPA  16
+           GSVVIVGRI LSG  A
+Sbjct  28  GSVVIVGRINLSGDTA  43
+
+
+>5EPY_A Crystal structure of HCV NS3/4A protease A156T variant in complex 
+with 5172-mcP1P3 (MK-5172 P1-P3 macrocyclic analogue) [Hepacivirus 
+C]
+Length=198
+
+ Score = 26.6 bits (57),  Expect = 1.6, Method: Compositional matrix adjust.
+ Identities = 15/21 (71%), Positives = 15/21 (71%), Gaps = 0/21 (0%)
+
+Query  31  SGKPAGSVVIVGRIVLSGKPA  51
+           S K  GSVVIVGRI LSG  A
+Sbjct  4   SMKKKGSVVIVGRINLSGDTA  24
+
+
+ Score = 25.0 bits (53),  Expect = 5.8, Method: Compositional matrix adjust.
+ Identities = 13/18 (72%), Positives = 14/18 (78%), Gaps = 0/18 (0%)
+
+Query  18  EPGSVVIVGRIVLSGKPA  35
+           + GSVVIVGRI LSG  A
+Sbjct  7   KKGSVVIVGRINLSGDTA  24
+
+
+ Score = 25.0 bits (53),  Expect = 6.0, Method: Compositional matrix adjust.
+ Identities = 13/16 (81%), Positives = 13/16 (81%), Gaps = 0/16 (0%)
+
+Query  1   GSVVIVGRIVLSGKPA  16
+           GSVVIVGRI LSG  A
+Sbjct  9   GSVVIVGRINLSGDTA  24
+
+
+>4WH8_A Crystal Structure of HCV NS3/4A protease in complex with an Asunaprevir 
+P1-P3 macrocyclic analog. [Hepatitis C virus subtype 
+1a]
+ 4WH8_B Crystal Structure of HCV NS3/4A protease in complex with an Asunaprevir 
+P1-P3 macrocyclic analog. [Hepatitis C virus subtype 
+1a]
+Length=198
+
+ Score = 26.6 bits (57),  Expect = 1.6, Method: Compositional matrix adjust.
+ Identities = 15/21 (71%), Positives = 15/21 (71%), Gaps = 0/21 (0%)
+
+Query  31  SGKPAGSVVIVGRIVLSGKPA  51
+           S K  GSVVIVGRI LSG  A
+Sbjct  4   SMKKKGSVVIVGRINLSGDTA  24
+
+
+ Score = 25.0 bits (53),  Expect = 5.8, Method: Compositional matrix adjust.
+ Identities = 13/18 (72%), Positives = 14/18 (78%), Gaps = 0/18 (0%)
+
+Query  18  EPGSVVIVGRIVLSGKPA  35
+           + GSVVIVGRI LSG  A
+Sbjct  7   KKGSVVIVGRINLSGDTA  24
+
+
+ Score = 25.0 bits (53),  Expect = 6.0, Method: Compositional matrix adjust.
+ Identities = 13/16 (81%), Positives = 13/16 (81%), Gaps = 0/16 (0%)
+
+Query  1   GSVVIVGRIVLSGKPA  16
+           GSVVIVGRI LSG  A
+Sbjct  9   GSVVIVGRINLSGDTA  24
+
+
+>5EQR_A Crystal structure of a genotype 1a/3a chimeric HCV NS3/4A protease 
+in complex with danoprevir [Hepacivirus C]
+Length=198
+
+ Score = 26.6 bits (57),  Expect = 1.6, Method: Compositional matrix adjust.
+ Identities = 15/21 (71%), Positives = 15/21 (71%), Gaps = 0/21 (0%)
+
+Query  31  SGKPAGSVVIVGRIVLSGKPA  51
+           S K  GSVVIVGRI LSG  A
+Sbjct  4   SMKKKGSVVIVGRINLSGDTA  24
+
+
+ Score = 25.0 bits (53),  Expect = 5.8, Method: Compositional matrix adjust.
+ Identities = 13/18 (72%), Positives = 14/18 (78%), Gaps = 0/18 (0%)
+
+Query  18  EPGSVVIVGRIVLSGKPA  35
+           + GSVVIVGRI LSG  A
+Sbjct  7   KKGSVVIVGRINLSGDTA  24
+
+
+ Score = 25.0 bits (53),  Expect = 5.9, Method: Compositional matrix adjust.
+ Identities = 13/16 (81%), Positives = 13/16 (81%), Gaps = 0/16 (0%)
+
+Query  1   GSVVIVGRIVLSGKPA  16
+           GSVVIVGRI LSG  A
+Sbjct  9   GSVVIVGRINLSGDTA  24
+
+
+>6DIQ_A Crystal structure of HCV NS3/4A protease in complex with P4-P5-1 
+(WK-23) [Hepacivirus C]
+ 6DIR_A Crystal structure of HCV NS3/4A protease in complex with P4-P5-2 
+(AJ-67) [Hepacivirus C]
+ 6DIS_A Crystal structure of HCV NS3/4A protease in complex with P4-1 
+(AJ-71) [Hepacivirus C]
+ 6DIT_A Crystal structure of HCV NS3/4A protease in complex with P4-2 
+(JZ01-19) [Hepacivirus C]
+ 6DIU_A Crystal structure of HCV NS3/4A protease in complex with P4-3(AJ-74) 
+[Hepacivirus C]
+Length=199
+
+ Score = 26.6 bits (57),  Expect = 1.6, Method: Compositional matrix adjust.
+ Identities = 15/21 (71%), Positives = 15/21 (71%), Gaps = 0/21 (0%)
+
+Query  31  SGKPAGSVVIVGRIVLSGKPA  51
+           S K  GSVVIVGRI LSG  A
+Sbjct  4   SMKKKGSVVIVGRINLSGDTA  24
+
+
+ Score = 25.0 bits (53),  Expect = 5.9, Method: Compositional matrix adjust.
+ Identities = 13/18 (72%), Positives = 14/18 (78%), Gaps = 0/18 (0%)
+
+Query  18  EPGSVVIVGRIVLSGKPA  35
+           + GSVVIVGRI LSG  A
+Sbjct  7   KKGSVVIVGRINLSGDTA  24
+
+
+ Score = 25.0 bits (53),  Expect = 6.2, Method: Compositional matrix adjust.
+ Identities = 13/16 (81%), Positives = 13/16 (81%), Gaps = 0/16 (0%)
+
+Query  1   GSVVIVGRIVLSGKPA  16
+           GSVVIVGRI LSG  A
+Sbjct  9   GSVVIVGRINLSGDTA  24
+
+
+>6C2O_A Crystal structure of HCV NS3/4A protease variant Y56H in complex 
+with danoprevir [Hepacivirus C]
+Length=198
+
+ Score = 26.6 bits (57),  Expect = 1.6, Method: Compositional matrix adjust.
+ Identities = 15/21 (71%), Positives = 15/21 (71%), Gaps = 0/21 (0%)
+
+Query  31  SGKPAGSVVIVGRIVLSGKPA  51
+           S K  GSVVIVGRI LSG  A
+Sbjct  4   SMKKKGSVVIVGRINLSGDTA  24
+
+
+ Score = 25.0 bits (53),  Expect = 6.0, Method: Compositional matrix adjust.
+ Identities = 13/18 (72%), Positives = 14/18 (78%), Gaps = 0/18 (0%)
+
+Query  18  EPGSVVIVGRIVLSGKPA  35
+           + GSVVIVGRI LSG  A
+Sbjct  7   KKGSVVIVGRINLSGDTA  24
+
+
+ Score = 25.0 bits (53),  Expect = 6.1, Method: Compositional matrix adjust.
+ Identities = 13/16 (81%), Positives = 13/16 (81%), Gaps = 0/16 (0%)
+
+Query  1   GSVVIVGRIVLSGKPA  16
+           GSVVIVGRI LSG  A
+Sbjct  9   GSVVIVGRINLSGDTA  24
+
+
+>3SU0_A Crystal structure of NS3/4A protease variant R155K in complex 
+with danoprevir [Hepatitis C virus subtype 1a]
+Length=198
+
+ Score = 26.6 bits (57),  Expect = 1.6, Method: Compositional matrix adjust.
+ Identities = 15/21 (71%), Positives = 15/21 (71%), Gaps = 0/21 (0%)
+
+Query  31  SGKPAGSVVIVGRIVLSGKPA  51
+           S K  GSVVIVGRI LSG  A
+Sbjct  3   SMKKKGSVVIVGRINLSGDTA  23
+
+
+ Score = 25.0 bits (53),  Expect = 5.9, Method: Compositional matrix adjust.
+ Identities = 13/18 (72%), Positives = 14/18 (78%), Gaps = 0/18 (0%)
+
+Query  18  EPGSVVIVGRIVLSGKPA  35
+           + GSVVIVGRI LSG  A
+Sbjct  6   KKGSVVIVGRINLSGDTA  23
+
+
+ Score = 25.0 bits (53),  Expect = 6.2, Method: Compositional matrix adjust.
+ Identities = 13/16 (81%), Positives = 13/16 (81%), Gaps = 0/16 (0%)
+
+Query  1   GSVVIVGRIVLSGKPA  16
+           GSVVIVGRI LSG  A
+Sbjct  8   GSVVIVGRINLSGDTA  23
+
+
+>4WH6_A Crystal structure of HCV NS3/4A protease variant R155K in complex 
+with Asunaprevir [Hepatitis C virus subtype 1a]
+Length=200
+
+ Score = 26.6 bits (57),  Expect = 1.7, Method: Compositional matrix adjust.
+ Identities = 15/21 (71%), Positives = 15/21 (71%), Gaps = 0/21 (0%)
+
+Query  31  SGKPAGSVVIVGRIVLSGKPA  51
+           S K  GSVVIVGRI LSG  A
+Sbjct  5   SMKKKGSVVIVGRINLSGDTA  25
+
+
+ Score = 25.0 bits (53),  Expect = 5.9, Method: Compositional matrix adjust.
+ Identities = 13/18 (72%), Positives = 14/18 (78%), Gaps = 0/18 (0%)
+
+Query  18  EPGSVVIVGRIVLSGKPA  35
+           + GSVVIVGRI LSG  A
+Sbjct  8   KKGSVVIVGRINLSGDTA  25
+
+
+ Score = 25.0 bits (53),  Expect = 6.2, Method: Compositional matrix adjust.
+ Identities = 13/16 (81%), Positives = 13/16 (81%), Gaps = 0/16 (0%)
+
+Query  1   GSVVIVGRIVLSGKPA  16
+           GSVVIVGRI LSG  A
+Sbjct  10  GSVVIVGRINLSGDTA  25
+
+
+>6DIV_A Crystal structure of HCV NS3/4A D168A protease in complex with 
+P4-P5-2 (AJ-67) [Hepacivirus C]
+ 6DIW_A Crystal structure of HCV NS3/4A D168A protease in complex with 
+P4-1 (AJ-71) [Hepacivirus C]
+Length=199
+
+ Score = 26.6 bits (57),  Expect = 1.7, Method: Compositional matrix adjust.
+ Identities = 15/21 (71%), Positives = 15/21 (71%), Gaps = 0/21 (0%)
+
+Query  31  SGKPAGSVVIVGRIVLSGKPA  51
+           S K  GSVVIVGRI LSG  A
+Sbjct  4   SMKKKGSVVIVGRINLSGDTA  24
+
+
+ Score = 25.0 bits (53),  Expect = 6.0, Method: Compositional matrix adjust.
+ Identities = 13/18 (72%), Positives = 14/18 (78%), Gaps = 0/18 (0%)
+
+Query  18  EPGSVVIVGRIVLSGKPA  35
+           + GSVVIVGRI LSG  A
+Sbjct  7   KKGSVVIVGRINLSGDTA  24
+
+
+ Score = 25.0 bits (53),  Expect = 6.4, Method: Compositional matrix adjust.
+ Identities = 13/16 (81%), Positives = 13/16 (81%), Gaps = 0/16 (0%)
+
+Query  1   GSVVIVGRIVLSGKPA  16
+           GSVVIVGRI LSG  A
+Sbjct  9   GSVVIVGRINLSGDTA  24
+
+
+>6C2M_A Crystal structure of HCV NS3/4A protease variant Y56H in complex 
+with MK-5172 [Hepacivirus C]
+ 6C2M_B Crystal structure of HCV NS3/4A protease variant Y56H in complex 
+with MK-5172 [Hepacivirus C]
+ 6C2M_C Crystal structure of HCV NS3/4A protease variant Y56H in complex 
+with MK-5172 [Hepacivirus C]
+ 6C2M_D Crystal structure of HCV NS3/4A protease variant Y56H in complex 
+with MK-5172 [Hepacivirus C]
+Length=197
+
+ Score = 26.6 bits (57),  Expect = 1.7, Method: Compositional matrix adjust.
+ Identities = 15/21 (71%), Positives = 15/21 (71%), Gaps = 0/21 (0%)
+
+Query  31  SGKPAGSVVIVGRIVLSGKPA  51
+           S K  GSVVIVGRI LSG  A
+Sbjct  3   SMKKKGSVVIVGRINLSGDTA  23
+
+
+ Score = 25.0 bits (53),  Expect = 6.2, Method: Compositional matrix adjust.
+ Identities = 13/18 (72%), Positives = 14/18 (78%), Gaps = 0/18 (0%)
+
+Query  18  EPGSVVIVGRIVLSGKPA  35
+           + GSVVIVGRI LSG  A
+Sbjct  6   KKGSVVIVGRINLSGDTA  23
+
+
+ Score = 25.0 bits (53),  Expect = 6.4, Method: Compositional matrix adjust.
+ Identities = 13/16 (81%), Positives = 13/16 (81%), Gaps = 0/16 (0%)
+
+Query  1   GSVVIVGRIVLSGKPA  16
+           GSVVIVGRI LSG  A
+Sbjct  8   GSVVIVGRINLSGDTA  23
+
+
+>5EPN_A Crystal structure of HCV NS3/4A protease in complex with 5172-mcP1P3 
+(MK-5172 P1-P3 macrocyclic analogue) [Hepacivirus C]
+Length=197
+
+ Score = 26.6 bits (57),  Expect = 1.7, Method: Compositional matrix adjust.
+ Identities = 15/21 (71%), Positives = 15/21 (71%), Gaps = 0/21 (0%)
+
+Query  31  SGKPAGSVVIVGRIVLSGKPA  51
+           S K  GSVVIVGRI LSG  A
+Sbjct  3   SMKKKGSVVIVGRINLSGDTA  23
+
+
+ Score = 25.0 bits (53),  Expect = 6.1, Method: Compositional matrix adjust.
+ Identities = 13/18 (72%), Positives = 14/18 (78%), Gaps = 0/18 (0%)
+
+Query  18  EPGSVVIVGRIVLSGKPA  35
+           + GSVVIVGRI LSG  A
+Sbjct  6   KKGSVVIVGRINLSGDTA  23
+
+
+ Score = 25.0 bits (53),  Expect = 6.3, Method: Compositional matrix adjust.
+ Identities = 13/16 (81%), Positives = 13/16 (81%), Gaps = 0/16 (0%)
+
+Query  1   GSVVIVGRIVLSGKPA  16
+           GSVVIVGRI LSG  A
+Sbjct  8   GSVVIVGRINLSGDTA  23
+
+
+>6UE3_A Crystal structure of HCV NS3/4A D168A protease in complex with 
+PC (JZ01-15) [Hepacivirus C]
+Length=200
+
+ Score = 26.6 bits (57),  Expect = 1.7, Method: Compositional matrix adjust.
+ Identities = 15/21 (71%), Positives = 15/21 (71%), Gaps = 0/21 (0%)
+
+Query  31  SGKPAGSVVIVGRIVLSGKPA  51
+           S K  GSVVIVGRI LSG  A
+Sbjct  4   SMKKKGSVVIVGRINLSGDTA  24
+
+
+ Score = 25.0 bits (53),  Expect = 6.1, Method: Compositional matrix adjust.
+ Identities = 13/18 (72%), Positives = 14/18 (78%), Gaps = 0/18 (0%)
+
+Query  18  EPGSVVIVGRIVLSGKPA  35
+           + GSVVIVGRI LSG  A
+Sbjct  7   KKGSVVIVGRINLSGDTA  24
+
+
+ Score = 25.0 bits (53),  Expect = 6.4, Method: Compositional matrix adjust.
+ Identities = 13/16 (81%), Positives = 13/16 (81%), Gaps = 0/16 (0%)
+
+Query  1   GSVVIVGRIVLSGKPA  16
+           GSVVIVGRI LSG  A
+Sbjct  9   GSVVIVGRINLSGDTA  24
+
+
+>6PIY_A Crystal structure of HCV NS3/4A D168A protease in complex with 
+P4-2 (NR02-61) [Hepacivirus C]
+Length=201
+
+ Score = 26.2 bits (56),  Expect = 1.9, Method: Compositional matrix adjust.
+ Identities = 15/21 (71%), Positives = 15/21 (71%), Gaps = 0/21 (0%)
+
+Query  31  SGKPAGSVVIVGRIVLSGKPA  51
+           S K  GSVVIVGRI LSG  A
+Sbjct  4   SMKKKGSVVIVGRINLSGDTA  24
+
+
+ Score = 24.6 bits (52),  Expect = 6.8, Method: Compositional matrix adjust.
+ Identities = 13/16 (81%), Positives = 13/16 (81%), Gaps = 0/16 (0%)
+
+Query  1   GSVVIVGRIVLSGKPA  16
+           GSVVIVGRI LSG  A
+Sbjct  9   GSVVIVGRINLSGDTA  24
+
+
+ Score = 24.6 bits (52),  Expect = 6.8, Method: Compositional matrix adjust.
+ Identities = 13/16 (81%), Positives = 13/16 (81%), Gaps = 0/16 (0%)
+
+Query  20  GSVVIVGRIVLSGKPA  35
+           GSVVIVGRI LSG  A
+Sbjct  9   GSVVIVGRINLSGDTA  24
+
+
+>5ETX_A Crystal structure of HCV NS3/4A protease A156T variant in complex 
+with 5172-Linear (MK-5172 linear analogue) [Hepacivirus 
+C]
+ 5ETX_B Crystal structure of HCV NS3/4A protease A156T variant in complex 
+with 5172-Linear (MK-5172 linear analogue) [Hepacivirus 
+C]
+ 5ETX_C Crystal structure of HCV NS3/4A protease A156T variant in complex 
+with 5172-Linear (MK-5172 linear analogue) [Hepacivirus 
+C]
+ 5ETX_D Crystal structure of HCV NS3/4A protease A156T variant in complex 
+with 5172-Linear (MK-5172 linear analogue) [Hepacivirus 
+C]
+Length=194
+
+ Score = 26.2 bits (56),  Expect = 2.0, Method: Compositional matrix adjust.
+ Identities = 14/19 (74%), Positives = 14/19 (74%), Gaps = 0/19 (0%)
+
+Query  33  KPAGSVVIVGRIVLSGKPA  51
+           K  GSVVIVGRI LSG  A
+Sbjct  1   KKKGSVVIVGRINLSGDTA  19
+
+
+ Score = 25.0 bits (53),  Expect = 6.2, Method: Compositional matrix adjust.
+ Identities = 13/18 (72%), Positives = 14/18 (78%), Gaps = 0/18 (0%)
+
+Query  18  EPGSVVIVGRIVLSGKPA  35
+           + GSVVIVGRI LSG  A
+Sbjct  2   KKGSVVIVGRINLSGDTA  19
+
+
+ Score = 25.0 bits (53),  Expect = 6.4, Method: Compositional matrix adjust.
+ Identities = 13/16 (81%), Positives = 13/16 (81%), Gaps = 0/16 (0%)
+
+Query  1   GSVVIVGRIVLSGKPA  16
+           GSVVIVGRI LSG  A
+Sbjct  4   GSVVIVGRINLSGDTA  19
+
+
+>5ESB_A Crystal structure of a genotype 1a/3a chimeric HCV NS3/4A protease 
+in complex with Vaniprevir [Hepacivirus C]
+Length=193
+
+ Score = 26.2 bits (56),  Expect = 2.0, Method: Compositional matrix adjust.
+ Identities = 14/19 (74%), Positives = 14/19 (74%), Gaps = 0/19 (0%)
+
+Query  33  KPAGSVVIVGRIVLSGKPA  51
+           K  GSVVIVGRI LSG  A
+Sbjct  1   KKKGSVVIVGRINLSGDTA  19
+
+
+ Score = 25.0 bits (53),  Expect = 6.3, Method: Compositional matrix adjust.
+ Identities = 13/18 (72%), Positives = 14/18 (78%), Gaps = 0/18 (0%)
+
+Query  18  EPGSVVIVGRIVLSGKPA  35
+           + GSVVIVGRI LSG  A
+Sbjct  2   KKGSVVIVGRINLSGDTA  19
+
+
+ Score = 25.0 bits (53),  Expect = 6.3, Method: Compositional matrix adjust.
+ Identities = 13/16 (81%), Positives = 13/16 (81%), Gaps = 0/16 (0%)
+
+Query  1   GSVVIVGRIVLSGKPA  16
+           GSVVIVGRI LSG  A
+Sbjct  4   GSVVIVGRINLSGDTA  19
+
+
+>6P6S_A HCV NS3/4A protease domain of genotype 3a in complex with glecaprevir 
+[Hepatitis C virus (isolate NZL1)]
+Length=203
+
+ Score = 26.2 bits (56),  Expect = 2.1, Method: Compositional matrix adjust.
+ Identities = 15/26 (58%), Positives = 16/26 (62%), Gaps = 0/26 (0%)
+
+Query  26  GRIVLSGKPAGSVVIVGRIVLSGKPA  51
+           G  + S K  G VVIVGRI LSG  A
+Sbjct  1   GSHMASHKKKGCVVIVGRINLSGDTA  26
+
+
+>6N4N_A Crystal structure of the designed protein DNCR2/danoprevir/NS3a 
+complex [Hepacivirus C]
+ 6N4N_B Crystal structure of the designed protein DNCR2/danoprevir/NS3a 
+complex [Hepacivirus C]
+Length=197
+
+ Score = 26.2 bits (56),  Expect = 2.2, Method: Compositional matrix adjust.
+ Identities = 14/19 (74%), Positives = 14/19 (74%), Gaps = 0/19 (0%)
+
+Query  33  KPAGSVVIVGRIVLSGKPA  51
+           K  GSVVIVGRI LSG  A
+Sbjct  2   KKKGSVVIVGRINLSGDTA  20
+
+
+ Score = 24.6 bits (52),  Expect = 6.7, Method: Compositional matrix adjust.
+ Identities = 13/16 (81%), Positives = 13/16 (81%), Gaps = 0/16 (0%)
+
+Query  1   GSVVIVGRIVLSGKPA  16
+           GSVVIVGRI LSG  A
+Sbjct  5   GSVVIVGRINLSGDTA  20
+
+
+ Score = 24.6 bits (52),  Expect = 6.7, Method: Compositional matrix adjust.
+ Identities = 13/16 (81%), Positives = 13/16 (81%), Gaps = 0/16 (0%)
+
+Query  20  GSVVIVGRIVLSGKPA  35
+           GSVVIVGRI LSG  A
+Sbjct  5   GSVVIVGRINLSGDTA  20
+
+
+>6PIZ_A Crystal structure of HCV NS3/4A D168A protease in complex with 
+P4-1 (NR02-24) [Hepacivirus C]
+ 6PJ1_A Crystal structure of HCV NS3/4A D168A protease in complex with 
+P4-4(AJ-74) [Hepacivirus C]
+Length=221
+
+ Score = 26.2 bits (56),  Expect = 2.2, Method: Compositional matrix adjust.
+ Identities = 15/21 (71%), Positives = 15/21 (71%), Gaps = 0/21 (0%)
+
+Query  31  SGKPAGSVVIVGRIVLSGKPA  51
+           S K  GSVVIVGRI LSG  A
+Sbjct  24  SMKKKGSVVIVGRINLSGDTA  44
+
+
+ Score = 24.6 bits (52),  Expect = 7.5, Method: Compositional matrix adjust.
+ Identities = 13/18 (72%), Positives = 14/18 (78%), Gaps = 0/18 (0%)
+
+Query  18  EPGSVVIVGRIVLSGKPA  35
+           + GSVVIVGRI LSG  A
+Sbjct  27  KKGSVVIVGRINLSGDTA  44
+
+
+ Score = 24.6 bits (52),  Expect = 7.6, Method: Compositional matrix adjust.
+ Identities = 13/16 (81%), Positives = 13/16 (81%), Gaps = 0/16 (0%)
+
+Query  1   GSVVIVGRIVLSGKPA  16
+           GSVVIVGRI LSG  A
+Sbjct  29  GSVVIVGRINLSGDTA  44
+
+
+>4NWK_A Crystal structure of hepatis c virus protease (ns3) complexed 
+with bms-605339 aka n-(tert-butoxycarbonyl)-3-me thyl-l-valyl-(4r)-n-((1r,2s)-1-((cyclopropylsulfonyl)carba 
+moyl)-2-vinylcyclopropyl)-4-((6-methoxy-1-isoquinolinyl)ox 
+y)-l-prolinamide 
+[Hepatitis C virus subtype 1a]
+ 4NWL_A Crystal structure of hepatis c virus protease (ns3) complexed 
+with bms-650032 aka n-(tert-butoxycarbonyl)-3-me thyl-l-valyl-(4r)-4-((7-chloro-4-methoxy-1-isoquinolinyl)o 
+xy)-n-((1r,2s)-1-((cyclopropylsulfonyl)carbamoyl)-2-vinylc 
+yclopropyl)-l-prolinamide 
+[Hepatitis C virus subtype 1a]
+ 4NWL_B Crystal structure of hepatis c virus protease (ns3) complexed 
+with bms-650032 aka n-(tert-butoxycarbonyl)-3-me thyl-l-valyl-(4r)-4-((7-chloro-4-methoxy-1-isoquinolinyl)o 
+xy)-n-((1r,2s)-1-((cyclopropylsulfonyl)carbamoyl)-2-vinylc 
+yclopropyl)-l-prolinamide 
+[Hepatitis C virus subtype 1a]
+ 6BQJ_A CRYSTAL STRUCTURE OF HEPATIS C VIRUS PROTEASE (NS3) COMPLEXED 
+WITH TRIPEPTIDIC ACYL SULFONAMIDE INHIBITOR (COMPOUND 16) [Hepacivirus 
+C]
+ 6BQJ_B CRYSTAL STRUCTURE OF HEPATIS C VIRUS PROTEASE (NS3) COMPLEXED 
+WITH TRIPEPTIDIC ACYL SULFONAMIDE INHIBITOR (COMPOUND 16) [Hepacivirus 
+C]
+ 6BQJ_C CRYSTAL STRUCTURE OF HEPATIS C VIRUS PROTEASE (NS3) COMPLEXED 
+WITH TRIPEPTIDIC ACYL SULFONAMIDE INHIBITOR (COMPOUND 16) [Hepacivirus 
+C]
+ 6BQK_A CRYSTAL STRUCTURE OF HEPATIS C VIRUS PROTEASE (NS3) COMPLEXED 
+WITH TRIPEPTIDIC ACYL SULFONAMIDE INHIBITOR (COMPOUND 18) [Hepacivirus 
+C]
+ 6BQK_B CRYSTAL STRUCTURE OF HEPATIS C VIRUS PROTEASE (NS3) COMPLEXED 
+WITH TRIPEPTIDIC ACYL SULFONAMIDE INHIBITOR (COMPOUND 18) [Hepacivirus 
+C]
+ 7D5L_A Discovery of BMS-986144, a Third Generation, Pan Genotype NS3/4A 
+Protease Inhibitor for the Treatment of Hepatitis C Virus 
+Infection [Hepacivirus C]
+ 7D5L_B Discovery of BMS-986144, a Third Generation, Pan Genotype NS3/4A 
+Protease Inhibitor for the Treatment of Hepatitis C Virus 
+Infection [Hepacivirus C]
+ 7D5L_D Discovery of BMS-986144, a Third Generation, Pan Genotype NS3/4A 
+Protease Inhibitor for the Treatment of Hepatitis C Virus 
+Infection [Hepacivirus C]
+ 7D5L_E Discovery of BMS-986144, a Third Generation, Pan Genotype NS3/4A 
+Protease Inhibitor for the Treatment of Hepatitis C Virus 
+Infection [Hepacivirus C]
+Length=219
+
+ Score = 26.2 bits (56),  Expect = 2.5, Method: Compositional matrix adjust.
+ Identities = 14/19 (74%), Positives = 14/19 (74%), Gaps = 0/19 (0%)
+
+Query  33  KPAGSVVIVGRIVLSGKPA  51
+           K  GSVVIVGRI LSG  A
+Sbjct  2   KKKGSVVIVGRINLSGDTA  20
+
+
+ Score = 24.6 bits (52),  Expect = 7.4, Method: Compositional matrix adjust.
+ Identities = 13/16 (81%), Positives = 13/16 (81%), Gaps = 0/16 (0%)
+
+Query  1   GSVVIVGRIVLSGKPA  16
+           GSVVIVGRI LSG  A
+Sbjct  5   GSVVIVGRINLSGDTA  20
+
+
+ Score = 24.6 bits (52),  Expect = 7.4, Method: Compositional matrix adjust.
+ Identities = 13/16 (81%), Positives = 13/16 (81%), Gaps = 0/16 (0%)
+
+Query  20  GSVVIVGRIVLSGKPA  35
+           GSVVIVGRI LSG  A
+Sbjct  5   GSVVIVGRINLSGDTA  20
+
+
+>4B75_A Discovery of an allosteric mechanism for the regulation of HCV 
+NS3 protein function [Hepatitis C virus (isolate BK)]
+ 4B75_B Discovery of an allosteric mechanism for the regulation of HCV 
+NS3 protein function [Hepatitis C virus (isolate BK)]
+Length=666
+
+ Score = 26.2 bits (56),  Expect = 2.6, Method: Compositional matrix adjust.
+ Identities = 13/17 (76%), Positives = 14/17 (82%), Gaps = 0/17 (0%)
+
+Query  32  GKPAGSVVIVGRIVLSG  48
+           G   GSVVIVGRI+LSG
+Sbjct  18  GSHMGSVVIVGRIILSG  34
+
+
+ Score = 25.0 bits (53),  Expect = 5.6, Method: Compositional matrix adjust.
+ Identities = 12/13 (92%), Positives = 13/13 (100%), Gaps = 0/13 (0%)
+
+Query  1   GSVVIVGRIVLSG  13
+           GSVVIVGRI+LSG
+Sbjct  22  GSVVIVGRIILSG  34
+
+
+ Score = 25.0 bits (53),  Expect = 5.6, Method: Compositional matrix adjust.
+ Identities = 12/13 (92%), Positives = 13/13 (100%), Gaps = 0/13 (0%)
+
+Query  20  GSVVIVGRIVLSG  32
+           GSVVIVGRI+LSG
+Sbjct  22  GSVVIVGRIILSG  34
+
+
+>3O8B_A Visualizing ATP-dependent RNA Translocation by the NS3 Helicase 
+from HCV [Hepatitis C virus subtype 1b]
+ 3O8B_B Visualizing ATP-dependent RNA Translocation by the NS3 Helicase 
+from HCV [Hepatitis C virus subtype 1b]
+ 3O8C_A Visualizing ATP-dependent RNA Translocation by the NS3 Helicase 
+from HCV [Hepatitis C virus subtype 1b]
+ 3O8C_B Visualizing ATP-dependent RNA Translocation by the NS3 Helicase 
+from HCV [Hepatitis C virus subtype 1b]
+ 3O8D_A Visualizing ATP-dependent RNA Translocation by the NS3 Helicase 
+from HCV [Hepatitis C virus subtype 1b]
+ 3O8D_B Visualizing ATP-dependent RNA Translocation by the NS3 Helicase 
+from HCV [Hepatitis C virus subtype 1b]
+ 3O8R_A Visualizing ATP-dependent RNA Translocation by the NS3 Helicase 
+from HCV [Hepatitis C virus subtype 1b]
+ 3O8R_B Visualizing ATP-dependent RNA Translocation by the NS3 Helicase 
+from HCV [Hepatitis C virus subtype 1b]
+ 4B71_A Discovery of an allosteric mechanism for the regulation of HCV 
+NS3 protein function [Hepatitis C virus (isolate BK)]
+ 4B71_B Discovery of an allosteric mechanism for the regulation of HCV 
+NS3 protein function [Hepatitis C virus (isolate BK)]
+ 4B73_A Discovery of an allosteric mechanism for the regulation of HCV 
+NS3 protein function [Hepatitis C virus (isolate BK)]
+ 4B73_B Discovery of an allosteric mechanism for the regulation of HCV 
+NS3 protein function [Hepatitis C virus (isolate BK)]
+ 4B74_A Discovery of an allosteric mechanism for the regulation of HCV 
+NS3 protein function [Hepatitis C virus (isolate BK)]
+ 4B74_B Discovery of an allosteric mechanism for the regulation of HCV 
+NS3 protein function [Hepatitis C virus (isolate BK)]
+ 4B76_A Discovery of an allosteric mechanism for the regulation of HCV 
+NS3 protein function [Hepatitis C virus (isolate BK)]
+ 4B76_B Discovery of an allosteric mechanism for the regulation of HCV 
+NS3 protein function [Hepatitis C virus (isolate BK)]
+ 5FPS_A Structure of hepatitis C virus (HCV) full-length NS3 complex 
+with small-molecule ligand 3-aminobenzene-1,2-dicarboxylic acid 
+(AT1246) in an alternate binding site. [Hepatitis C virus 
+(isolate BK)]
+ 5FPS_B Structure of hepatitis C virus (HCV) full-length NS3 complex 
+with small-molecule ligand 3-aminobenzene-1,2-dicarboxylic acid 
+(AT1246) in an alternate binding site. [Hepatitis C virus 
+(isolate BK)]
+ 5FPT_A Structure of hepatitis C virus (HCV) full-length NS3 complex 
+with small-molecule ligand 2-(1-methyl-1H-indol-3-yl)acetic 
+acid (AT3437) in an alternate binding site. [Hepatitis C virus 
+(isolate BK)]
+ 5FPT_B Structure of hepatitis C virus (HCV) full-length NS3 complex 
+with small-molecule ligand 2-(1-methyl-1H-indol-3-yl)acetic 
+acid (AT3437) in an alternate binding site. [Hepatitis C virus 
+(isolate BK)]
+ 5FPY_A Structure of hepatitis C virus (HCV) full-length NS3 complex 
+with small-molecule ligand 5-bromo-1-methyl-1H-indole-2-carboxylic 
+acid (AT21457) in an alternate binding site. [Hepatitis 
+C virus (isolate BK)]
+ 5FPY_B Structure of hepatitis C virus (HCV) full-length NS3 complex 
+with small-molecule ligand 5-bromo-1-methyl-1H-indole-2-carboxylic 
+acid (AT21457) in an alternate binding site. [Hepatitis 
+C virus (isolate BK)]
+Length=666
+
+ Score = 26.2 bits (56),  Expect = 2.6, Method: Compositional matrix adjust.
+ Identities = 13/17 (76%), Positives = 14/17 (82%), Gaps = 0/17 (0%)
+
+Query  32  GKPAGSVVIVGRIVLSG  48
+           G   GSVVIVGRI+LSG
+Sbjct  18  GSHMGSVVIVGRIILSG  34
+
+
+ Score = 25.0 bits (53),  Expect = 5.6, Method: Compositional matrix adjust.
+ Identities = 12/13 (92%), Positives = 13/13 (100%), Gaps = 0/13 (0%)
+
+Query  1   GSVVIVGRIVLSG  13
+           GSVVIVGRI+LSG
+Sbjct  22  GSVVIVGRIILSG  34
+
+
+ Score = 25.0 bits (53),  Expect = 5.6, Method: Compositional matrix adjust.
+ Identities = 12/13 (92%), Positives = 13/13 (100%), Gaps = 0/13 (0%)
+
+Query  20  GSVVIVGRIVLSG  32
+           GSVVIVGRI+LSG
+Sbjct  22  GSVVIVGRIILSG  34
+
+
+>4A92_A Full-length HCV NS3-4A protease-helicase in complex with a macrocyclic 
+protease inhibitor. [Hepacivirus C]
+ 4A92_B Full-length HCV NS3-4A protease-helicase in complex with a macrocyclic 
+protease inhibitor. [Hepacivirus C]
+Length=666
+
+ Score = 26.2 bits (56),  Expect = 2.6, Method: Compositional matrix adjust.
+ Identities = 13/17 (76%), Positives = 14/17 (82%), Gaps = 0/17 (0%)
+
+Query  32  GKPAGSVVIVGRIVLSG  48
+           G   GSVVIVGRI+LSG
+Sbjct  18  GSHMGSVVIVGRIILSG  34
+
+
+ Score = 25.0 bits (53),  Expect = 5.6, Method: Compositional matrix adjust.
+ Identities = 12/13 (92%), Positives = 13/13 (100%), Gaps = 0/13 (0%)
+
+Query  1   GSVVIVGRIVLSG  13
+           GSVVIVGRI+LSG
+Sbjct  22  GSVVIVGRIILSG  34
+
+
+ Score = 25.0 bits (53),  Expect = 5.6, Method: Compositional matrix adjust.
+ Identities = 12/13 (92%), Positives = 13/13 (100%), Gaps = 0/13 (0%)
+
+Query  20  GSVVIVGRIVLSG  32
+           GSVVIVGRI+LSG
+Sbjct  22  GSVVIVGRIILSG  34
+
+
+>6P6Z_A HCV NS3/4A protease domain of genotype 4a with an extended linker 
+in complex with glecaprevir [Hepatitis C virus ED43]
+Length=203
+
+ Score = 25.8 bits (55),  Expect = 2.8, Method: Compositional matrix adjust.
+ Identities = 14/18 (78%), Positives = 15/18 (83%), Gaps = 0/18 (0%)
+
+Query  31  SGKPAGSVVIVGRIVLSG  48
+           S K  GSVVIVGR+VLSG
+Sbjct  3   SMKKKGSVVIVGRVVLSG  20
+
+
+ Score = 24.6 bits (52),  Expect = 8.4, Method: Compositional matrix adjust.
+ Identities = 12/13 (92%), Positives = 13/13 (100%), Gaps = 0/13 (0%)
+
+Query  1   GSVVIVGRIVLSG  13
+           GSVVIVGR+VLSG
+Sbjct  8   GSVVIVGRVVLSG  20
+
+
+ Score = 24.6 bits (52),  Expect = 8.4, Method: Compositional matrix adjust.
+ Identities = 12/13 (92%), Positives = 13/13 (100%), Gaps = 0/13 (0%)
+
+Query  20  GSVVIVGRIVLSG  32
+           GSVVIVGR+VLSG
+Sbjct  8   GSVVIVGRVVLSG  20
+
+
+>4B6E_A Discovery of an allosteric mechanism for the regulation of HCV 
+NS3 protein function [Hepatitis C virus (isolate BK)]
+ 4B6E_B Discovery of an allosteric mechanism for the regulation of HCV 
+NS3 protein function [Hepatitis C virus (isolate BK)]
+ 4B6F_A Discovery of an allosteric mechanism for the regulation of HCV 
+NS3 protein function [Hepatitis C virus (isolate BK)]
+ 4B6F_B Discovery of an allosteric mechanism for the regulation of HCV 
+NS3 protein function [Hepatitis C virus (isolate BK)]
+Length=683
+
+ Score = 25.8 bits (55),  Expect = 2.8, Method: Compositional matrix adjust.
+ Identities = 13/17 (76%), Positives = 14/17 (82%), Gaps = 0/17 (0%)
+
+Query  32  GKPAGSVVIVGRIVLSG  48
+           G   GSVVIVGRI+LSG
+Sbjct  18  GSHMGSVVIVGRIILSG  34
+
+
+ Score = 25.0 bits (53),  Expect = 6.2, Method: Compositional matrix adjust.
+ Identities = 12/13 (92%), Positives = 13/13 (100%), Gaps = 0/13 (0%)
+
+Query  1   GSVVIVGRIVLSG  13
+           GSVVIVGRI+LSG
+Sbjct  22  GSVVIVGRIILSG  34
+
+
+ Score = 25.0 bits (53),  Expect = 6.2, Method: Compositional matrix adjust.
+ Identities = 12/13 (92%), Positives = 13/13 (100%), Gaps = 0/13 (0%)
+
+Query  20  GSVVIVGRIVLSG  32
+           GSVVIVGRI+LSG
+Sbjct  22  GSVVIVGRIILSG  34
+
+
+ Score = 25.0 bits (53),  Expect = 6.2, Method: Compositional matrix adjust.
+ Identities = 12/13 (92%), Positives = 13/13 (100%), Gaps = 0/13 (0%)
+
+Query  1    GSVVIVGRIVLSG  13
+            GSVVIVGRI+LSG
+Sbjct  668  GSVVIVGRIILSG  680
+
+
+ Score = 25.0 bits (53),  Expect = 6.2, Method: Compositional matrix adjust.
+ Identities = 12/13 (92%), Positives = 13/13 (100%), Gaps = 0/13 (0%)
+
+Query  20   GSVVIVGRIVLSG  32
+            GSVVIVGRI+LSG
+Sbjct  668  GSVVIVGRIILSG  680
+
+
+ Score = 25.0 bits (53),  Expect = 6.2, Method: Compositional matrix adjust.
+ Identities = 12/13 (92%), Positives = 13/13 (100%), Gaps = 0/13 (0%)
+
+Query  36   GSVVIVGRIVLSG  48
+            GSVVIVGRI+LSG
+Sbjct  668  GSVVIVGRIILSG  680
+
+
+  Database: PDB protein database
+    Posted date:  Aug 21, 2021  4:52 AM
+  Number of letters in database: 34,897,192
+  Number of sequences in database:  131,049
+
+Lambda      K        H
+   0.318    0.143    0.399 
+Gapped
+Lambda      K        H
+   0.267   0.0410    0.140 
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Number of Sequences: 131049
+Number of Hits to DB: 1826804
+Number of extensions: 60763
+Number of successful extensions: 805
+Number of sequences better than 100: 273
+Number of HSP's better than 100 without gapping: 0
+Number of HSP's gapped: 797
+Number of HSP's successfully gapped: 352
+Length of query: 51
+Length of database: 34897192
+Length adjustment: 24
+Effective length of query: 27
+Effective length of database: 31752016
+Effective search space: 857304432
+Effective search space used: 857304432
+T: 11
+A: 40
+X1: 16 (7.3 bits)
+X2: 38 (14.6 bits)
+X3: 64 (24.7 bits)
+S1: 36 (18.5 bits)
+S2: 48 (23.1 bits)
+ka-blk-alpha gapped: 1.9
+ka-blk-alpha ungapped: 0.7916
+ka-blk-alpha_v gapped: 42.6028
+ka-blk-alpha_v ungapped: 4.96466
+ka-blk-sigma gapped: 43.6362
+
+
+

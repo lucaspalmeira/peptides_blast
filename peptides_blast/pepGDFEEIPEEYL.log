@@ -1,0 +1,645 @@
+<p><!--
+QBlastInfoBegin
+	Status=READY
+QBlastInfoEnd
+--><p>
+<PRE>
+BLASTP 2.12.0+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro
+A. Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and
+David J. Lipman (1997), "Gapped BLAST and PSI-BLAST: a new
+generation of protein database search programs", Nucleic
+Acids Res. 25:3389-3402.
+
+
+Reference for compositional score matrix adjustment: Stephen
+F. Altschul, John C. Wootton, E. Michael Gertz, Richa
+Agarwala, Aleksandr Morgulis, Alejandro A. Schaffer, and
+Yi-Kuo Yu (2005) "Protein database searches using
+compositionally adjusted substitution matrices", FEBS J.
+272:5101-5109.
+
+
+RID: J3FETP5R016
+
+
+Database: PDB protein database
+           131,049 sequences; 34,897,192 total letters
+Query= 
+Length=11
+
+
+                                                                   Score     E     Max
+Sequences producing significant alignments:                       (Bits)  Value  Ident
+
+3HTC_I The Structure Of A Complex Of Recombinant Hirudin And H...  26.6    0.14   100%        
+1HRT_I The Structure Of A Complex Of Bovine Alpha-Thrombin And...  26.2    0.16   100%        
+4HIR_A SOLUTION STRUCTURE OF RECOMBINANT HIRUDIN AND THE LYS-4...  26.2    0.18   100%        
+7A0E_III Chain III, Hirudin variant-1 [Hirudo medicinalis]         26.2    0.18   100%        
+7A0D_III Chain III, Hirudin variant-1 [Hirudo medicinalis]         26.2    0.18   100%        
+7A0F_III Chain III, Hirudin variant-1 [Hirudo medicinalis]         26.2    0.18   100%        
+1A3B_I Complex Of Human Alpha-Thrombin With The Bifunctional B...  25.4    0.21   100%        
+1IHS_I Crystal Structure Of The Complex Of Human Alpha-thrombi...  25.4    0.21   100%        
+1VIT_I Thrombin:hirudin 51-65 Complex [synthetic construct]        25.0    0.24   100%        
+2HGT_J STRUCTURE OF THE HIRUGEN AND HIRULOG 1 COMPLEXES OF ALP...  25.0    0.28   100%        
+1BMM_I Human Alpha-Thrombin Complexed With [s-(R,R)]-4-[(Amino...  25.0    0.28   100%        
+1TMT_J CHANGES IN INTERACTIONS IN COMPLEXES OF HIRUDIN DERIVAT...  25.0    0.29   100%        
+2PW8_I Crystal structure of sulfo-hirudin complexed to thrombi...  23.5    1.9    91%         
+1JWT_A Crystal Structure Of Thrombin In Complex With A Novel B...  23.9    2.0    100%        
+1DWB_I Crystallographic Analysis At 3.0-angstroms Resolution O...  22.7    2.2    100%        
+1W7G_I Alpha-thrombin complex with sulfated hirudin (residues ...  22.7    2.4    100%        
+3QTO_I Thrombin Inhibition by Pyridin Derivatives [Hirudo medi...  22.3    2.8    91%         
+1A2C_I Structure of thrombin inhibited by AERUGINOSIN298-A fro...  22.3    3.0    91%         
+4YES_H Thrombin in complex with (S)-(4-chloro-2-((1-(5-methyl-...  22.3    3.1    91%         
+1BCU_I ALPHA-THROMBIN COMPLEXED WITH HIRUGEN AND PROFLAVIN [Hi...  22.3    3.2    91%         
+4LXB_I Crystal Structure Analysis of thrombin in complex with ...  22.3    3.3    91%         
+2BVS_I Human thrombin complexed with fragment-based small mole...  22.3    3.6    91%         
+1BA8_C Thrombin Inhibitor With A Rigid Tripeptidyl Aldehydes [...  21.9    3.7    91%         
+4BAM_D Thrombin in complex with inhibitor [Hirudo medicinalis]     21.9    3.7    91%         
+3B23_C Crystal structure of thrombin-variegin complex: Insight...  21.2    8.3    90%         
+
+ALIGNMENTS
+>3HTC_I The Structure Of A Complex Of Recombinant Hirudin And Human Alpha-Thrombin 
+[Poecilobdella manillensis]
+ 4HTC_I THE REFINED STRUCTURE OF THE HIRUDIN-THROMBIN COMPLEX [Hirudo 
+medicinalis]
+Length=65
+
+ Score = 26.6 bits (57),  Expect = 0.14, Method: Compositional matrix adjust.
+ Identities = 11/11 (100%), Positives = 11/11 (100%), Gaps = 0/11 (0%)
+
+Query  1   GDFEEIPEEYL  11
+           GDFEEIPEEYL
+Sbjct  54  GDFEEIPEEYL  64
+
+
+>1HRT_I The Structure Of A Complex Of Bovine Alpha-Thrombin And Recombinant 
+Hirudin At 2.8 Angstroms Resolution [Hirudo medicinalis]
+ 2HIR_A SOLUTION STRUCTURE OF RECOMBINANT HIRUDIN AND THE LYS-47 (RIGHT 
+ARROW) GLU MUTANT. A NUCLEAR MAGNETIC RESONANCE AND HYBRID 
+DISTANCE GEOMETRY-DYNAMICAL SIMULATED ANNEALING STUDY [Hirudo 
+medicinalis]
+ 4MLF_D Crystal structure for the complex of thrombin mutant D102N and 
+hirudin [Hirudo medicinalis]
+ 5HIR_A SOLUTION STRUCTURE OF RECOMBINANT HIRUDIN AND THE LYS-47 (RIGHT 
+ARROW) GLU MUTANT. A NUCLEAR MAGNETIC RESONANCE AND HYBRID 
+DISTANCE GEOMETRY-DYNAMICAL SIMULATED ANNEALING STUDY [Hirudo 
+medicinalis]
+Length=65
+
+ Score = 26.2 bits (56),  Expect = 0.16, Method: Compositional matrix adjust.
+ Identities = 11/11 (100%), Positives = 11/11 (100%), Gaps = 0/11 (0%)
+
+Query  1   GDFEEIPEEYL  11
+           GDFEEIPEEYL
+Sbjct  54  GDFEEIPEEYL  64
+
+
+>4HIR_A SOLUTION STRUCTURE OF RECOMBINANT HIRUDIN AND THE LYS-47 (RIGHT 
+ARROW) GLU MUTANT. A NUCLEAR MAGNETIC RESONANCE AND HYBRID 
+DISTANCE GEOMETRY-DYNAMICAL SIMULATED ANNEALING STUDY [Hirudo 
+medicinalis]
+ 6HIR_A SOLUTION STRUCTURE OF RECOMBINANT HIRUDIN AND THE LYS-47 (RIGHT 
+ARROW) GLU MUTANT. A NUCLEAR MAGNETIC RESONANCE AND HYBRID 
+DISTANCE GEOMETRY-DYNAMICAL SIMULATED ANNEALING STUDY [Hirudo 
+medicinalis]
+Length=65
+
+ Score = 26.2 bits (56),  Expect = 0.18, Method: Compositional matrix adjust.
+ Identities = 11/11 (100%), Positives = 11/11 (100%), Gaps = 0/11 (0%)
+
+Query  1   GDFEEIPEEYL  11
+           GDFEEIPEEYL
+Sbjct  54  GDFEEIPEEYL  64
+
+
+>7A0E_III Chain III, Hirudin variant-1 [Hirudo medicinalis]
+Length=65
+
+ Score = 26.2 bits (56),  Expect = 0.18, Method: Compositional matrix adjust.
+ Identities = 11/11 (100%), Positives = 11/11 (100%), Gaps = 0/11 (0%)
+
+Query  1   GDFEEIPEEYL  11
+           GDFEEIPEEYL
+Sbjct  54  GDFEEIPEEYL  64
+
+
+>7A0D_III Chain III, Hirudin variant-1 [Hirudo medicinalis]
+Length=65
+
+ Score = 26.2 bits (56),  Expect = 0.18, Method: Compositional matrix adjust.
+ Identities = 11/11 (100%), Positives = 11/11 (100%), Gaps = 0/11 (0%)
+
+Query  1   GDFEEIPEEYL  11
+           GDFEEIPEEYL
+Sbjct  54  GDFEEIPEEYL  64
+
+
+>7A0F_III Chain III, Hirudin variant-1 [Hirudo medicinalis]
+Length=65
+
+ Score = 26.2 bits (56),  Expect = 0.18, Method: Compositional matrix adjust.
+ Identities = 11/11 (100%), Positives = 11/11 (100%), Gaps = 0/11 (0%)
+
+Query  1   GDFEEIPEEYL  11
+           GDFEEIPEEYL
+Sbjct  54  GDFEEIPEEYL  64
+
+
+>1A3B_I Complex Of Human Alpha-Thrombin With The Bifunctional Boronate 
+Inhibitor Borolog1 [Hirudo medicinalis]
+ 1A3E_I Complex Of Human Alpha-Thrombin With The Bifunctional Boronate 
+Inhibitor Borolog2 [Hirudo medicinalis]
+Length=18
+
+ Score = 25.4 bits (54),  Expect = 0.21, Method: Compositional matrix adjust.
+ Identities = 11/11 (100%), Positives = 11/11 (100%), Gaps = 0/11 (0%)
+
+Query  1   GDFEEIPEEYL  11
+           GDFEEIPEEYL
+Sbjct  8   GDFEEIPEEYL  18
+
+
+>1IHS_I Crystal Structure Of The Complex Of Human Alpha-thrombin And 
+Non- Hydrolyzable Bifunctional Inhibitors, Hirutonin-2 And Hirutonin-6 
+[synthetic construct]
+Length=21
+
+ Score = 25.4 bits (54),  Expect = 0.21, Method: Compositional matrix adjust.
+ Identities = 11/11 (100%), Positives = 11/11 (100%), Gaps = 0/11 (0%)
+
+Query  1   GDFEEIPEEYL  11
+           GDFEEIPEEYL
+Sbjct  10  GDFEEIPEEYL  20
+
+
+>1VIT_I Thrombin:hirudin 51-65 Complex [synthetic construct]
+ 1VIT_J Thrombin:hirudin 51-65 Complex [synthetic construct]
+Length=15
+
+ Score = 25.0 bits (53),  Expect = 0.24, Method: Compositional matrix adjust.
+ Identities = 11/11 (100%), Positives = 11/11 (100%), Gaps = 0/11 (0%)
+
+Query  1   GDFEEIPEEYL  11
+           GDFEEIPEEYL
+Sbjct  4   GDFEEIPEEYL  14
+
+
+>2HGT_J STRUCTURE OF THE HIRUGEN AND HIRULOG 1 COMPLEXES OF ALPHA-THROMBIN 
+[synthetic construct]
+ 3VXE_J Human alpha-thrombin-Bivalirudin complex at PD5.0 [synthetic 
+construct]
+ 3VXF_J X/N Joint refinement of Human alpha-thrombin-Bivalirudin complex 
+PD5 [unidentified]
+Length=17
+
+ Score = 25.0 bits (53),  Expect = 0.28, Method: Compositional matrix adjust.
+ Identities = 11/11 (100%), Positives = 11/11 (100%), Gaps = 0/11 (0%)
+
+Query  1   GDFEEIPEEYL  11
+           GDFEEIPEEYL
+Sbjct  7   GDFEEIPEEYL  17
+
+
+>1BMM_I Human Alpha-Thrombin Complexed With [s-(R,R)]-4-[(Aminoiminomethyl) 
+Amino]-N-[[1-[3-Hydroxy-2-[(2-Naphthalenylsulfonyl)amino]-1- 
+Oxopropyl]-2-Pyrrolidinyl] Methyl]butanamide (Bms-186282) 
+[Hirudo medicinalis]
+ 1BMN_I Human Alpha-Thrombin Complexed With [s-(R,R)]-1-(Aminoiminomethyl)- 
+N-[[1-[n-[(2-Naphthalenylsulfonyl)-L-Seryl]-Pyrrolidinyl]methyl]-3- 
+Piperidenecarboxamide (Bms-189090) [Hirudo medicinalis]
+ 1FPH_I The Interaction Of Thrombin With Fibrinogen: A Structural Basis 
+For Its Specificity [synthetic construct]
+ 1LHC_I Human Alpha-Thrombin Complexed With Ac-(D)phe-Pro-Boroarg-Oh 
+[Hirudo medicinalis]
+ 1LHD_I Human Alpha-thrombin Complexed With Ac-(d)phe-pro-borolys-oh 
+[Hirudo medicinalis]
+ 1LHE_I Human Alpha-Thrombin Complexed With Ac-(D)phe-Pro-Boro-N- Butyl-Amidino-Glycine-Oh 
+[Hirudo medicinalis]
+ 1LHF_I Human Alpha-Thrombin Complexed With Ac-(D)phe-Pro-Boro- Homolys-Oh 
+[Hirudo medicinalis]
+ 1LHG_I Human Alpha-Thrombin Complexed With Ac-(D)phe-Pro- Boroornithine-Oh 
+[Hirudo medicinalis]
+ 4UD9_I Thrombin in complex with 5-chlorothiophene-2-carboxamide [Hirudo 
+medicinalis]
+ 5AFY_I Thrombin in complex with 3-chloro-benzamide [Hirudo medicinalis]
+ 5AFZ_I Thrombin in complex with (2R)-2-(benzylsulfonylamino)-N-(2-((4- 
+carbamimidoylphenyl)methylamino)-2-oxo-propyl)-3-phenyl-propanamide 
+[Hirudo medicinalis]
+Length=12
+
+ Score = 25.0 bits (53),  Expect = 0.28, Method: Compositional matrix adjust.
+ Identities = 11/11 (100%), Positives = 11/11 (100%), Gaps = 0/11 (0%)
+
+Query  1   GDFEEIPEEYL  11
+           GDFEEIPEEYL
+Sbjct  1   GDFEEIPEEYL  11
+
+
+>1TMT_J CHANGES IN INTERACTIONS IN COMPLEXES OF HIRUDIN DERIVATIVES AND 
+HUMAN ALPHA-THROMBIN DUE TO DIFFERENT CRYSTAL FORMS [unidentified]
+Length=18
+
+ Score = 25.0 bits (53),  Expect = 0.29, Method: Compositional matrix adjust.
+ Identities = 11/11 (100%), Positives = 11/11 (100%), Gaps = 0/11 (0%)
+
+Query  1   GDFEEIPEEYL  11
+           GDFEEIPEEYL
+Sbjct  7   GDFEEIPEEYL  17
+
+
+>2PW8_I Crystal structure of sulfo-hirudin complexed to thrombin [Hirudo 
+medicinalis]
+Length=65
+
+ Score = 23.5 bits (49),  Expect = 1.9, Method: Compositional matrix adjust.
+ Identities = 10/11 (91%), Positives = 10/11 (91%), Gaps = 0/11 (0%)
+
+Query  1   GDFEEIPEEYL  11
+           GDFEEIPEE L
+Sbjct  54  GDFEEIPEEXL  64
+
+
+>1JWT_A Crystal Structure Of Thrombin In Complex With A Novel Bicyclic 
+Lactam Inhibitor [Homo sapiens]
+Length=305
+
+ Score = 23.9 bits (50),  Expect = 2.0, Method: Compositional matrix adjust.
+ Identities = 10/10 (100%), Positives = 10/10 (100%), Gaps = 0/10 (0%)
+
+Query  2    DFEEIPEEYL  11
+            DFEEIPEEYL
+Sbjct  296  DFEEIPEEYL  305
+
+
+>1DWB_I Crystallographic Analysis At 3.0-angstroms Resolution Of The 
+Binding To Human Thrombin Of Four Active Site-directed Inhibitors 
+[Hirudo medicinalis]
+ 1DWC_I Crystallographic Analysis At 3.0-Angstroms Resolution Of The 
+Binding To Human Thrombin Of Four Active Site-Directed Inhibitors 
+[Hirudo medicinalis]
+ 1DWD_I Crystallographic Analysis At 3.0-Angstroms Resolution Of The 
+Binding To Human Thrombin Of Four Active Site-Directed Inhibitors 
+[Hirudo medicinalis]
+ 1DWE_I Crystallographic analysis at 3.0-Angstroms resolution of the 
+binding to human thrombin of four active site-directed inhibitors 
+[Hirudo medicinalis]
+ 1VZQ_I Complex of thrombin with designed inhibitor 7165 [Hirudo medicinalis]
+ 2R2M_H 2-(2-Chloro-6-Fluorophenyl)Acetamides as Potent Thrombin Inhibitors 
+[Hirudo medicinalis]
+ 3C27_H Cyanofluorophenylacetamides as Orally Efficacious Thrombin Inhibitors 
+[Hirudo medicinalis]
+ 3LDX_I Discovery and Clinical Evaluation of RWJ-671818, a Thrombin Inhibitor 
+with an Oxyguanidine P1 Motif [Hirudo medicinalis]
+ 4AX9_I Human thrombin complexed with Napsagatran, RO0466240 [Hirudo 
+medicinalis]
+ 4AYV_D Human thrombin - inhibitor complex [Hirudo medicinalis]
+ 4AYY_D Human thrombin - inhibitor complex [Hirudo medicinalis]
+ 4AZ2_D Human thrombin - inhibitor complex [Hirudo medicinalis]
+Length=11
+
+ Score = 22.7 bits (47),  Expect = 2.2, Method: Compositional matrix adjust.
+ Identities = 10/10 (100%), Positives = 10/10 (100%), Gaps = 0/10 (0%)
+
+Query  2   DFEEIPEEYL  11
+           DFEEIPEEYL
+Sbjct  1   DFEEIPEEYL  10
+
+
+>1W7G_I Alpha-thrombin complex with sulfated hirudin (residues 54-65) 
+and L- Arginine template inhibitor CS107 [Hirudo medicinalis]
+Length=12
+
+ Score = 22.7 bits (47),  Expect = 2.4, Method: Compositional matrix adjust.
+ Identities = 10/10 (100%), Positives = 10/10 (100%), Gaps = 0/10 (0%)
+
+Query  2   DFEEIPEEYL  11
+           DFEEIPEEYL
+Sbjct  3   DFEEIPEEYL  12
+
+
+>3QTO_I Thrombin Inhibition by Pyridin Derivatives [Hirudo medicinalis]
+ 3QTV_I Thrombin Inhibition by Pyridin Derivatives [Hirudo medicinalis]
+ 3QWC_I Thrombin Inhibition by Pyridin Derivatives [Hirudo medicinalis]
+ 3QX5_I Thrombin Inhibition by Pyridin Derivatives [Hirudo medicinalis]
+ 3RLW_I Human Thrombin in complex with MI328 [Hirudo medicinalis]
+ 3RLY_I Human Thrombin in complex with MI329 [Hirudo medicinalis]
+ 3RM0_I Human Thrombin in complex with MI354 [Hirudo medicinalis]
+ 3RM2_I Human Thrombin in complex with MI003 [Hirudo medicinalis]
+ 3RML_I Human Thrombin in complex with MI331 [Hirudo medicinalis]
+ 3RMM_I Human Thrombin in complex with MI332 [Hirudo medicinalis]
+ 3RMN_I Human Thrombin in complex with MI341 [Hirudo medicinalis]
+ 3RMO_I Human Thrombin in complex with MI004 [Hirudo medicinalis]
+ 3SHA_I Human Thrombin In Complex With UBTHR97 [Hirudo medicinalis]
+ 3SHC_I Human Thrombin In Complex With UBTHR101 [Hirudo medicinalis]
+ 3SI3_I Human Thrombin In Complex With UBTHR103 [Hirudo medicinalis]
+ 3SI4_I Human Thrombin In Complex With UBTHR104 [Hirudo medicinalis]
+ 3SV2_I Human Thrombin In Complex With UBTHR105 [Hirudo medicinalis]
+ 3T5F_I Human Thrombin In Complex With MI340 [Hirudo medicinalis]
+ 3U98_I Human Thrombin In Complex With MI001 [Hirudo medicinalis]
+ 3U9A_I Human Thrombin In Complex With MI330 [Hirudo medicinalis]
+ 3UWJ_I Human Thrombin In Complex With MI353 [Hirudo medicinalis]
+Length=13
+
+ Score = 22.3 bits (46),  Expect = 2.8, Method: Compositional matrix adjust.
+ Identities = 10/11 (91%), Positives = 10/11 (91%), Gaps = 0/11 (0%)
+
+Query  1   GDFEEIPEEYL  11
+           GDFEEIPEE L
+Sbjct  2   GDFEEIPEEXL  12
+
+
+>1A2C_I Structure of thrombin inhibited by AERUGINOSIN298-A from a BLUE-GREEN 
+ALGA [synthetic construct]
+ 1A46_I Thrombin Complexed With Hirugen And A Beta-Strand Mimetic Inhibitor 
+[Hirudo medicinalis]
+ 1A4W_I Crystal Structures Of Thrombin With Thiazole-Containing Inhibitors: 
+Probes Of The S1' Binding Site [synthetic construct]
+ 1A5G_I Human Thrombin Complexed With Novel Synthetic Peptide Mimetic 
+Inhibitor And Hirugen [Hirudo medicinalis]
+ 1A61_I Thrombin Complexed With A Beta-Mimetic Thiazole-Containing Inhibitor 
+[synthetic construct]
+ 1B5G_I Human Thrombin Complexed With Novel Synthetic Peptide Mimetic 
+Inhibitor And Hirugen [Hirudo medicinalis]
+ 1FPC_I Active Site Mimetic Inhibition Of Thrombin [Hirudo medicinalis]
+ 1K21_I Human Thrombin-Inhibitor Complex [Hirudo medicinalis]
+ 1K22_I Human Thrombin-inhibitor Complex [Hirudo medicinalis]
+ 1NRS_I Crystallographic Structures Of Thrombin Complexed With Thrombin 
+Receptor Peptides: Existence Of Expected And Novel Binding 
+Modes [Hirudo medicinalis]
+ 1TBZ_I Human Thrombin With Active Site N-Methyl-D Phenylalanyl-N-[5- 
+(Aminoiminomethyl)amino]-1-{{benzothiazolyl)carbonyl] Butyl]-L- 
+Prolinamide Trifluroacetate And Exosite-Hirugen [Hirudo 
+medicinalis]
+ 2ZFQ_I Exploring thrombin S3 pocket [Hirudo medicinalis]
+ 2ZFR_I Exploring thrombin S3 pocket [Hirudo medicinalis]
+ 2ZG0_I Exploring thrombin S3 pocket [Hirudo medicinalis]
+ 2ZHE_I Exploring thrombin S3 pocket [Hirudo medicinalis]
+ 2ZHF_I Exploring thrombin S3 pocket [Hirudo medicinalis]
+ 2ZHW_I Exploring thrombin S3 pocket [Hirudo medicinalis]
+ 3BIU_I Human thrombin-in complex with UB-THR10 [Hirudo medicinalis]
+ 3BIV_I Human thrombin-in complex with UB-THR11 [Hirudo medicinalis]
+ 3HAT_I Active Site Mimetic Inhibition Of Thrombin [synthetic construct]
+ 3P17_I Thrombin Inhibition by Pyridin Derivatives [Hirudo medicinalis]
+ 6EO8_I Crystal structure of thrombin in complex with a novel glucose-conjugated 
+potent inhibitor [Hirudo medicinalis]
+ 6EO9_I Crystal structure of thrombin in complex with a novel glucose-conjugated 
+potent inhibitor [Hirudo medicinalis]
+Length=12
+
+ Score = 22.3 bits (46),  Expect = 3.0, Method: Compositional matrix adjust.
+ Identities = 10/11 (91%), Positives = 10/11 (91%), Gaps = 0/11 (0%)
+
+Query  1   GDFEEIPEEYL  11
+           GDFEEIPEE L
+Sbjct  2   GDFEEIPEEXL  12
+
+
+>4YES_H Thrombin in complex with (S)-(4-chloro-2-((1-(5-methyl-1H-pyrrole-2-carbonyl)pyrrolidine-2-carboxamido)methyl)phenyl)methanaminium 
+[Hirudo medicinalis]
+Length=13
+
+ Score = 22.3 bits (46),  Expect = 3.1, Method: Compositional matrix adjust.
+ Identities = 10/11 (91%), Positives = 10/11 (91%), Gaps = 0/11 (0%)
+
+Query  1   GDFEEIPEEYL  11
+           GDFEEIPEE L
+Sbjct  2   GDFEEIPEEXL  12
+
+
+>1BCU_I ALPHA-THROMBIN COMPLEXED WITH HIRUGEN AND PROFLAVIN [Hirudo medicinalis]
+ 1D3D_H Crystal Structure Of Human Alpha Thrombin In Complex With Benzothiophene 
+Inhibitor 4 [Hirudo medicinalis]
+ 1D3P_H Crystal Structure Of Human Aplha-Thrombin In Complex With Benzo[b]thiophene 
+Inhibitor 3 [Hirudo medicinalis]
+ 1D3Q_H Crystal Structure Of Human Alpha Thrombin In Complex With Benzo[b]thiophene 
+Inhibitor 2 [Hirudo medicinalis]
+ 1D3T_H Crystal Structure Of Human Alpha Thrombin In Complex With Benzo[b]thiophene 
+Inhibitor 1 [Hirudo medicinalis]
+ 1D4P_H Chain H, HIRUGEN [Hirudo medicinalis]
+ 1HDT_P Structure Of A Retro-Binding Peptide Inhibitor Complexed With 
+Human Alpha-Thrombin [Hirudo medicinalis]
+ 2C8W_I thrombin inhibitors [Hirudo medicinalis]
+ 2C8X_I thrombin inhibitors [Hirudo medicinalis]
+ 2C8Y_I thrombin inhibitors [Hirudo medicinalis]
+ 2C8Z_I thrombin inhibitors [Hirudo medicinalis]
+ 2C90_I thrombin inhibitors [Hirudo medicinalis]
+ 2C93_I thrombin inhibitors [Hirudo medicinalis]
+ 3TU7_I Human alpha-thrombin complexed with N-(methylsulfonyl)-D-phenylalanyl-N-((1-carbamimidoyl-4-piperidinyl)methyl)-l-prolinamide 
+(BMS-189664) [Hirudo medicinalis]
+ 4UE7_I Thrombin in complex with 1-amidinopiperidine [Hirudo medicinalis]
+ 4UEH_I Thrombin in complex with benzamidine [Hirudo medicinalis]
+ 4UFD_I Thrombin in complex with 4-(((1-((2S)-1-((2R)-2-(benzylsulfonylamino)- 
+3-phenyl-propanoyl)pyrrolidin-2-yl)-1-oxo-ethyl)amino)methyl) 
+benzamidine [Hirudo medicinalis]
+ 4UFE_I Thrombin in complex with (2R)-2-(benzylsulfonylamino)-N-(2-((4- 
+carbamimidoylphenyl)methylamino)-2-oxo-butyl)-3-phenyl-propanamide 
+[Hirudo medicinalis]
+ 4UFF_I Thrombin in complex with (2R)-2-(benzylsulfonylamino)-N-(2-((4- 
+carbamimidoylphenyl)methylamino)-2-oxo-ethyl)-N-methyl-3-phenyl- 
+propanamide [Hirudo medicinalis]
+ 4UFG_I Thrombin in complex with (2R)-2-(benzylsulfonylamino)-N-((1S)-2-((4- 
+carbamimidoylphenyl)methylamino)-1-methyl-2-oxo-ethyl)-N-methyl-3- 
+phenyl-propanamide ethane [Hirudo medicinalis]
+ 5A2M_I Thrombin Inhibitor [Hirudo medicinalis]
+ 5AF9_I Thrombin in complex with 4-Methoxy-N-(2-pyridinyl)benzamide [Hirudo 
+medicinalis]
+ 5AHG_I Thrombin in complex with ((4-chlorophenyl)sulfamoyl))diemethylamine 
+[Hirudo medicinalis]
+ 5JFD_I Thrombin in complex with (S)-N-(2-(aminomethyl)-5-chlorobenzyl)-1-((benzylsulfonyl)-D-arginyl)pyrrolidine-2-carboxamide 
+[Hirudo 
+medicinalis]
+ 5JZY_I Thrombin in complex with (S)-1-((R)-2-amino-3-cyclohexylpropanoyl)-N-(4-carbamimidoylbenzyl)pyrrolidine-2-carboxamide 
+[Hirudo 
+medicinalis]
+ 5LCE_I Thrombin in complex with (S)-1-((R)-2-amino-3-cyclohexylpropanoyl)-N-(5-chloro-2-(hydroxymethyl)benzy 
+l)pyrrolidine-2-carboxamide 
+[Hirudo medicinalis]
+ 5LPD_I Thrombin in complex with (S)-1-((R)-2-amino-3-cyclohexylpropanoyl)-N-(2-(aminomethyl)-5-chlorobenzyl) 
+pyrrolidine-2-carboxamide 
+[Hirudo medicinalis]
+ 5MJT_D Thrombin Mutant A190S in complex with (S) -1 - ((R) -2-amino-3,3-diphenylpropanoyl) 
+-N- (3-chlorobenzyl) pyrrolidine-2-carboxamide 
+[Hirudo medicinalis]
+ 5MLS_D Thrombin Mutant A190S in complex with (S)-1-(D-phenylalanyl)-N-(3-chlorobenzyl)pyrrolidine-2-carboxamide 
+[Hirudo medicinalis]
+ 5MM6_I Thrombin Mutant A190S in complex with (S)-1-(D-phenylalanyl)-N-(4-carbamimidoylbenzyl)pyrrolidine-2-carboxamide 
+[Hirudo medicinalis]
+ 6GBW_I Thrombin in complex with MI2100 ((S)-N-(2-(aminomethyl)-5-chlorobenzyl)-1-((benzylsulfonyl)-L-arginyl)pyrrolidine-2-carboxamide) 
+[Hirudo medicinalis]
+ 6I51_I Chain I, Hirudin variant-2 [Hirudo medicinalis]
+ 6ROT_A Thrombin in complex with MI2105 [Hirudo medicinalis]
+ 6T89_I Thrombin in complex with (S)-N-(tert-butyl)-4-(3-(3-carbamimidoylphenyl)-2-((2',4'-dimethoxy-[1,1'-biphenyl])-3-sulfonamido)propanoyl)piperazine-1-carboxamide 
+(MI-498) [Hirudo medicinalis]
+ 6Y02_C Chain C, Hirudin variant-2 [Hirudo medicinalis]
+ 6Y9H_I Chain I, Hirudin variant-2 [Hirudo medicinalis]
+ 6YB6_I Chain I, Hirudin variant-2 [Hirudo medicinalis]
+ 6YHG_I Chain I, Hirudin variant-2 [Hirudo medicinalis]
+ 6YHJ_I Chain I, Hirudin variant-2 [Hirudo medicinalis]
+ 6YMP_I Chain I, Hirudin variant-2 [Hirudo medicinalis]
+ 6YN3_I Chain I, Hirudin variant-2 [Hirudo medicinalis]
+ 6YQV_I Chain I, Hirudin variant-2 [Hirudo medicinalis]
+ 6YSJ_I Chain I, Hirudin variant-2 [Hirudo medicinalis]
+ 6YSX_I Chain I, Hirudin variant-2 [Hirudo medicinalis]
+ 6ZGO_I Chain I, Hirudin variant-2 [Hirudo medicinalis]
+Length=12
+
+ Score = 22.3 bits (46),  Expect = 3.2, Method: Compositional matrix adjust.
+ Identities = 10/11 (91%), Positives = 10/11 (91%), Gaps = 0/11 (0%)
+
+Query  1   GDFEEIPEEYL  11
+           GDFEEIPEE L
+Sbjct  1   GDFEEIPEEXL  11
+
+
+>4LXB_I Crystal Structure Analysis of thrombin in complex with compound 
+D58 [Hirudo medicinalis]
+Length=13
+
+ Score = 22.3 bits (46),  Expect = 3.3, Method: Compositional matrix adjust.
+ Identities = 10/11 (91%), Positives = 10/11 (91%), Gaps = 0/11 (0%)
+
+Query  1   GDFEEIPEEYL  11
+           GDFEEIPEE L
+Sbjct  2   GDFEEIPEEXL  12
+
+
+>2BVS_I Human thrombin complexed with fragment-based small molecules 
+occupying the S1 pocket [Hirudo medicinalis]
+ 2BVX_I Design and Discovery of Novel, Potent Thrombin Inhibitors with 
+a Solubilizing Cationic P1-P2-Linker [Hirudo medicinalis]
+ 2BXT_I Design and Discovery of Novel, Potent Thrombin Inhibitors with 
+a Solubilizing Cationic P1-P2-Linker [Hirudo medicinalis]
+ 2BXU_I Design and Discovery of Novel, Potent Thrombin Inhibitors with 
+a Solubilizing Cationic P1-P2-Linker [Hirudo medicinalis]
+ 2ZC9_I Thrombin in complex with Inhibitor [Hirudo medicinalis]
+ 2ZDA_I Exploring Thrombin S1 pocket [Hirudo medicinalis]
+ 2ZDV_I Exploring Thrombin S1 pocket [Hirudo medicinalis]
+ 2ZF0_I Exploring Thrombin S1 Pocket [Hirudo medicinalis]
+ 2ZFF_I Exploring Thrombin S1-pocket [synthetic construct]
+ 2ZFP_I Thrombin Inibition [synthetic construct]
+ 2ZGB_I Thrombin Inhibition [Hirudo medicinalis]
+ 2ZGX_I Thrombin Inhibition [Hirudo medicinalis]
+ 2ZHQ_I Thrombin Inhibition [Hirudo medicinalis]
+ 2ZI2_I Thrombin Inhibition [Hirudo medicinalis]
+ 2ZIQ_I Thrombin Inhibition [Hirudo medicinalis]
+ 2ZNK_I Thrombin Inhibition [Hirudo medicinalis]
+ 2ZO3_I Bisphenylic Thrombin Inhibitors [Hirudo medicinalis]
+ 3D49_I Thrombin Inhibition [Hirudo medicinalis]
+ 3DHK_I Bisphenylic Thrombin Inhibitors [synthetic construct]
+ 3DT0_I Understanding Thrombin Inhibition [Hirudo medicinalis]
+ 3DUX_I Understanding Thrombin Inhibition [Hirudo medicinalis]
+ 3EGK_I KNOBLE Inhibitor [synthetic construct]
+ 3EQ0_I Thrombin Inhibitor [Hirudo medicinalis]
+ 3F68_I Thrombin Inhibition [Hirudo medicinalis]
+ 3UTU_I High affinity inhibitor of human thrombin [Hirudo medicinalis]
+ 6ZUG_I Crystal Structure of Thrombin in complex with compound10 [Hirudo 
+medicinalis]
+ 6ZUH_I Crystal Structure of Thrombin in complex with compound17 [Hirudo 
+medicinalis]
+ 6ZUN_I Crystal Structure of Thrombin in complex with compound20a [Hirudo 
+medicinalis]
+ 6ZUU_I Crystal structure of Thrombin in complex with compound30 [Hirudo 
+medicinalis]
+ 6ZUW_I Crystal Structure of Thrombin in complex with compound40 [Hirudo 
+medicinalis]
+ 6ZUX_I Crystal Structure of Thrombin in complex with compound42a [Hirudo 
+medicinalis]
+ 6ZV7_I Crystal Structure of Thrombin in complex with compound42b [Hirudo 
+medicinalis]
+ 6ZV8_I Crystal Structure of Thrombin in complex with compound51 [Hirudo 
+medicinalis]
+Length=11
+
+ Score = 22.3 bits (46),  Expect = 3.6, Method: Compositional matrix adjust.
+ Identities = 10/11 (91%), Positives = 10/11 (91%), Gaps = 0/11 (0%)
+
+Query  1   GDFEEIPEEYL  11
+           GDFEEIPEE L
+Sbjct  1   GDFEEIPEEXL  11
+
+
+>1BA8_C Thrombin Inhibitor With A Rigid Tripeptidyl Aldehydes [Hirudo 
+medicinalis]
+ 1BB0_C Thrombin Inhibitors With Rigid Tripeptidyl Aldehydes [Hirudo 
+medicinalis]
+ 1CA8_C Thrombin inhibitors with rigid tripeptidyl aldehydes [Hirudo 
+medicinalis]
+Length=13
+
+ Score = 21.9 bits (45),  Expect = 3.7, Method: Compositional matrix adjust.
+ Identities = 10/11 (91%), Positives = 10/11 (91%), Gaps = 0/11 (0%)
+
+Query  1   GDFEEIPEEYL  11
+           GDFEEIPEE L
+Sbjct  3   GDFEEIPEEXL  13
+
+
+>4BAM_D Thrombin in complex with inhibitor [Hirudo medicinalis]
+ 4BAN_D Thrombin in complex with inhibitor [Hirudo medicinalis]
+ 4BAQ_D Thrombin in complex with inhibitor [Hirudo medicinalis]
+Length=12
+
+ Score = 21.9 bits (45),  Expect = 3.7, Method: Compositional matrix adjust.
+ Identities = 10/11 (91%), Positives = 10/11 (91%), Gaps = 0/11 (0%)
+
+Query  1   GDFEEIPEEYL  11
+           GDFEEIPEE L
+Sbjct  2   GDFEEIPEEXL  12
+
+
+>3B23_C Crystal structure of thrombin-variegin complex: Insights of a 
+novel mechanism of inhibition and design of tunable thrombin 
+inhibitors [Amblyomma variegatum]
+Length=32
+
+ Score = 21.2 bits (43),  Expect = 8.3, Method: Compositional matrix adjust.
+ Identities = 9/10 (90%), Positives = 9/10 (90%), Gaps = 0/10 (0%)
+
+Query  2   DFEEIPEEYL  11
+           DFE IPEEYL
+Sbjct  19  DFEAIPEEYL  28
+
+
+  Database: PDB protein database
+    Posted date:  Aug 17, 2021  4:30 AM
+  Number of letters in database: 34,897,192
+  Number of sequences in database:  131,049
+
+Lambda      K        H
+   0.310    0.148    0.430 
+Gapped
+Lambda      K        H
+   0.267   0.0410    0.140 
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Number of Sequences: 131049
+Number of Hits to DB: 498768
+Number of extensions: 2906
+Number of successful extensions: 249
+Number of sequences better than 100: 124
+Number of HSP's better than 100 without gapping: 0
+Number of HSP's gapped: 249
+Number of HSP's successfully gapped: 124
+Length of query: 11
+Length of database: 34897192
+Length adjustment: 0
+Effective length of query: 11
+Effective length of database: 34897192
+Effective search space: 383869112
+Effective search space used: 383869112
+T: 11
+A: 40
+X1: 16 (7.1 bits)
+X2: 38 (14.6 bits)
+X3: 64 (24.7 bits)
+S1: 30 (16.2 bits)
+S2: 45 (21.9 bits)
+ka-blk-alpha gapped: 1.9
+ka-blk-alpha ungapped: 0.7916
+ka-blk-alpha_v gapped: 42.6028
+ka-blk-alpha_v ungapped: 4.96466
+ka-blk-sigma gapped: 43.6362
+
+
+
